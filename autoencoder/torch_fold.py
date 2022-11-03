@@ -114,7 +114,7 @@ class Fold(object):
         if args not in self.cached_nodes[op]:
             step = max([0] + [arg.step + 1 for arg in args 
                               if isinstance(arg, Fold.Node)])
-            node = Fold.Node(op, step, len(self.steps[step][op]), *args) #en(self.steps[step][op] es index, cuenta los nodos por nivel
+            node = Fold.Node(op, step, len(self.steps[step][op]), *args) #len(self.steps[step][op] es index, cuenta los nodos por nivel
             #arg a veces son solo los features del nodo, a veces tiene info de los hijos tambien
             #print("node", node)
             self.steps[step][op].append(args)

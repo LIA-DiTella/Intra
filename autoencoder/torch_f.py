@@ -14,7 +14,7 @@ class Fold(object):
             self.batch = True
 
         
-        def split(self, num):
+        def split(self, num): ##lo uso cuando la red da mas de un tensor como output
             u"""Split resulting node, if function returns multiple values."""
             nodes = []
             for idx in range(num):
@@ -59,11 +59,18 @@ class Fold(object):
 
         self.total_nodes += 1
         # si el nodo no fue visitado antes 
+        
         if args not in self.cached_nodes[op]:
-            step = max([0] + [arg.step + 1 for arg in args if isinstance(arg, Fold.Node)])
-            node = Fold.Node(op, step, len(self.steps[step][op]), *args)
+            
+            #arg a veces son solo los features del nodo, a veces tiene info de los hijos tambien
+            step = max([0] + [arg.step + 1 for arg in args if isinstance(arg, Fold.Node)]) #step es nivel
+            node = Fold.Node(op, step, len(self.steps[step][op]), *args)#voy creando nodos fold y agregndolos a cached nodes
+            #len(self.steps[step][op] es index, cuenta los nodos por nivel
+            #en steps guardo los nodos, por "step"=nivel, y operacion
+        
             self.steps[step][op].append(args)
             self.cached_nodes[op][args] = node
+            #print("step op", self.steps[step][op])
         return self.cached_nodes[op][args]
 
 
@@ -72,11 +79,17 @@ class Fold(object):
         for arg in arg_lists:
             r = []
             #si es un nodo de fold
+            #si viene un "nodo" fold, obtengo todos los argumentos que tiene ese nodo y los concateno en un solo vector
+            #print("op", op)
             if isinstance(arg[0], Fold.Node):
+                #print("if")
                 if arg[0].batch:
                     for x in arg:
                         r.append(x.get(values))
+                    #print("r sin stack", r)
+                    #print("r con stack", torch.stack(r))
                     res.append(torch.stack(r))
+                    
                 
                 #nunca uso este caso
                 '''
@@ -88,21 +101,28 @@ class Fold(object):
                     res.append(x.get(values))
                     '''
             else:           
+                #print("else")
                 #si es un tensor de atributos     
                 if isinstance(arg[0], torch.Tensor):  
+         
                     var = torch.stack(arg)
                     res.append(var)
                 
                 #si es un nodo de arbol
                 else:
+                 
                     if op != "classifyLossEstimator" and op != "calcularLossAtributo": #en caso de que op sea alguna red
                         var = arg[0].radius
                     elif op == "calcularLossAtributo": #en caso de estar calculano mse
-                        var = [a.radius for a in arg]
+                        var = [(a.radius, a.childs()) for a in arg]
+                        #var.append([a.childs() for a in arg])
+                        #print("var", var)
                     else:
                         var = [a.childs() for a in arg] #en caso de estar calculando cross entropy
                     res.append(var)
-                  
+                
+            #print("res", res)
+
         return res
 
     def apply(self, nn, nodes):
@@ -112,6 +132,7 @@ class Fold(object):
             
             values[step] = {}
             for op in self.steps[step]:
+                
                 func = getattr(nn, op)
                 ##junto los atributos de los nodos que estan en el mismo step y op
                 try:                    
@@ -120,8 +141,11 @@ class Fold(object):
                 except Exception:
                     print("Error while executing node %s[%d] with args: %s" % (op, step, self.steps[step][op]))
                     raise
-
+                #print("batched args", batched_args)
+                #print("len", len (batched_args))
+                
                 res = func(*batched_args)
+                
                 
                 if isinstance(res, (tuple, list)):
                     values[step][op] = []
