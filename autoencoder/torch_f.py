@@ -16,20 +16,33 @@ class Fold(object):
         
         def split(self, num): ##lo uso cuando la red da mas de un tensor como output
             u"""Split resulting node, if function returns multiple values."""
+            #print("op", self.op)
+            #print("step", self.step)
+            #print("arg", self.args)
+
             nodes = []
             for idx in range(num):
                 nodes.append(Fold.Node(
                     self.op, self.step, self.index, *self.args))
                 nodes[-1].split_idx = idx
+                #print("idx", idx)
+                #print("nodes", nodes)
+                #print("nodes", nodes[-1].split_idx)
             return tuple(nodes)
             
 
         def nobatch(self):
             self.batch = False
             return self
+            
 
         def get(self, values):
+            
             if self.split_idx >= 0:
+                #print("split index", self.split_idx)
+                #print("v0",values[self.step][self.op])
+                #print("v1",values[self.step][self.op][self.split_idx])
+                #print("v2",values[self.step][self.op][self.split_idx][self.index])
                 return values[self.step][self.op][self.split_idx][self.index]
             else:
                 return values[self.step][self.op][self.index]
@@ -59,9 +72,9 @@ class Fold(object):
 
         self.total_nodes += 1
         # si el nodo no fue visitado antes 
-        
+
         if args not in self.cached_nodes[op]:
-            
+  
             #arg a veces son solo los features del nodo, a veces tiene info de los hijos tambien
             step = max([0] + [arg.step + 1 for arg in args if isinstance(arg, Fold.Node)]) #step es nivel
             node = Fold.Node(op, step, len(self.steps[step][op]), *args)#voy creando nodos fold y agregndolos a cached nodes
@@ -70,25 +83,31 @@ class Fold(object):
         
             self.steps[step][op].append(args)
             self.cached_nodes[op][args] = node
-            #print("step op", self.steps[step][op])
+       
         return self.cached_nodes[op][args]
 
 
     def _batch_args(self, arg_lists, values, op):
         res = []
         for arg in arg_lists:
+            #print("arg apply", arg)
             r = []
             #si es un nodo de fold
             #si viene un "nodo" fold, obtengo todos los argumentos que tiene ese nodo y los concateno en un solo vector
             #print("op", op)
             if isinstance(arg[0], Fold.Node):
+                
+                    
                 #print("if")
                 if arg[0].batch:
                     for x in arg:
+                        #print("x", x)
                         r.append(x.get(values))
                     #print("r sin stack", r)
                     #print("r con stack", torch.stack(r))
                     res.append(torch.stack(r))
+                #if op == 'nodeClassifier':
+                #    print("r", r)
                     
                 
                 #nunca uso este caso
@@ -141,11 +160,11 @@ class Fold(object):
                 except Exception:
                     print("Error while executing node %s[%d] with args: %s" % (op, step, self.steps[step][op]))
                     raise
-                #print("batched args", batched_args)
-                #print("len", len (batched_args))
+               
                 
                 res = func(*batched_args)
-                
+                #if op == 'bifurcationDecoder':
+                #    print("res", res)
                 
                 if isinstance(res, (tuple, list)):
                     values[step][op] = []
