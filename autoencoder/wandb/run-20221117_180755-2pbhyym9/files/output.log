@@ -1,0 +1,601 @@
+Epoch [1 / 6000] average reconstruction error: 2.56626511
+Epoch [11 / 6000] average reconstruction error: 2.03430939
+Epoch [21 / 6000] average reconstruction error: 1.51985264
+Epoch [31 / 6000] average reconstruction error: 0.97397745
+Epoch [41 / 6000] average reconstruction error: 0.73367655
+Epoch [51 / 6000] average reconstruction error: 0.69390661
+Epoch [61 / 6000] average reconstruction error: 0.69514638
+Epoch [71 / 6000] average reconstruction error: 0.68335629
+Epoch [81 / 6000] average reconstruction error: 0.67902386
+Epoch [91 / 6000] average reconstruction error: 0.67576295
+Epoch [101 / 6000] average reconstruction error: 0.67237234
+Epoch [111 / 6000] average reconstruction error: 0.66870368
+Epoch [121 / 6000] average reconstruction error: 0.66461116
+Epoch [131 / 6000] average reconstruction error: 0.65969408
+Epoch [141 / 6000] average reconstruction error: 0.65348977
+Epoch [151 / 6000] average reconstruction error: 0.64505309
+Epoch [161 / 6000] average reconstruction error: 0.63214231
+Epoch [171 / 6000] average reconstruction error: 0.60659420
+Epoch [181 / 6000] average reconstruction error: 0.52221310
+Epoch [191 / 6000] average reconstruction error: 0.28860229
+Epoch [201 / 6000] average reconstruction error: 0.18728292
+Epoch [211 / 6000] average reconstruction error: 0.16896853
+Epoch [221 / 6000] average reconstruction error: 0.15420695
+Epoch [231 / 6000] average reconstruction error: 0.14719431
+Epoch [241 / 6000] average reconstruction error: 0.14125323
+Epoch [251 / 6000] average reconstruction error: 0.13541001
+Epoch [261 / 6000] average reconstruction error: 0.12825952
+Epoch [271 / 6000] average reconstruction error: 0.11827934
+Epoch [281 / 6000] average reconstruction error: 0.10348326
+Epoch [291 / 6000] average reconstruction error: 0.11346557
+Epoch [301 / 6000] average reconstruction error: 0.09028009
+Epoch [311 / 6000] average reconstruction error: 0.07817556
+Epoch [321 / 6000] average reconstruction error: 0.06897093
+Epoch [331 / 6000] average reconstruction error: 0.06144723
+Epoch [341 / 6000] average reconstruction error: 0.05590260
+Epoch [351 / 6000] average reconstruction error: 0.05151442
+Epoch [361 / 6000] average reconstruction error: 0.04821075
+Epoch [371 / 6000] average reconstruction error: 0.04545391
+Epoch [381 / 6000] average reconstruction error: 0.04299128
+Epoch [391 / 6000] average reconstruction error: 0.04059006
+Epoch [401 / 6000] average reconstruction error: 0.03828223
+Epoch [411 / 6000] average reconstruction error: 0.03568444
+Epoch [421 / 6000] average reconstruction error: 0.03313321
+Epoch [431 / 6000] average reconstruction error: 0.03350887
+Epoch [441 / 6000] average reconstruction error: 0.02807006
+Epoch [451 / 6000] average reconstruction error: 0.02560568
+Epoch [461 / 6000] average reconstruction error: 0.02324351
+Epoch [471 / 6000] average reconstruction error: 0.02095639
+Epoch [481 / 6000] average reconstruction error: 0.01899643
+Epoch [491 / 6000] average reconstruction error: 0.01784649
+Epoch [501 / 6000] average reconstruction error: 0.01619781
+Epoch [511 / 6000] average reconstruction error: 0.01505446
+Epoch [521 / 6000] average reconstruction error: 0.01637737
+Epoch [531 / 6000] average reconstruction error: 0.01440181
+Epoch [541 / 6000] average reconstruction error: 0.01349400
+Epoch [551 / 6000] average reconstruction error: 0.01290938
+Epoch [561 / 6000] average reconstruction error: 0.01259323
+Epoch [571 / 6000] average reconstruction error: 0.01231689
+Epoch [581 / 6000] average reconstruction error: 0.01206307
+Epoch [591 / 6000] average reconstruction error: 0.01184210
+Epoch [601 / 6000] average reconstruction error: 0.01163500
+Epoch [611 / 6000] average reconstruction error: 0.01144276
+Epoch [621 / 6000] average reconstruction error: 0.01126299
+Epoch [631 / 6000] average reconstruction error: 0.01166606
+Epoch [641 / 6000] average reconstruction error: 0.01112093
+Epoch [651 / 6000] average reconstruction error: 0.01406274
+Epoch [661 / 6000] average reconstruction error: 0.01094800
+Epoch [671 / 6000] average reconstruction error: 0.01070310
+Epoch [681 / 6000] average reconstruction error: 0.01054678
+Epoch [691 / 6000] average reconstruction error: 0.01038653
+Epoch [701 / 6000] average reconstruction error: 0.01024532
+Epoch [711 / 6000] average reconstruction error: 0.01009883
+Epoch [721 / 6000] average reconstruction error: 0.00997800
+Epoch [731 / 6000] average reconstruction error: 0.00986691
+Epoch [741 / 6000] average reconstruction error: 0.00976407
+Epoch [751 / 6000] average reconstruction error: 0.00965812
+Epoch [761 / 6000] average reconstruction error: 0.00955907
+Epoch [771 / 6000] average reconstruction error: 0.00946025
+Epoch [781 / 6000] average reconstruction error: 0.00936028
+Epoch [791 / 6000] average reconstruction error: 0.00926605
+Epoch [801 / 6000] average reconstruction error: 0.00917769
+Epoch [811 / 6000] average reconstruction error: 0.00908615
+Epoch [821 / 6000] average reconstruction error: 0.00900354
+Epoch [831 / 6000] average reconstruction error: 0.00891541
+Epoch [841 / 6000] average reconstruction error: 0.00929192
+Epoch [851 / 6000] average reconstruction error: 0.00883739
+Epoch [861 / 6000] average reconstruction error: 0.00879785
+Epoch [871 / 6000] average reconstruction error: 0.00863019
+Epoch [881 / 6000] average reconstruction error: 0.00886395
+Epoch [891 / 6000] average reconstruction error: 0.00848564
+Epoch [901 / 6000] average reconstruction error: 0.00853738
+Epoch [911 / 6000] average reconstruction error: 0.00832962
+Epoch [921 / 6000] average reconstruction error: 0.00826265
+Epoch [931 / 6000] average reconstruction error: 0.00848708
+Epoch [941 / 6000] average reconstruction error: 0.00897828
+Epoch [951 / 6000] average reconstruction error: 0.00849482
+Epoch [961 / 6000] average reconstruction error: 0.00803249
+Epoch [971 / 6000] average reconstruction error: 0.00806331
+Epoch [981 / 6000] average reconstruction error: 0.00817992
+Epoch [991 / 6000] average reconstruction error: 0.00821966
+Epoch [1001 / 6000] average reconstruction error: 0.00836019
+Epoch [1011 / 6000] average reconstruction error: 0.00816842
+Epoch [1021 / 6000] average reconstruction error: 0.00866999
+Epoch [1031 / 6000] average reconstruction error: 0.00765240
+Epoch [1041 / 6000] average reconstruction error: 0.00767770
+Epoch [1051 / 6000] average reconstruction error: 0.00779360
+Epoch [1061 / 6000] average reconstruction error: 0.00756187
+Epoch [1071 / 6000] average reconstruction error: 0.00741649
+Epoch [1081 / 6000] average reconstruction error: 0.00911934
+Epoch [1091 / 6000] average reconstruction error: 0.00737220
+Epoch [1101 / 6000] average reconstruction error: 0.00744971
+Epoch [1111 / 6000] average reconstruction error: 0.00736788
+Epoch [1121 / 6000] average reconstruction error: 0.00717483
+Epoch [1131 / 6000] average reconstruction error: 0.00725578
+Epoch [1141 / 6000] average reconstruction error: 0.00705566
+Epoch [1151 / 6000] average reconstruction error: 0.00728551
+Epoch [1161 / 6000] average reconstruction error: 0.00719921
+Epoch [1171 / 6000] average reconstruction error: 0.00784701
+Epoch [1181 / 6000] average reconstruction error: 0.00706908
+Epoch [1191 / 6000] average reconstruction error: 0.00703052
+Epoch [1201 / 6000] average reconstruction error: 0.00685975
+Epoch [1211 / 6000] average reconstruction error: 0.00717807
+Epoch [1221 / 6000] average reconstruction error: 0.00695638
+Epoch [1231 / 6000] average reconstruction error: 0.00675811
+Epoch [1241 / 6000] average reconstruction error: 0.00671243
+Epoch [1251 / 6000] average reconstruction error: 0.00657365
+Epoch [1261 / 6000] average reconstruction error: 0.00867443
+Epoch [1271 / 6000] average reconstruction error: 0.00749307
+Epoch [1281 / 6000] average reconstruction error: 0.00700260
+Epoch [1291 / 6000] average reconstruction error: 0.00702229
+Epoch [1301 / 6000] average reconstruction error: 0.00643060
+Epoch [1311 / 6000] average reconstruction error: 0.00683816
+Epoch [1321 / 6000] average reconstruction error: 0.00650367
+Epoch [1331 / 6000] average reconstruction error: 0.00642314
+Epoch [1341 / 6000] average reconstruction error: 0.00644144
+Epoch [1351 / 6000] average reconstruction error: 0.00650513
+Epoch [1361 / 6000] average reconstruction error: 0.00615475
+Epoch [1371 / 6000] average reconstruction error: 0.00632113
+Epoch [1381 / 6000] average reconstruction error: 0.00606879
+Epoch [1391 / 6000] average reconstruction error: 0.00606048
+Epoch [1401 / 6000] average reconstruction error: 0.00956912
+Epoch [1411 / 6000] average reconstruction error: 0.00921569
+Epoch [1421 / 6000] average reconstruction error: 0.00725281
+Epoch [1431 / 6000] average reconstruction error: 0.00695056
+Epoch [1441 / 6000] average reconstruction error: 0.00611252
+Epoch [1451 / 6000] average reconstruction error: 0.00590416
+Epoch [1461 / 6000] average reconstruction error: 0.00580425
+Epoch [1471 / 6000] average reconstruction error: 0.00576358
+Epoch [1481 / 6000] average reconstruction error: 0.00578660
+Epoch [1491 / 6000] average reconstruction error: 0.00625608
+Epoch [1501 / 6000] average reconstruction error: 0.00577237
+Epoch [1511 / 6000] average reconstruction error: 0.00575661
+Epoch [1521 / 6000] average reconstruction error: 0.00588146
+Epoch [1531 / 6000] average reconstruction error: 0.00555106
+Epoch [1541 / 6000] average reconstruction error: 0.00571671
+Epoch [1551 / 6000] average reconstruction error: 0.00602221
+Epoch [1561 / 6000] average reconstruction error: 0.00554460
+Epoch [1571 / 6000] average reconstruction error: 0.00542193
+Epoch [1581 / 6000] average reconstruction error: 0.00557596
+Epoch [1591 / 6000] average reconstruction error: 0.00699813
+Epoch [1601 / 6000] average reconstruction error: 0.00546457
+Epoch [1611 / 6000] average reconstruction error: 0.00616214
+Epoch [1621 / 6000] average reconstruction error: 0.00580010
+Epoch [1631 / 6000] average reconstruction error: 0.00538370
+Epoch [1641 / 6000] average reconstruction error: 0.00530734
+Epoch [1651 / 6000] average reconstruction error: 0.00521561
+Epoch [1661 / 6000] average reconstruction error: 0.00527417
+Epoch [1671 / 6000] average reconstruction error: 0.00543381
+Epoch [1681 / 6000] average reconstruction error: 0.00705672
+Epoch [1691 / 6000] average reconstruction error: 0.00523112
+Epoch [1701 / 6000] average reconstruction error: 0.00583154
+Epoch [1711 / 6000] average reconstruction error: 0.00594349
+Epoch [1721 / 6000] average reconstruction error: 0.00667281
+Epoch [1731 / 6000] average reconstruction error: 0.00695417
+Epoch [1741 / 6000] average reconstruction error: 0.00575048
+Epoch [1751 / 6000] average reconstruction error: 0.00532798
+Epoch [1761 / 6000] average reconstruction error: 0.00510300
+Epoch [1771 / 6000] average reconstruction error: 0.00499294
+Epoch [1781 / 6000] average reconstruction error: 0.00502859
+Epoch [1791 / 6000] average reconstruction error: 0.00493522
+Epoch [1801 / 6000] average reconstruction error: 0.00578187
+Epoch [1811 / 6000] average reconstruction error: 0.00489457
+Epoch [1821 / 6000] average reconstruction error: 0.00473736
+Epoch [1831 / 6000] average reconstruction error: 0.00484667
+Epoch [1841 / 6000] average reconstruction error: 0.00524513
+Epoch [1851 / 6000] average reconstruction error: 0.00470856
+Epoch [1861 / 6000] average reconstruction error: 0.00497203
+Epoch [1871 / 6000] average reconstruction error: 0.00484675
+Epoch [1881 / 6000] average reconstruction error: 0.00504680
+Epoch [1891 / 6000] average reconstruction error: 0.00455802
+Epoch [1901 / 6000] average reconstruction error: 0.00558555
+Epoch [1911 / 6000] average reconstruction error: 0.00494439
+Epoch [1921 / 6000] average reconstruction error: 0.00467956
+Epoch [1931 / 6000] average reconstruction error: 0.00461667
+Epoch [1941 / 6000] average reconstruction error: 0.00457519
+Epoch [1951 / 6000] average reconstruction error: 0.00444478
+Epoch [1961 / 6000] average reconstruction error: 0.00440481
+Epoch [1971 / 6000] average reconstruction error: 0.00831754
+Epoch [1981 / 6000] average reconstruction error: 0.00466836
+Epoch [1991 / 6000] average reconstruction error: 0.00475227
+Epoch [2001 / 6000] average reconstruction error: 0.00491886
+Epoch [2011 / 6000] average reconstruction error: 0.00441566
+Epoch [2021 / 6000] average reconstruction error: 0.00436328
+Epoch [2031 / 6000] average reconstruction error: 0.00432784
+epoch 2038
+0 tensor([[0.0634, 0.7285, 0.3215, 0.0282]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+1 tensor([[0.2109, 0.6542, 0.3689, 0.1998]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+2 tensor([[0.2564, 0.6333, 0.3377, 0.2147]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+3 tensor([[0.3407, 0.6620, 0.3227, 0.2852]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+4 tensor([[0.3836, 0.6828, 0.3292, 0.3032]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+5 tensor([[0.4178, 0.6930, 0.3328, 0.3029]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+6 tensor([[0.4492, 0.6987, 0.3332, 0.2966]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+7 tensor([[0.4816, 0.7032, 0.3314, 0.2889]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+8 tensor([[0.5166, 0.7086, 0.3283, 0.2823]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+9 tensor([[0.5544, 0.7156, 0.3243, 0.2778]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+10 tensor([[0.5954, 0.7250, 0.3194, 0.2766]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+11 tensor([[0.6392, 0.7370, 0.3140, 0.2801]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+12 tensor([[0.6854, 0.7522, 0.3084, 0.2891]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+13 tensor([[0.7332, 0.7712, 0.3029, 0.3052]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+14 tensor([[0.7813, 0.7939, 0.2984, 0.3301]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+15 tensor([[0.8281, 0.8206, 0.2953, 0.3647]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+16 tensor([[0.8718, 0.8509, 0.2946, 0.4101]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+17 tensor([[0.9106, 0.8833, 0.2972, 0.4664]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+18 tensor([[0.9428, 0.9162, 0.3035, 0.5319]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+19 tensor([[0.1009, 0.6642, 0.3970, 0.9955]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+20 tensor([[0.0246, 0.6331, 0.4745, 0.8808]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+21 tensor([[0.0088, 0.5781, 0.5080, 0.7978]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+22 tensor([[0.0042, 0.5353, 0.5364, 0.7646]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+23 tensor([[0.0048, 0.4989, 0.5666, 0.7450]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+24 tensor([[0.0074, 0.4647, 0.5978, 0.7299]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+25 tensor([[0.0115, 0.4310, 0.6292, 0.7172]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+26 tensor([[0.0169, 0.3969, 0.6611, 0.7059]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+27 tensor([[0.0240, 0.3620, 0.6933, 0.6953]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+28 tensor([[0.0331, 0.3265, 0.7259, 0.6850]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+29 tensor([[0.0447, 0.2901, 0.7586, 0.6748]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+30 tensor([[0.0590, 0.2530, 0.7914, 0.6642]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+31 tensor([[0.0767, 0.2151, 0.8238, 0.6529]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+32 tensor([[0.0981, 0.1767, 0.8555, 0.6401]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+33 tensor([[0.1232, 0.1381, 0.8858, 0.6258]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+34 tensor([[0.1524, 0.0999, 0.9143, 0.6095]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+35 tensor([[0.1855, 0.0626, 0.9403, 0.5913]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+36 tensor([[0.2220, 0.0271, 0.9630, 0.5715]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+37 tensor([[ 0.2611, -0.0057,  0.9819,  0.5504]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+38 tensor([[7.8362e-02, 7.4375e-01, 2.9795e-01, 4.9815e-04]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+39 tensor([[0.0892, 0.7562, 0.2732, 0.0154]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+40 tensor([[0.1213, 0.7791, 0.2449, 0.0492]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+41 tensor([[0.1749, 0.7602, 0.2159, 0.0888]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+42 tensor([[0.2122, 0.7487, 0.2046, 0.0943]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+43 tensor([[0.2488, 0.7451, 0.1979, 0.0946]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+44 tensor([[0.2851, 0.7466, 0.1923, 0.0947]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+45 tensor([[0.3209, 0.7508, 0.1864, 0.0947]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+46 tensor([[0.3564, 0.7570, 0.1798, 0.0948]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+47 tensor([[0.3917, 0.7644, 0.1722, 0.0952]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+48 tensor([[0.4271, 0.7731, 0.1637, 0.0962]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+49 tensor([[0.4627, 0.7830, 0.1541, 0.0983]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+50 tensor([[0.4985, 0.7939, 0.1437, 0.1017]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+51 tensor([[0.5345, 0.8063, 0.1326, 0.1070]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+52 tensor([[0.5706, 0.8202, 0.1209, 0.1146]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+53 tensor([[0.6066, 0.8357, 0.1088, 0.1250]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+54 tensor([[0.6420, 0.8527, 0.0966, 0.1387]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+55 tensor([[0.6768, 0.8715, 0.0846, 0.1560]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+56 tensor([[0.7103, 0.8921, 0.0730, 0.1776]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+57 tensor([[0.7422, 0.9144, 0.0622, 0.2039]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+58 tensor([[0.7720, 0.9385, 0.0527, 0.2349]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+59 tensor([[0.7993, 0.9642, 0.0445, 0.2710]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+['ArteryObjAN1-17.dat']
+['ArteryObjAN1-17.dat']
+ENCODED con batch [tensor([[ 1.7088e-01,  5.7667e-02, -1.6756e-02, -1.2504e-02, -4.9982e-02,
+          6.8105e-02, -2.3267e-02, -7.2470e-03,  9.0715e-02,  1.4259e-01,
+          5.5995e-02, -8.2506e-02, -5.3420e-02, -5.8751e-02,  1.9328e-01,
+         -1.1576e-01, -1.9203e-02,  3.2975e-02, -8.0903e-03,  1.1759e-01,
+          1.7988e-01, -1.5306e-02, -9.0030e-02, -9.0971e-02,  7.2639e-02,
+          1.7016e-02, -6.9104e-02,  1.5200e-03, -1.1797e-01, -5.8712e-02,
+          1.2983e-02, -4.1682e-02,  3.3190e-02,  1.3802e-01,  8.3385e-02,
+          3.0466e-02, -4.8336e-02,  7.3928e-02, -8.3052e-02, -6.8093e-02,
+          1.5390e-02,  7.3295e-02,  1.9098e-01, -3.0443e-02,  4.9926e-02,
+         -1.0355e-01, -1.2399e-01, -1.5295e-04, -3.3392e-02,  1.6384e-02,
+          5.1597e-02, -5.4770e-02,  2.6982e-02, -5.0428e-04,  5.4312e-02,
+          9.2675e-02,  7.1426e-02,  1.0998e-01,  4.2531e-02, -7.8952e-02,
+          3.0379e-02, -6.0322e-02,  3.1251e-02, -1.1379e-01, -1.2618e-01,
+          1.7883e-02,  9.8987e-02,  1.2022e-01,  2.0115e-01,  8.5639e-02,
+         -3.7920e-02, -1.4083e-01,  1.8620e-01, -5.1934e-02,  6.3612e-02,
+          1.6647e-01,  9.8487e-02,  9.6793e-04,  6.5733e-02,  8.9749e-02,
+         -6.5316e-02,  1.1851e-02,  1.4960e-01, -1.2662e-01, -1.5223e-02,
+         -7.8190e-02,  9.9393e-02, -1.7278e-01, -4.6147e-02,  1.9487e-02,
+          7.0930e-02, -4.9623e-02,  7.1386e-02,  1.3412e-01,  5.2796e-03,
+          3.0244e-02, -3.0122e-03, -1.4469e-02, -1.8648e-02, -6.5253e-02,
+          4.7816e-02, -1.0109e-01,  8.1684e-02, -4.8753e-02, -1.8414e-02,
+          2.6165e-02, -2.6642e-02,  6.8751e-02,  1.4296e-01,  9.5672e-02,
+          1.0816e-01,  5.2439e-02, -9.3278e-02,  5.8254e-03,  4.7443e-02,
+          9.8460e-04, -5.2663e-04,  5.1282e-02,  1.2290e-01,  6.6048e-02,
+         -9.3475e-02,  6.2717e-02,  1.3403e-01,  3.9112e-02,  3.3562e-02,
+         -1.5922e-01,  3.7014e-03, -6.3041e-02]], device='cuda:0',
+       grad_fn=<StackBackward0>)]
+encodeado sin batch tensor([[ 1.7088e-01,  5.7667e-02, -1.6756e-02, -1.2504e-02, -4.9982e-02,
+          6.8105e-02, -2.3267e-02, -7.2470e-03,  9.0715e-02,  1.4259e-01,
+          5.5995e-02, -8.2506e-02, -5.3420e-02, -5.8751e-02,  1.9328e-01,
+         -1.1576e-01, -1.9203e-02,  3.2975e-02, -8.0903e-03,  1.1759e-01,
+          1.7988e-01, -1.5306e-02, -9.0030e-02, -9.0971e-02,  7.2639e-02,
+          1.7016e-02, -6.9104e-02,  1.5200e-03, -1.1797e-01, -5.8712e-02,
+          1.2983e-02, -4.1682e-02,  3.3190e-02,  1.3802e-01,  8.3385e-02,
+          3.0466e-02, -4.8336e-02,  7.3928e-02, -8.3052e-02, -6.8093e-02,
+          1.5390e-02,  7.3295e-02,  1.9098e-01, -3.0443e-02,  4.9926e-02,
+         -1.0355e-01, -1.2399e-01, -1.5295e-04, -3.3392e-02,  1.6384e-02,
+          5.1597e-02, -5.4770e-02,  2.6982e-02, -5.0428e-04,  5.4312e-02,
+          9.2675e-02,  7.1426e-02,  1.0998e-01,  4.2531e-02, -7.8952e-02,
+          3.0379e-02, -6.0322e-02,  3.1251e-02, -1.1379e-01, -1.2618e-01,
+          1.7883e-02,  9.8987e-02,  1.2022e-01,  2.0115e-01,  8.5639e-02,
+         -3.7920e-02, -1.4083e-01,  1.8620e-01, -5.1934e-02,  6.3612e-02,
+          1.6647e-01,  9.8487e-02,  9.6793e-04,  6.5733e-02,  8.9749e-02,
+         -6.5316e-02,  1.1851e-02,  1.4960e-01, -1.2662e-01, -1.5223e-02,
+         -7.8190e-02,  9.9393e-02, -1.7278e-01, -4.6147e-02,  1.9487e-02,
+          7.0930e-02, -4.9623e-02,  7.1386e-02,  1.3412e-01,  5.2796e-03,
+          3.0244e-02, -3.0122e-03, -1.4469e-02, -1.8648e-02, -6.5253e-02,
+          4.7816e-02, -1.0109e-01,  8.1684e-02, -4.8753e-02, -1.8414e-02,
+          2.6165e-02, -2.6642e-02,  6.8751e-02,  1.4296e-01,  9.5672e-02,
+          1.0816e-01,  5.2439e-02, -9.3278e-02,  5.8254e-03,  4.7443e-02,
+          9.8460e-04, -5.2663e-04,  5.1282e-02,  1.2290e-01,  6.6048e-02,
+         -9.3475e-02,  6.2717e-02,  1.3403e-01,  3.9112e-02,  3.3562e-02,
+         -1.5922e-01,  3.7014e-03, -6.3041e-02]], device='cuda:0',
+       grad_fn=<TanhBackward0>)
+1
+[70]
+70.0
+3.0
+65.0
+2.0
+tensor([0.3333, 0.0154, 0.5000], device='cuda:0')
+4
+0 tensor([0.5616, 0.4881, 0.2191, 0.3577], device='cuda:0')
+1 tensor([0.5440, 0.4732, 0.2243, 0.3409], device='cuda:0')
+2 tensor([0.5258, 0.4560, 0.2368, 0.3089], device='cuda:0')
+3 tensor([0.5088, 0.4391, 0.2544, 0.2733], device='cuda:0')
+4 tensor([0.4922, 0.4232, 0.2691, 0.2772], device='cuda:0')
+5 tensor([0.4757, 0.4107, 0.2818, 0.3116], device='cuda:0')
+6 tensor([0.4552, 0.3980, 0.2874, 0.3513], device='cuda:0')
+7 tensor([0.4357, 0.3855, 0.2870, 0.3686], device='cuda:0')
+8 tensor([0.4128, 0.3646, 0.3112, 0.4315], device='cuda:0')
+9 tensor([0.3303, 0.3139, 0.3256, 0.5333], device='cuda:0')
+10 tensor([0.3130, 0.3037, 0.3267, 0.5102], device='cuda:0')
+11 tensor([0.2797, 0.2858, 0.3186, 0.5458], device='cuda:0')
+12 tensor([0.2424, 0.2630, 0.3149, 0.6090], device='cuda:0')
+13 tensor([0.1990, 0.2435, 0.2849, 0.6247], device='cuda:0')
+14 tensor([0.1616, 0.2183, 0.2728, 0.7113], device='cuda:0')
+15 tensor([0.0480, 0.1620, 0.2025, 0.3170], device='cuda:0')
+16 tensor([0.0471, 0.1617, 0.1982, 0.3186], device='cuda:0')
+17 tensor([0.0316, 0.1559, 0.1722, 0.2437], device='cuda:0')
+18 tensor([0.0137, 0.1445, 0.1257, 0.2667], device='cuda:0')
+19 tensor([0.0067, 0.1302, 0.0938, 0.2569], device='cuda:0')
+20 tensor([0.0014, 0.1132, 0.0622, 0.2465], device='cuda:0')
+21 tensor([0.0000, 0.1004, 0.0475, 0.2097], device='cuda:0')
+22 tensor([0.0014, 0.0887, 0.0369, 0.1579], device='cuda:0')
+23 tensor([0.0037, 0.0775, 0.0271, 0.1002], device='cuda:0')
+24 tensor([0.0086, 0.0617, 0.0169, 0.0466], device='cuda:0')
+25 tensor([0.0152, 0.0482, 0.0068, 0.0191], device='cuda:0')
+26 tensor([0.0221, 0.0346, 0.0035, 0.0000], device='cuda:0')
+27 tensor([0.0446, 0.0000, 0.0000, 0.1431], device='cuda:0')
+28 tensor([0.1163, 0.1714, 0.2870, 1.0000], device='cuda:0')
+29 tensor([0.1279, 0.1194, 0.3936, 0.3007], device='cuda:0')
+30 tensor([0.1310, 0.1089, 0.4269, 0.2334], device='cuda:0')
+31 tensor([0.1331, 0.0966, 0.4698, 0.1891], device='cuda:0')
+32 tensor([0.1367, 0.0838, 0.5463, 0.2081], device='cuda:0')
+33 tensor([0.1397, 0.0735, 0.6332, 0.2744], device='cuda:0')
+34 tensor([0.1374, 0.0682, 0.7149, 0.3040], device='cuda:0')
+35 tensor([0.1306, 0.0686, 0.7835, 0.3171], device='cuda:0')
+36 tensor([0.1195, 0.0777, 0.8675, 0.3916], device='cuda:0')
+37 tensor([0.1043, 0.0832, 0.9164, 0.3878], device='cuda:0')
+38 tensor([0.0634, 0.1035, 1.0000, 0.5592], device='cuda:0')
+39 tensor([0.5789, 0.5054, 0.2145, 0.3307], device='cuda:0')
+40 tensor([0.5960, 0.5207, 0.2056, 0.2884], device='cuda:0')
+41 tensor([0.6114, 0.5347, 0.1960, 0.2388], device='cuda:0')
+42 tensor([0.6278, 0.5506, 0.1884, 0.2152], device='cuda:0')
+43 tensor([0.6430, 0.5657, 0.1783, 0.1882], device='cuda:0')
+44 tensor([0.6595, 0.5804, 0.1668, 0.2134], device='cuda:0')
+45 tensor([0.6764, 0.5950, 0.1611, 0.2280], device='cuda:0')
+46 tensor([0.6919, 0.6085, 0.1569, 0.2398], device='cuda:0')
+47 tensor([0.7077, 0.6204, 0.1528, 0.2374], device='cuda:0')
+48 tensor([0.7221, 0.6315, 0.1500, 0.2235], device='cuda:0')
+49 tensor([0.7357, 0.6426, 0.1507, 0.2100], device='cuda:0')
+50 tensor([0.7505, 0.6554, 0.1533, 0.1918], device='cuda:0')
+51 tensor([0.7644, 0.6687, 0.1587, 0.1849], device='cuda:0')
+52 tensor([0.7810, 0.6845, 0.1669, 0.1697], device='cuda:0')
+53 tensor([0.8008, 0.7034, 0.1695, 0.1416], device='cuda:0')
+54 tensor([0.8209, 0.7195, 0.1880, 0.1583], device='cuda:0')
+55 tensor([0.8394, 0.7371, 0.2081, 0.1803], device='cuda:0')
+56 tensor([0.8545, 0.7538, 0.2239, 0.1736], device='cuda:0')
+57 tensor([0.8686, 0.7713, 0.2359, 0.1779], device='cuda:0')
+58 tensor([0.8831, 0.7861, 0.2549, 0.1887], device='cuda:0')
+59 tensor([0.9002, 0.8049, 0.2781, 0.2560], device='cuda:0')
+60 tensor([0.9160, 0.8208, 0.2926, 0.2945], device='cuda:0')
+61 tensor([0.9274, 0.8349, 0.3052, 0.2923], device='cuda:0')
+62 tensor([0.9391, 0.8510, 0.3190, 0.2867], device='cuda:0')
+63 tensor([0.9538, 0.8696, 0.3377, 0.3038], device='cuda:0')
+64 tensor([0.9657, 0.8867, 0.3622, 0.3097], device='cuda:0')
+65 tensor([0.9739, 0.9021, 0.3899, 0.2735], device='cuda:0')
+66 tensor([0.9843, 0.9205, 0.4337, 0.2695], device='cuda:0')
+67 tensor([0.9941, 0.9472, 0.4795, 0.3092], device='cuda:0')
+68 tensor([1.0000, 0.9678, 0.5346, 0.3284], device='cuda:0')
+69 tensor([0.9985, 1.0000, 0.6220, 0.4260], device='cuda:0')
+n_nodes 70
+0 tensor([0.5616, 0.4881, 0.2191, 0.3577], device='cuda:0') 2 None
+1 tensor([0.5440, 0.4732, 0.2243, 0.3409], device='cuda:0') 3 None
+2 tensor([0.5258, 0.4560, 0.2368, 0.3089], device='cuda:0') 4 None
+3 tensor([0.5088, 0.4391, 0.2544, 0.2733], device='cuda:0') 5 None
+4 tensor([0.4922, 0.4232, 0.2691, 0.2772], device='cuda:0') 6 None
+5 tensor([0.4757, 0.4107, 0.2818, 0.3116], device='cuda:0') 7 None
+6 tensor([0.4552, 0.3980, 0.2874, 0.3513], device='cuda:0') 8 None
+7 tensor([0.4357, 0.3855, 0.2870, 0.3686], device='cuda:0') 9 None
+8 tensor([0.4128, 0.3646, 0.3112, 0.4315], device='cuda:0') 10 None
+9 tensor([0.3303, 0.3139, 0.3256, 0.5333], device='cuda:0') 11 None
+10 tensor([0.3130, 0.3037, 0.3267, 0.5102], device='cuda:0') 12 None
+11 tensor([0.2797, 0.2858, 0.3186, 0.5458], device='cuda:0') 13 None
+12 tensor([0.2424, 0.2630, 0.3149, 0.6090], device='cuda:0') 14 None
+13 tensor([0.1990, 0.2435, 0.2849, 0.6247], device='cuda:0') 15 None
+14 tensor([0.1616, 0.2183, 0.2728, 0.7113], device='cuda:0') 16 None
+15 tensor([0.0480, 0.1620, 0.2025, 0.3170], device='cuda:0') 18 None
+16 tensor([0.0471, 0.1617, 0.1982, 0.3186], device='cuda:0') 19 None
+17 tensor([0.0316, 0.1559, 0.1722, 0.2437], device='cuda:0') 20 None
+18 tensor([0.0137, 0.1445, 0.1257, 0.2667], device='cuda:0') 21 None
+19 tensor([0.0067, 0.1302, 0.0938, 0.2569], device='cuda:0') 22 None
+20 tensor([0.0014, 0.1132, 0.0622, 0.2465], device='cuda:0') 23 None
+21 tensor([0.0000, 0.1004, 0.0475, 0.2097], device='cuda:0') 24 None
+22 tensor([0.0014, 0.0887, 0.0369, 0.1579], device='cuda:0') 25 None
+23 tensor([0.0037, 0.0775, 0.0271, 0.1002], device='cuda:0') 26 None
+24 tensor([0.0086, 0.0617, 0.0169, 0.0466], device='cuda:0') 27 None
+25 tensor([0.0152, 0.0482, 0.0068, 0.0191], device='cuda:0') 28 None
+26 tensor([0.0221, 0.0346, 0.0035, 0.0000], device='cuda:0') 29 None
+27 tensor([0.0446, 0.0000, 0.0000, 0.1431], device='cuda:0') 30 None
+28 tensor([0.1163, 0.1714, 0.2870, 1.0000], device='cuda:0') 17 None
+29 tensor([0.1279, 0.1194, 0.3936, 0.3007], device='cuda:0') 18 None
+30 tensor([0.1310, 0.1089, 0.4269, 0.2334], device='cuda:0') 19 None
+31 tensor([0.1331, 0.0966, 0.4698, 0.1891], device='cuda:0') 20 None
+32 tensor([0.1367, 0.0838, 0.5463, 0.2081], device='cuda:0') 21 None
+33 tensor([0.1397, 0.0735, 0.6332, 0.2744], device='cuda:0') 22 None
+34 tensor([0.1374, 0.0682, 0.7149, 0.3040], device='cuda:0') 23 None
+35 tensor([0.1306, 0.0686, 0.7835, 0.3171], device='cuda:0') 24 None
+36 tensor([0.1195, 0.0777, 0.8675, 0.3916], device='cuda:0') 25 None
+37 tensor([0.1043, 0.0832, 0.9164, 0.3878], device='cuda:0') 26 None
+38 tensor([0.0634, 0.1035, 1.0000, 0.5592], device='cuda:0') 27 None
+39 tensor([0.5789, 0.5054, 0.2145, 0.3307], device='cuda:0') 1 None
+40 tensor([0.5960, 0.5207, 0.2056, 0.2884], device='cuda:0') 2 None
+41 tensor([0.6114, 0.5347, 0.1960, 0.2388], device='cuda:0') 3 None
+42 tensor([0.6278, 0.5506, 0.1884, 0.2152], device='cuda:0') 4 None
+43 tensor([0.6430, 0.5657, 0.1783, 0.1882], device='cuda:0') 5 None
+44 tensor([0.6595, 0.5804, 0.1668, 0.2134], device='cuda:0') 6 None
+45 tensor([0.6764, 0.5950, 0.1611, 0.2280], device='cuda:0') 7 None
+46 tensor([0.6919, 0.6085, 0.1569, 0.2398], device='cuda:0') 8 None
+47 tensor([0.7077, 0.6204, 0.1528, 0.2374], device='cuda:0') 9 None
+48 tensor([0.7221, 0.6315, 0.1500, 0.2235], device='cuda:0') 10 None
+49 tensor([0.7357, 0.6426, 0.1507, 0.2100], device='cuda:0') 11 None
+50 tensor([0.7505, 0.6554, 0.1533, 0.1918], device='cuda:0') 12 None
+51 tensor([0.7644, 0.6687, 0.1587, 0.1849], device='cuda:0') 13 None
+52 tensor([0.7810, 0.6845, 0.1669, 0.1697], device='cuda:0') 14 None
+53 tensor([0.8008, 0.7034, 0.1695, 0.1416], device='cuda:0') 15 None
+54 tensor([0.8209, 0.7195, 0.1880, 0.1583], device='cuda:0') 16 None
+55 tensor([0.8394, 0.7371, 0.2081, 0.1803], device='cuda:0') 17 None
+56 tensor([0.8545, 0.7538, 0.2239, 0.1736], device='cuda:0') 18 None
+57 tensor([0.8686, 0.7713, 0.2359, 0.1779], device='cuda:0') 19 None
+58 tensor([0.8831, 0.7861, 0.2549, 0.1887], device='cuda:0') 20 None
+59 tensor([0.9002, 0.8049, 0.2781, 0.2560], device='cuda:0') 21 None
+60 tensor([0.9160, 0.8208, 0.2926, 0.2945], device='cuda:0') 22 None
+61 tensor([0.9274, 0.8349, 0.3052, 0.2923], device='cuda:0') 23 None
+62 tensor([0.9391, 0.8510, 0.3190, 0.2867], device='cuda:0') 24 None
+63 tensor([0.9538, 0.8696, 0.3377, 0.3038], device='cuda:0') 25 None
+64 tensor([0.9657, 0.8867, 0.3622, 0.3097], device='cuda:0') 26 None
+65 tensor([0.9739, 0.9021, 0.3899, 0.2735], device='cuda:0') 27 None
+66 tensor([0.9843, 0.9205, 0.4337, 0.2695], device='cuda:0') 28 None
+67 tensor([0.9941, 0.9472, 0.4795, 0.3092], device='cuda:0') 29 None
+68 tensor([1.0000, 0.9678, 0.5346, 0.3284], device='cuda:0') 30 None
+69 tensor([0.9985, 1.0000, 0.6220, 0.4260], device='cuda:0') 31 None
+tree level 1185
+0 tensor([0.5616, 0.4881, 0.2191, 0.3577], device='cuda:0') 2 1185
+1 tensor([0.5440, 0.4732, 0.2243, 0.3409], device='cuda:0') 3 1185
+2 tensor([0.5258, 0.4560, 0.2368, 0.3089], device='cuda:0') 4 1185
+3 tensor([0.5088, 0.4391, 0.2544, 0.2733], device='cuda:0') 5 1185
+4 tensor([0.4922, 0.4232, 0.2691, 0.2772], device='cuda:0') 6 1185
+5 tensor([0.4757, 0.4107, 0.2818, 0.3116], device='cuda:0') 7 1185
+6 tensor([0.4552, 0.3980, 0.2874, 0.3513], device='cuda:0') 8 1185
+7 tensor([0.4357, 0.3855, 0.2870, 0.3686], device='cuda:0') 9 1185
+8 tensor([0.4128, 0.3646, 0.3112, 0.4315], device='cuda:0') 10 1185
+9 tensor([0.3303, 0.3139, 0.3256, 0.5333], device='cuda:0') 11 1185
+10 tensor([0.3130, 0.3037, 0.3267, 0.5102], device='cuda:0') 12 1185
+11 tensor([0.2797, 0.2858, 0.3186, 0.5458], device='cuda:0') 13 1185
+12 tensor([0.2424, 0.2630, 0.3149, 0.6090], device='cuda:0') 14 1185
+13 tensor([0.1990, 0.2435, 0.2849, 0.6247], device='cuda:0') 15 1185
+14 tensor([0.1616, 0.2183, 0.2728, 0.7113], device='cuda:0') 16 1185
+15 tensor([0.0480, 0.1620, 0.2025, 0.3170], device='cuda:0') 18 1185
+16 tensor([0.0471, 0.1617, 0.1982, 0.3186], device='cuda:0') 19 1185
+17 tensor([0.0316, 0.1559, 0.1722, 0.2437], device='cuda:0') 20 1185
+18 tensor([0.0137, 0.1445, 0.1257, 0.2667], device='cuda:0') 21 1185
+19 tensor([0.0067, 0.1302, 0.0938, 0.2569], device='cuda:0') 22 1185
+20 tensor([0.0014, 0.1132, 0.0622, 0.2465], device='cuda:0') 23 1185
+21 tensor([0.0000, 0.1004, 0.0475, 0.2097], device='cuda:0') 24 1185
+22 tensor([0.0014, 0.0887, 0.0369, 0.1579], device='cuda:0') 25 1185
+23 tensor([0.0037, 0.0775, 0.0271, 0.1002], device='cuda:0') 26 1185
+24 tensor([0.0086, 0.0617, 0.0169, 0.0466], device='cuda:0') 27 1185
+25 tensor([0.0152, 0.0482, 0.0068, 0.0191], device='cuda:0') 28 1185
+26 tensor([0.0221, 0.0346, 0.0035, 0.0000], device='cuda:0') 29 1185
+27 tensor([0.0446, 0.0000, 0.0000, 0.1431], device='cuda:0') 30 1185
+28 tensor([0.1163, 0.1714, 0.2870, 1.0000], device='cuda:0') 17 1185
+29 tensor([0.1279, 0.1194, 0.3936, 0.3007], device='cuda:0') 18 1185
+30 tensor([0.1310, 0.1089, 0.4269, 0.2334], device='cuda:0') 19 1185
+31 tensor([0.1331, 0.0966, 0.4698, 0.1891], device='cuda:0') 20 1185
+32 tensor([0.1367, 0.0838, 0.5463, 0.2081], device='cuda:0') 21 1185
+33 tensor([0.1397, 0.0735, 0.6332, 0.2744], device='cuda:0') 22 1185
+34 tensor([0.1374, 0.0682, 0.7149, 0.3040], device='cuda:0') 23 1185
+35 tensor([0.1306, 0.0686, 0.7835, 0.3171], device='cuda:0') 24 1185
+36 tensor([0.1195, 0.0777, 0.8675, 0.3916], device='cuda:0') 25 1185
+37 tensor([0.1043, 0.0832, 0.9164, 0.3878], device='cuda:0') 26 1185
+38 tensor([0.0634, 0.1035, 1.0000, 0.5592], device='cuda:0') 27 1185
+39 tensor([0.5789, 0.5054, 0.2145, 0.3307], device='cuda:0') 1 1185
+40 tensor([0.5960, 0.5207, 0.2056, 0.2884], device='cuda:0') 2 1185
+41 tensor([0.6114, 0.5347, 0.1960, 0.2388], device='cuda:0') 3 1185
+42 tensor([0.6278, 0.5506, 0.1884, 0.2152], device='cuda:0') 4 1185
+43 tensor([0.6430, 0.5657, 0.1783, 0.1882], device='cuda:0') 5 1185
+44 tensor([0.6595, 0.5804, 0.1668, 0.2134], device='cuda:0') 6 1185
+45 tensor([0.6764, 0.5950, 0.1611, 0.2280], device='cuda:0') 7 1185
+46 tensor([0.6919, 0.6085, 0.1569, 0.2398], device='cuda:0') 8 1185
+47 tensor([0.7077, 0.6204, 0.1528, 0.2374], device='cuda:0') 9 1185
+48 tensor([0.7221, 0.6315, 0.1500, 0.2235], device='cuda:0') 10 1185
+49 tensor([0.7357, 0.6426, 0.1507, 0.2100], device='cuda:0') 11 1185
+50 tensor([0.7505, 0.6554, 0.1533, 0.1918], device='cuda:0') 12 1185
+51 tensor([0.7644, 0.6687, 0.1587, 0.1849], device='cuda:0') 13 1185
+52 tensor([0.7810, 0.6845, 0.1669, 0.1697], device='cuda:0') 14 1185
+53 tensor([0.8008, 0.7034, 0.1695, 0.1416], device='cuda:0') 15 1185
+54 tensor([0.8209, 0.7195, 0.1880, 0.1583], device='cuda:0') 16 1185
+55 tensor([0.8394, 0.7371, 0.2081, 0.1803], device='cuda:0') 17 1185
+56 tensor([0.8545, 0.7538, 0.2239, 0.1736], device='cuda:0') 18 1185
+57 tensor([0.8686, 0.7713, 0.2359, 0.1779], device='cuda:0') 19 1185
+58 tensor([0.8831, 0.7861, 0.2549, 0.1887], device='cuda:0') 20 1185
+59 tensor([0.9002, 0.8049, 0.2781, 0.2560], device='cuda:0') 21 1185
+60 tensor([0.9160, 0.8208, 0.2926, 0.2945], device='cuda:0') 22 1185
+61 tensor([0.9274, 0.8349, 0.3052, 0.2923], device='cuda:0') 23 1185
+62 tensor([0.9391, 0.8510, 0.3190, 0.2867], device='cuda:0') 24 1185
+63 tensor([0.9538, 0.8696, 0.3377, 0.3038], device='cuda:0') 25 1185
+64 tensor([0.9657, 0.8867, 0.3622, 0.3097], device='cuda:0') 26 1185
+65 tensor([0.9739, 0.9021, 0.3899, 0.2735], device='cuda:0') 27 1185
+66 tensor([0.9843, 0.9205, 0.4337, 0.2695], device='cuda:0') 28 1185
+67 tensor([0.9941, 0.9472, 0.4795, 0.3092], device='cuda:0') 29 1185
+68 tensor([1.0000, 0.9678, 0.5346, 0.3284], device='cuda:0') 30 1185
+69 tensor([0.9985, 1.0000, 0.6220, 0.4260], device='cuda:0') 31 1185

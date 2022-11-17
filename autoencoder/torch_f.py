@@ -130,14 +130,21 @@ class Fold(object):
                 #si es un nodo de arbol
                 else:
                  
-                    if op != "classifyLossEstimator" and op != "calcularLossAtributo": #en caso de que op sea alguna red
+                    if op != "classifyLossEstimator" and op != "calcularLossAtributo" and op != "vectorMult": #en caso de que op sea alguna red
                         var = arg[0].radius
                     elif op == "calcularLossAtributo": #en caso de estar calculano mse
                         var = [(a.radius, a.childs()) for a in arg]
                         #var.append([a.childs() for a in arg])
                         #print("var", var)
-                    else:
+                    elif op == "classifyLossEstimator":
                         var = [a.childs() for a in arg] #en caso de estar calculando cross entropy
+                    if op == "vectorMult":
+                        #print("arg",arg)
+                        if isinstance(arg, torch.Tensor):
+                            var = arg
+                        else:
+                            var = list(arg)
+                            #print("var",var)
                     res.append(var)
                 
             #print("res", res)
@@ -172,10 +179,12 @@ class Fold(object):
                         #values[step][op].append(torch.chunk(x, arg_size))
                         values[step][op].append(x)
                 else:
-                    if len(res.shape) == 1 and op != 'vectorAdder':
+                    if len(res.shape) == 1 and op != 'vectorAdder' and op != 'vectorMult':
                         values[step][op] = res.reshape(-1, 4)
                     else: #los vectores de output del clasificador tienen tres elementos, no hago el reshape
                         values[step][op] = res
+                        if op == 'vectorMult':
+                            print("res", res)
                        
         try:
             return self._batch_args(nodes, values, op)

@@ -73,19 +73,25 @@ def serialize(root):
 radius = [2.5, 2.5, 2.5, 2.5]
 radius2 = [2., 2., 2., 2.]
 
-root = Node(1, [1., 1., 1., 1.])#0
-#root.left = createNode(3, [3., 3., 3., 3.]) #0.4
+root = Node(0, [1., 1., 1., 1.])#0
+root.left = createNode(2, [3., 3., 3., 3.]) #0.4
 #root.left.right = createNode(6, [6., 6., 6., 6.])#1 
 #root.left.right.right = createNode(9, [6.5, 6., 6., 6.]) 
 #root.left.right.left = createNode(10, [6.8, 6., 6., 6.]) 
 
 #root.left.left = createNode(7, radius) 
-root.right = createNode(2, [10., 2., 2., 2.]) #0.2
-root.right.right = createNode(4, [4., 4., 4., 4.]) #0.6
+root.right = createNode(1, [10., 2., 2., 2.]) #0.2
+root.right.right = createNode(3, [4., 4., 4., 4.]) #0.6
+#root.right.right.right = createNode(5, [5., 4., 4., 4.]) #0.6
+#root.right.right.right.right = createNode(6, [6., 4., 4., 4.]) #0.6
+#root.right.right.right.right.right = createNode(7, [7., 4., 4., 4.]) #0.6
+#root.right.right.right.right.right.right = createNode(8, [8., 4., 4., 4.]) #0.6
+
 #root.right.right.right = createNode(8, radius2) 
 #root.right.right.left = createNode(10, radius2) 
 
-root.right.left = createNode(5, [5., 5., 5., 5.]) #0.8
+root.right.left = createNode(4, [5., 5., 5., 5.]) #0.8
+
 #root.right.left.right = createNode(8, [10., 5., 5., 5.]) #0.8
 
 
