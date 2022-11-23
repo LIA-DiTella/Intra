@@ -1,0 +1,72 @@
+2022-11-22 11:08:58,295 INFO    MainThread:5636 [wandb_setup.py:_flush():68] Configure stats pid to 5636
+2022-11-22 11:08:58,295 INFO    MainThread:5636 [wandb_setup.py:_flush():68] Loading settings from C:\Users\User\.config\wandb\settings
+2022-11-22 11:08:58,295 INFO    MainThread:5636 [wandb_setup.py:_flush():68] Loading settings from c:\Users\User\Documents\rpoditela\Intra\autoencoder\wandb\settings
+2022-11-22 11:08:58,295 INFO    MainThread:5636 [wandb_setup.py:_flush():68] Loading settings from environment variables: {'_require_service': 'True'}
+2022-11-22 11:08:58,295 INFO    MainThread:5636 [wandb_setup.py:_flush():68] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2022-11-22 11:08:58,304 INFO    MainThread:5636 [wandb_init.py:_log_setup():476] Logging user logs to c:\Users\User\Documents\rpoditela\Intra\autoencoder\wandb\run-20221122_110858-3807ncy7\logs\debug.log
+2022-11-22 11:08:58,305 INFO    MainThread:5636 [wandb_init.py:_log_setup():477] Logging internal logs to c:\Users\User\Documents\rpoditela\Intra\autoencoder\wandb\run-20221122_110858-3807ncy7\logs\debug-internal.log
+2022-11-22 11:08:58,305 INFO    MainThread:5636 [wandb_init.py:init():516] calling init triggers
+2022-11-22 11:08:58,305 INFO    MainThread:5636 [wandb_init.py:init():519] wandb.init called with sweep_config: {}
+config: {'learning_rate': 0.0001, 'epochs': 6000, 'batch_size': 4, 'dataset': ['ArteryObjAN1-17-55.dat', 'ArteryObjAN1-17-22.dat', 'ArteryObjAN1-17-11.dat', 'ArteryObjAN1-17-9.dat'], 'number of trees': 4, 'optim': Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.0001
+    maximize: False
+    weight_decay: 0
+)}
+2022-11-22 11:08:58,305 INFO    MainThread:5636 [wandb_init.py:init():535] re-initializing run, found existing run on stack: etcbuw5p
+2022-11-22 11:08:58,307 INFO    MainThread:5636 [wandb_run.py:_finish():1746] finishing run paufeldman/autoencoder3/etcbuw5p
+2022-11-22 11:08:58,378 INFO    MainThread:5636 [jupyter.py:save_history():448] not saving jupyter history
+2022-11-22 11:08:58,378 INFO    MainThread:5636 [jupyter.py:save_ipynb():378] not saving jupyter notebook
+2022-11-22 11:08:58,378 INFO    MainThread:5636 [wandb_init.py:_jupyter_teardown():408] cleaning up jupyter logic
+2022-11-22 11:08:58,378 INFO    MainThread:5636 [wandb_run.py:_atexit_cleanup():1949] got exitcode: 0
+2022-11-22 11:08:58,378 INFO    MainThread:5636 [wandb_run.py:_restore():1932] restore
+2022-11-22 11:08:58,379 INFO    MainThread:5636 [wandb_run.py:_restore():1938] restore done
+2022-11-22 11:09:03,590 INFO    MainThread:5636 [wandb_run.py:_footer_history_summary_info():3377] rendering history
+2022-11-22 11:09:03,590 INFO    MainThread:5636 [wandb_run.py:_footer_history_summary_info():3409] rendering summary
+2022-11-22 11:09:03,593 INFO    MainThread:5636 [wandb_run.py:_footer_sync_info():3333] logging synced files
+2022-11-22 11:09:03,597 INFO    MainThread:5636 [wandb_init.py:init():569] starting backend
+2022-11-22 11:09:03,597 INFO    MainThread:5636 [wandb_init.py:init():573] setting up manager
+2022-11-22 11:09:03,607 INFO    MainThread:5636 [backend.py:_multiprocessing_setup():102] multiprocessing start_methods=spawn, using: spawn
+2022-11-22 11:09:03,613 INFO    MainThread:5636 [wandb_init.py:init():580] backend started and connected
+2022-11-22 11:09:03,628 INFO    MainThread:5636 [wandb_run.py:_label_probe_notebook():1113] probe notebook
+2022-11-22 11:09:03,628 INFO    MainThread:5636 [wandb_run.py:_label_probe_notebook():1123] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2022-11-22 11:09:03,628 INFO    MainThread:5636 [wandb_init.py:init():658] updated telemetry
+2022-11-22 11:09:03,665 INFO    MainThread:5636 [wandb_init.py:init():693] communicating run to backend with 60 second timeout
+2022-11-22 11:09:05,022 INFO    MainThread:5636 [wandb_run.py:_on_init():2000] communicating current version
+2022-11-22 11:09:05,064 INFO    MainThread:5636 [wandb_run.py:_on_init():2004] got version response 
+2022-11-22 11:09:05,064 INFO    MainThread:5636 [wandb_init.py:init():728] starting run threads in backend
+2022-11-22 11:09:05,170 INFO    MainThread:5636 [wandb_run.py:_console_start():1980] atexit reg
+2022-11-22 11:09:05,170 INFO    MainThread:5636 [wandb_run.py:_redirect():1838] redirect: SettingsConsole.WRAP_RAW
+2022-11-22 11:09:05,171 INFO    MainThread:5636 [wandb_run.py:_redirect():1903] Wrapping output streams.
+2022-11-22 11:09:05,171 INFO    MainThread:5636 [wandb_run.py:_redirect():1925] Redirects installed.
+2022-11-22 11:09:05,171 INFO    MainThread:5636 [wandb_init.py:init():765] run started, returning control to user process
+2022-11-22 11:21:23,900 INFO    MainThread:5636 [wandb_setup.py:_flush():68] Configure stats pid to 5636
+2022-11-22 11:21:23,901 INFO    MainThread:5636 [wandb_setup.py:_flush():68] Loading settings from C:\Users\User\.config\wandb\settings
+2022-11-22 11:21:23,901 INFO    MainThread:5636 [wandb_setup.py:_flush():68] Loading settings from c:\Users\User\Documents\rpoditela\Intra\autoencoder\wandb\settings
+2022-11-22 11:21:23,901 INFO    MainThread:5636 [wandb_setup.py:_flush():68] Loading settings from environment variables: {'_require_service': 'True'}
+2022-11-22 11:21:23,901 INFO    MainThread:5636 [wandb_setup.py:_flush():68] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2022-11-22 11:21:23,901 INFO    MainThread:5636 [wandb_init.py:_log_setup():476] Logging user logs to c:\Users\User\Documents\rpoditela\Intra\autoencoder\wandb\run-20221122_112123-1e7cnhs9\logs\debug.log
+2022-11-22 11:21:23,901 INFO    MainThread:5636 [wandb_init.py:_log_setup():477] Logging internal logs to c:\Users\User\Documents\rpoditela\Intra\autoencoder\wandb\run-20221122_112123-1e7cnhs9\logs\debug-internal.log
+2022-11-22 11:21:23,901 INFO    MainThread:5636 [wandb_init.py:_jupyter_setup():426] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x000001E753CD53F0>
+2022-11-22 11:21:23,902 INFO    MainThread:5636 [wandb_init.py:init():516] calling init triggers
+2022-11-22 11:21:23,902 INFO    MainThread:5636 [wandb_init.py:init():519] wandb.init called with sweep_config: {}
+config: {'learning_rate': 0.0001, 'epochs': 6000, 'batch_size': 4, 'dataset': ['ArteryObjAN1-17-55.dat', 'ArteryObjAN1-17-22.dat', 'ArteryObjAN1-17-12.dat', 'ArteryObjAN1-17-9.dat'], 'number of trees': 4, 'optim': Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.0001
+    maximize: False
+    weight_decay: 0
+)}
+2022-11-22 11:21:23,902 INFO    MainThread:5636 [wandb_init.py:init():535] re-initializing run, found existing run on stack: 3807ncy7
+2022-11-22 11:21:23,904 INFO    MainThread:5636 [wandb_run.py:_finish():1746] finishing run paufeldman/autoencoder3/3807ncy7
+2022-11-22 11:21:23,904 INFO    MainThread:5636 [wandb_run.py:_atexit_cleanup():1949] got exitcode: 0
+2022-11-22 11:21:23,905 INFO    MainThread:5636 [wandb_run.py:_restore():1932] restore
+2022-11-22 11:21:23,905 INFO    MainThread:5636 [wandb_run.py:_restore():1938] restore done
+2022-11-22 11:21:29,973 INFO    MainThread:5636 [wandb_run.py:_footer_history_summary_info():3377] rendering history
+2022-11-22 11:21:29,973 INFO    MainThread:5636 [wandb_run.py:_footer_history_summary_info():3409] rendering summary
+2022-11-22 11:21:29,977 INFO    MainThread:5636 [wandb_run.py:_footer_sync_info():3333] logging synced files

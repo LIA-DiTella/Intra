@@ -6,7 +6,7 @@ from vec3 import Vec3
 import matplotlib.pyplot as plt
 
 
-filename = "ArteryObjAN42-0"
+filename = "ArteryObjAN1-17"
 
 grafo = pickle.load(open('grafos/' +filename + '-grafo.gpickle', 'rb'))
 
@@ -26,32 +26,47 @@ for nodoInicial in distancias.keys():
             parMaximo = (nodoInicial, nodoFinal)
 
 for nodo in grafo.nodes:
+    print("radio", nodo, grafo.nodes[nodo]['radio'])
     if distancias[parMaximo[0]][nodo] == int( maxima / 2):
         numeroNodoInicial = nodo
         break
 
-print(numeroNodoInicial)
+print("nodo inicial",numeroNodoInicial)
 
-rad = grafo.nodes[numeroNodoInicial]['radio']
-pos = list(grafo.nodes[numeroNodoInicial]['posicion'].toNumpy())#.append(grafo.nodes[numeroNodoInicial]['radio'])
-pos.append(rad)
+print("nodo inicial",numeroNodoInicial)
 
-nodoRaiz = p.Node( numeroNodoInicial, radius =  pos )
+rad = list(grafo.nodes[numeroNodoInicial]['radio'])
+print("radio ini", rad)
+#pos = list(grafo.nodes[numeroNodoInicial]['posicion'].toNumpy())#.append(grafo.nodes[numeroNodoInicial]['radio'])
+#pos.append(rad[0])
+#print("pos", pos)
+#pos.append(rad[1])
+#print("pos", pos)
+
+#nodoRaiz = p.Node( numeroNodoInicial, radius =  pos )
+nodoRaiz = p.Node( numeroNodoInicial, radius =  rad )
+
 for vecino in grafo.neighbors( numeroNodoInicial ):
     if vecino != numeroNodoInicial:
         aRecorrer.append( (vecino, numeroNodoInicial,nodoRaiz ) )
+        print("arrecorrer", (vecino, numeroNodoInicial,nodoRaiz ))
 
 while len(aRecorrer) != 0:
     nodoAAgregar, numeroNodoPadre,nodoPadre = aRecorrer.pop(0)
-    posicion = list(grafo.nodes[nodoAAgregar]['posicion'].toNumpy())
-    radius = grafo.nodes[nodoAAgregar]['radio']
-    posicion.append(radius)
-    nodoActual = p.Node( nodoAAgregar, radius =  posicion)
+    #posicion = list(grafo.nodes[nodoAAgregar]['posicion'].toNumpy())
+    print("nodo", nodoAAgregar)
+    radius = list(grafo.nodes[nodoAAgregar]['radio'])
+    print("radius", nodoAAgregar, radius)
+    #posicion.append(radius[0])
+    #posicion.append(radius[1])
+
+    nodoActual = p.Node( nodoAAgregar, radius =  radius)
     nodoPadre.agregarHijo( nodoActual )
 
     for vecino in grafo.neighbors( nodoAAgregar ):
         if vecino != numeroNodoPadre:
             aRecorrer.append( (vecino, nodoAAgregar,nodoActual) )
+            print("arrecorrer", (vecino, numeroNodoInicial,nodoRaiz ))
 
 print(nodoRaiz.children)
 print("right", nodoRaiz.data)
@@ -60,7 +75,8 @@ serial = nodoRaiz.serialize(nodoRaiz)
 print("serialized", nodoRaiz.serialize(nodoRaiz))
 
 #write serialized string to file
-file = open("./Trees/" + filename + ".dat", "w")
+#file = open("./Trees/" + filename + "-" + str(numeroNodoInicial) +".dat", "w")
+file = open("./Trees/" + filename +"-nl.dat", "w")
 file.write(serial)
 file.close() 
 

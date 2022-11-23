@@ -12,7 +12,11 @@ def calcularGrafoYArbol( fileObj, fileRadios ):
     for row in fileObj:
         if row[0:2] == 'v ':
             vertice = np.fromstring( row[2:], dtype=np.float32, sep=' ')
-            vertices.append( (len(verticesCrudos), {'posicion': Vec3( vertice[0], vertice[1], vertice[2]), 'radio': radios[len(verticesCrudos)]} ))
+           
+            print("nodo", len(verticesCrudos),{'radio': [vertice[0], vertice[1], vertice[2],radios[len(verticesCrudos)][0], radios[len(verticesCrudos)][1]]})
+            #vertices.append( (len(verticesCrudos), {'posicion': Vec3( vertice[0], vertice[1], vertice[2]), 'radio': radios[len(verticesCrudos)]} ))
+            vertices.append( (len(verticesCrudos), {'radio': (vertice[0], vertice[1], vertice[2],radios[len(verticesCrudos)][0],radios[len(verticesCrudos)][1])} ))
+
             verticesCrudos.append(vertice)
         elif row[0:2] == 'l ':
             linea = np.fromstring(row[2:], dtype=np.uint32, sep=' ')
@@ -36,11 +40,13 @@ def combinarNodos( grafo, repetidos ):
         nodos = [ grafo.nodes[nodo] for nodo in grupo ]
         aristas = np.unique( np.concatenate([ [arista[1] for arista in grafo.edges(nodo) if arista[1] not in grupo] for nodo in grupo]))
 
-        nuevoVertice = {
-            'posicion': np.sum( [ nodo['posicion'] for nodo in nodos ] ) / len(nodos),
-            'radio': np.sum( [ nodo['radio'] for nodo in nodos] ) / len(nodos)
-        }
+
+       
         nombreNodo = np.min(grupo)
+        print("grupo",grafo.nodes[nombreNodo]['radio'])
+        nuevoVertice = {
+            #'posicion': np.sum( [ nodo['posicion'] for nodo in nodos ] ) / len(nodos),
+            'radio': grafo.nodes[nombreNodo]['radio'] }
         grafo.remove_nodes_from(grupo)
         grafo.add_nodes_from( [(nombreNodo, nuevoVertice)])
         grafo.add_edges_from( [(nombreNodo, arista) for arista in aristas])

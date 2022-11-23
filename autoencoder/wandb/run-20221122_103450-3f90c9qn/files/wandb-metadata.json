@@ -1,0 +1,49 @@
+{
+    "os": "Windows-10-10.0.19044-SP0",
+    "python": "3.10.4",
+    "heartbeatAt": "2022-11-22T13:34:51.389527",
+    "startedAt": "2022-11-22T13:34:50.733380",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/LIA-DiTella/Intra.git",
+        "commit": "898167ab2ec2f8ab291d88fd1dd42f00f49883e8"
+    },
+    "email": "paulaadifeldman1@gmail.com",
+    "root": "C:/Users/User/Documents/rpoditela/Intra",
+    "host": "DESKTOP-ET9L3J1",
+    "username": "User",
+    "executable": "c:\\Users\\User\\anaconda3\\envs\\py_torc\\python.exe",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 3901.0,
+        "min": 0.0,
+        "max": 3901.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3901.0,
+            "min": 0.0,
+            "max": 3901.0
+        }
+    ],
+    "disk": {
+        "total": 446.5058822631836,
+        "used": 240.22761154174805
+    },
+    "gpu": "NVIDIA GeForce RTX 3060",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3060",
+            "memory_total": 12884901888
+        }
+    ],
+    "memory": {
+        "total": 31.374500274658203
+    }
+}
