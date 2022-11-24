@@ -54,9 +54,9 @@ for vecino in grafo.neighbors( numeroNodoInicial ):
 while len(aRecorrer) != 0:
     nodoAAgregar, numeroNodoPadre,nodoPadre = aRecorrer.pop(0)
     #posicion = list(grafo.nodes[nodoAAgregar]['posicion'].toNumpy())
-    print("nodo", nodoAAgregar)
+    
     radius = list(grafo.nodes[nodoAAgregar]['radio'])
-    print("radius", nodoAAgregar, radius)
+    
     #posicion.append(radius[0])
     #posicion.append(radius[1])
 
@@ -68,9 +68,8 @@ while len(aRecorrer) != 0:
             aRecorrer.append( (vecino, nodoAAgregar,nodoActual) )
             print("arrecorrer", (vecino, numeroNodoInicial,nodoRaiz ))
 
-print(nodoRaiz.children)
+print("hijos", nodoRaiz.children)
 print("right", nodoRaiz.data)
-print(nodoRaiz)
 serial = nodoRaiz.serialize(nodoRaiz)
 print("serialized", nodoRaiz.serialize(nodoRaiz))
 
@@ -80,6 +79,7 @@ file = open("./Trees/" + filename +"-nl.dat", "w")
 file.write(serial)
 file.close() 
 
+'''
 def traverse(root, tree):
        
         if root is not None:
@@ -133,6 +133,8 @@ def arbolAGrafo (nodoRaiz):
     #plt.show()
     #return G, a
     return G
+'''
+
 
 '''
 filename = 'test6.dat'
