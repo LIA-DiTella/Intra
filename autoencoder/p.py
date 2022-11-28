@@ -305,7 +305,7 @@ def arbolAGrafo (nodoRaiz):
     return G
 
 @count_fn
-def createNode(data, radius, position = None, left = None, right = None, cl_prob = None, ce = None, mse=None):
+def createNode(data, radius = None, position = None, left = None, right = None, cl_prob = None, ce = None, mse=None):
         """
         Utility function to create a node.
         """
