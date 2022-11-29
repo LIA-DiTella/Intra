@@ -1,0 +1,11 @@
+Epoch [1 / 8000] average reconstruction error: 0.34175634
+Epoch [11 / 8000] average reconstruction error: 0.33153316
+Epoch [21 / 8000] average reconstruction error: 0.32158914
+Epoch [31 / 8000] average reconstruction error: 0.31172341
+Epoch [41 / 8000] average reconstruction error: 0.30166289
+Epoch [51 / 8000] average reconstruction error: 0.29109874
+Epoch [61 / 8000] average reconstruction error: 0.27964219
+Epoch [71 / 8000] average reconstruction error: 0.26677960
+Epoch [81 / 8000] average reconstruction error: 0.25185066
+Epoch [91 / 8000] average reconstruction error: 0.23405461
+Epoch [101 / 8000] average reconstruction error: 0.21263261
