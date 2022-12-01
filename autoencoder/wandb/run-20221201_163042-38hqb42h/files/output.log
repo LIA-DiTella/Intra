@@ -1,0 +1,1000 @@
+
+Epoch [1 / 8000] average reconstruction error: 0.3006632328
+Epoch [11 / 8000] average reconstruction error: 0.2843137085
+Epoch [21 / 8000] average reconstruction error: 0.2673875988
+Epoch [31 / 8000] average reconstruction error: 0.2483296841
+Epoch [41 / 8000] average reconstruction error: 0.2248814851
+Epoch [51 / 8000] average reconstruction error: 0.1933389902
+Epoch [61 / 8000] average reconstruction error: 0.1482089013
+Epoch [71 / 8000] average reconstruction error: 0.0921405032
+Epoch [81 / 8000] average reconstruction error: 0.0590044633
+Epoch [91 / 8000] average reconstruction error: 0.0443169177
+Epoch [101 / 8000] average reconstruction error: 0.0363781750
+Epoch [111 / 8000] average reconstruction error: 0.0328980424
+Epoch [121 / 8000] average reconstruction error: 0.0306956675
+Epoch [131 / 8000] average reconstruction error: 0.0291063730
+Epoch [141 / 8000] average reconstruction error: 0.0275900718
+Epoch [151 / 8000] average reconstruction error: 0.0260708686
+Epoch [161 / 8000] average reconstruction error: 0.0246034991
+Epoch [171 / 8000] average reconstruction error: 0.0233477317
+Epoch [181 / 8000] average reconstruction error: 0.0223935395
+Epoch [191 / 8000] average reconstruction error: 0.0216980856
+Epoch [201 / 8000] average reconstruction error: 0.0211616755
+Epoch [211 / 8000] average reconstruction error: 0.0207033064
+Epoch [221 / 8000] average reconstruction error: 0.0202729497
+Epoch [231 / 8000] average reconstruction error: 0.0198379271
+Epoch [241 / 8000] average reconstruction error: 0.0193690024
+Epoch [251 / 8000] average reconstruction error: 0.0188354868
+Epoch [261 / 8000] average reconstruction error: 0.0182023440
+Epoch [271 / 8000] average reconstruction error: 0.0174252577
+Epoch [281 / 8000] average reconstruction error: 0.0164608564
+Epoch [291 / 8000] average reconstruction error: 0.0152932974
+Epoch [301 / 8000] average reconstruction error: 0.0139901955
+Epoch [311 / 8000] average reconstruction error: 0.0127060013
+Epoch [321 / 8000] average reconstruction error: 0.0115753254
+Epoch [331 / 8000] average reconstruction error: 0.0106756920
+Epoch [341 / 8000] average reconstruction error: 0.0100519210
+Epoch [351 / 8000] average reconstruction error: 0.0096431822
+Epoch [361 / 8000] average reconstruction error: 0.0093639791
+Epoch [371 / 8000] average reconstruction error: 0.0091673760
+Epoch [381 / 8000] average reconstruction error: 0.0090225777
+Epoch [391 / 8000] average reconstruction error: 0.0089130541
+Epoch [401 / 8000] average reconstruction error: 0.0088280756
+Epoch [411 / 8000] average reconstruction error: 0.0087598413
+Epoch [421 / 8000] average reconstruction error: 0.0087043140
+Epoch [431 / 8000] average reconstruction error: 0.0086563826
+Epoch [441 / 8000] average reconstruction error: 0.0086164447
+Epoch [451 / 8000] average reconstruction error: 0.0085813431
+Epoch [461 / 8000] average reconstruction error: 0.0085502751
+Epoch [471 / 8000] average reconstruction error: 0.0085221808
+Epoch [481 / 8000] average reconstruction error: 0.0084965993
+Epoch [491 / 8000] average reconstruction error: 0.0084733367
+Epoch [501 / 8000] average reconstruction error: 0.0084517226
+Epoch [511 / 8000] average reconstruction error: 0.0084313704
+Epoch [521 / 8000] average reconstruction error: 0.0084126247
+Epoch [531 / 8000] average reconstruction error: 0.0083947917
+Epoch [541 / 8000] average reconstruction error: 0.0083774803
+Epoch [551 / 8000] average reconstruction error: 0.0083616618
+Epoch [561 / 8000] average reconstruction error: 0.0083461069
+Epoch [571 / 8000] average reconstruction error: 0.0083311042
+Epoch [581 / 8000] average reconstruction error: 0.0083170850
+Epoch [591 / 8000] average reconstruction error: 0.0083029494
+Epoch [601 / 8000] average reconstruction error: 0.0082899509
+Epoch [611 / 8000] average reconstruction error: 0.0082765231
+Epoch [621 / 8000] average reconstruction error: 0.0082639577
+Epoch [631 / 8000] average reconstruction error: 0.0082515804
+Epoch [641 / 8000] average reconstruction error: 0.0082400637
+Epoch [651 / 8000] average reconstruction error: 0.0082286019
+Epoch [661 / 8000] average reconstruction error: 0.0082177427
+Epoch [671 / 8000] average reconstruction error: 0.0082071917
+Epoch [681 / 8000] average reconstruction error: 0.0081980722
+Epoch [691 / 8000] average reconstruction error: 0.0081884982
+Epoch [701 / 8000] average reconstruction error: 0.0081800139
+Epoch [711 / 8000] average reconstruction error: 0.0081716692
+Epoch [721 / 8000] average reconstruction error: 0.0081635732
+Epoch [731 / 8000] average reconstruction error: 0.0081565408
+Epoch [741 / 8000] average reconstruction error: 0.0081490669
+Epoch [751 / 8000] average reconstruction error: 0.0081420336
+Epoch [761 / 8000] average reconstruction error: 0.0081351688
+Epoch [771 / 8000] average reconstruction error: 0.0081289057
+Epoch [781 / 8000] average reconstruction error: 0.0081221415
+Epoch [791 / 8000] average reconstruction error: 0.0081154006
+Epoch [801 / 8000] average reconstruction error: 0.0081089837
+Epoch [811 / 8000] average reconstruction error: 0.0081023946
+Epoch [821 / 8000] average reconstruction error: 0.0080959862
+Epoch [831 / 8000] average reconstruction error: 0.0080890907
+Epoch [841 / 8000] average reconstruction error: 0.0080823367
+Epoch [851 / 8000] average reconstruction error: 0.0080753295
+Epoch [861 / 8000] average reconstruction error: 0.0080681983
+Epoch [871 / 8000] average reconstruction error: 0.0080611305
+Epoch [881 / 8000] average reconstruction error: 0.0080536399
+Epoch [891 / 8000] average reconstruction error: 0.0080455691
+Epoch [901 / 8000] average reconstruction error: 0.0080384901
+Epoch [911 / 8000] average reconstruction error: 0.0080305487
+Epoch [921 / 8000] average reconstruction error: 0.0080223093
+Epoch [931 / 8000] average reconstruction error: 0.0080136899
+Epoch [941 / 8000] average reconstruction error: 0.0080053080
+Epoch [951 / 8000] average reconstruction error: 0.0079964511
+Epoch [961 / 8000] average reconstruction error: 0.0079874536
+Epoch [971 / 8000] average reconstruction error: 0.0079784440
+Epoch [981 / 8000] average reconstruction error: 0.0079688048
+Epoch [991 / 8000] average reconstruction error: 0.0079588098
+Epoch [1001 / 8000] average reconstruction error: 0.0079483371
+Epoch [1011 / 8000] average reconstruction error: 0.0079377545
+Epoch [1021 / 8000] average reconstruction error: 0.0079275761
+Epoch [1031 / 8000] average reconstruction error: 0.0079161525
+Epoch [1041 / 8000] average reconstruction error: 0.0079048146
+Epoch [1051 / 8000] average reconstruction error: 0.0078928312
+Epoch [1061 / 8000] average reconstruction error: 0.0078810900
+Epoch [1071 / 8000] average reconstruction error: 0.0078680823
+Epoch [1081 / 8000] average reconstruction error: 0.0078553408
+Epoch [1091 / 8000] average reconstruction error: 0.0078419112
+Epoch [1101 / 8000] average reconstruction error: 0.0078280298
+Epoch [1111 / 8000] average reconstruction error: 0.0078133261
+Epoch [1121 / 8000] average reconstruction error: 0.0077979225
+Epoch [1131 / 8000] average reconstruction error: 0.0077816690
+Epoch [1141 / 8000] average reconstruction error: 0.0077644996
+Epoch [1151 / 8000] average reconstruction error: 0.0077465498
+Epoch [1161 / 8000] average reconstruction error: 0.0077269599
+Epoch [1171 / 8000] average reconstruction error: 0.0077054137
+Epoch [1181 / 8000] average reconstruction error: 0.0076824608
+Epoch [1191 / 8000] average reconstruction error: 0.0076574543
+Epoch [1201 / 8000] average reconstruction error: 0.0076298825
+Epoch [1211 / 8000] average reconstruction error: 0.0075995000
+Epoch [1221 / 8000] average reconstruction error: 0.0075664627
+Epoch [1231 / 8000] average reconstruction error: 0.0075300322
+Epoch [1241 / 8000] average reconstruction error: 0.0074917511
+Epoch [1251 / 8000] average reconstruction error: 0.0074497531
+Epoch [1261 / 8000] average reconstruction error: 0.0074070417
+Epoch [1271 / 8000] average reconstruction error: 0.0073642037
+Epoch [1281 / 8000] average reconstruction error: 0.0073213405
+Epoch [1291 / 8000] average reconstruction error: 0.0072869412
+Epoch [1301 / 8000] average reconstruction error: 0.0072452994
+Epoch [1311 / 8000] average reconstruction error: 0.0072135166
+Epoch [1321 / 8000] average reconstruction error: 0.0071802000
+Epoch [1331 / 8000] average reconstruction error: 0.0071527599
+Epoch [1341 / 8000] average reconstruction error: 0.0071277618
+Epoch [1351 / 8000] average reconstruction error: 0.0071052434
+Epoch [1361 / 8000] average reconstruction error: 0.0070866342
+Epoch [1371 / 8000] average reconstruction error: 0.0070645483
+Epoch [1381 / 8000] average reconstruction error: 0.0070476881
+Epoch [1391 / 8000] average reconstruction error: 0.0070319246
+Epoch [1401 / 8000] average reconstruction error: 0.0070177722
+Epoch [1411 / 8000] average reconstruction error: 0.0070052729
+Epoch [1421 / 8000] average reconstruction error: 0.0069945008
+Epoch [1431 / 8000] average reconstruction error: 0.0070060543
+Epoch [1441 / 8000] average reconstruction error: 0.0069775688
+Epoch [1451 / 8000] average reconstruction error: 0.0069721914
+Epoch [1461 / 8000] average reconstruction error: 0.0069663408
+Epoch [1471 / 8000] average reconstruction error: 0.0069608316
+Epoch [1481 / 8000] average reconstruction error: 0.0069565000
+Epoch [1491 / 8000] average reconstruction error: 0.0069531701
+Epoch [1501 / 8000] average reconstruction error: 0.0069500394
+Epoch [1511 / 8000] average reconstruction error: 0.0069473730
+Epoch [1521 / 8000] average reconstruction error: 0.0069453404
+Epoch [1531 / 8000] average reconstruction error: 0.0069431402
+Epoch [1541 / 8000] average reconstruction error: 0.0069421255
+Epoch [1551 / 8000] average reconstruction error: 0.0069417632
+Epoch [1561 / 8000] average reconstruction error: 0.0069386377
+Epoch [1571 / 8000] average reconstruction error: 0.0069384575
+Epoch [1581 / 8000] average reconstruction error: 0.0069363886
+Epoch [1591 / 8000] average reconstruction error: 0.0069361255
+Epoch [1601 / 8000] average reconstruction error: 0.0069418573
+Epoch [1611 / 8000] average reconstruction error: 0.0069348686
+Epoch [1621 / 8000] average reconstruction error: 0.0069331289
+Epoch [1631 / 8000] average reconstruction error: 0.0069343159
+Epoch [1641 / 8000] average reconstruction error: 0.0069319392
+Epoch [1651 / 8000] average reconstruction error: 0.0069314614
+Epoch [1661 / 8000] average reconstruction error: 0.0069351494
+Epoch [1671 / 8000] average reconstruction error: 0.0069304267
+Epoch [1681 / 8000] average reconstruction error: 0.0069320807
+Epoch [1691 / 8000] average reconstruction error: 0.0069319862
+Epoch [1701 / 8000] average reconstruction error: 0.0069299052
+Epoch [1711 / 8000] average reconstruction error: 0.0069297226
+Epoch [1721 / 8000] average reconstruction error: 0.0069288402
+Epoch [1731 / 8000] average reconstruction error: 0.0069281915
+Epoch [1741 / 8000] average reconstruction error: 0.0069284248
+Epoch [1751 / 8000] average reconstruction error: 0.0069305897
+Epoch [1761 / 8000] average reconstruction error: 0.0069279592
+Epoch [1771 / 8000] average reconstruction error: 0.0069321892
+Epoch [1781 / 8000] average reconstruction error: 0.0069302390
+Epoch [1791 / 8000] average reconstruction error: 0.0069271238
+Epoch [1801 / 8000] average reconstruction error: 0.0069263540
+Epoch [1811 / 8000] average reconstruction error: 0.0069260816
+Epoch [1821 / 8000] average reconstruction error: 0.0069281571
+Epoch [1831 / 8000] average reconstruction error: 0.0069283112
+Epoch [1841 / 8000] average reconstruction error: 0.0069301501
+Epoch [1851 / 8000] average reconstruction error: 0.0069262325
+Epoch [1861 / 8000] average reconstruction error: 0.0069252574
+Epoch [1871 / 8000] average reconstruction error: 0.0069252378
+Epoch [1881 / 8000] average reconstruction error: 0.0069250981
+Epoch [1891 / 8000] average reconstruction error: 0.0069249659
+Epoch [1901 / 8000] average reconstruction error: 0.0069245622
+Epoch [1911 / 8000] average reconstruction error: 0.0069294050
+Epoch [1921 / 8000] average reconstruction error: 0.0069243680
+Epoch [1931 / 8000] average reconstruction error: 0.0069315135
+Epoch [1941 / 8000] average reconstruction error: 0.0069240332
+Epoch [1951 / 8000] average reconstruction error: 0.0069248723
+Epoch [1961 / 8000] average reconstruction error: 0.0069241300
+Epoch [1971 / 8000] average reconstruction error: 0.0069237128
+Epoch [1981 / 8000] average reconstruction error: 0.0069236234
+Epoch [1991 / 8000] average reconstruction error: 0.0069236145
+Epoch [2001 / 8000] average reconstruction error: 0.0069234329
+Epoch [2011 / 8000] average reconstruction error: 0.0069241696
+Epoch [2021 / 8000] average reconstruction error: 0.0069231750
+Epoch [2031 / 8000] average reconstruction error: 0.0069263661
+Epoch [2041 / 8000] average reconstruction error: 0.0069229975
+Epoch [2051 / 8000] average reconstruction error: 0.0069233128
+Epoch [2061 / 8000] average reconstruction error: 0.0069232932
+Epoch [2071 / 8000] average reconstruction error: 0.0069267722
+Epoch [2081 / 8000] average reconstruction error: 0.0069248015
+Epoch [2091 / 8000] average reconstruction error: 0.0069233277
+Epoch [2101 / 8000] average reconstruction error: 0.0069229561
+Epoch [2111 / 8000] average reconstruction error: 0.0069225109
+Epoch [2121 / 8000] average reconstruction error: 0.0069247107
+Epoch [2131 / 8000] average reconstruction error: 0.0069259331
+Epoch [2141 / 8000] average reconstruction error: 0.0069233598
+Epoch [2151 / 8000] average reconstruction error: 0.0069222683
+Epoch [2161 / 8000] average reconstruction error: 0.0069257501
+Epoch [2171 / 8000] average reconstruction error: 0.0069223084
+Epoch [2181 / 8000] average reconstruction error: 0.0069228071
+Epoch [2191 / 8000] average reconstruction error: 0.0069229738
+Epoch [2201 / 8000] average reconstruction error: 0.0069221980
+Epoch [2211 / 8000] average reconstruction error: 0.0069217803
+Epoch [2221 / 8000] average reconstruction error: 0.0069217593
+Epoch [2231 / 8000] average reconstruction error: 0.0069216052
+Epoch [2241 / 8000] average reconstruction error: 0.0069233598
+Epoch [2251 / 8000] average reconstruction error: 0.0069214799
+Epoch [2261 / 8000] average reconstruction error: 0.0069216490
+Epoch [2271 / 8000] average reconstruction error: 0.0069225132
+Epoch [2281 / 8000] average reconstruction error: 0.0069314227
+Epoch [2291 / 8000] average reconstruction error: 0.0069212802
+Epoch [2301 / 8000] average reconstruction error: 0.0069212141
+Epoch [2311 / 8000] average reconstruction error: 0.0069213808
+Epoch [2321 / 8000] average reconstruction error: 0.0069216057
+Epoch [2331 / 8000] average reconstruction error: 0.0069299536
+Epoch [2341 / 8000] average reconstruction error: 0.0069226823
+Epoch [2351 / 8000] average reconstruction error: 0.0069214790
+Epoch [2361 / 8000] average reconstruction error: 0.0069222949
+Epoch [2371 / 8000] average reconstruction error: 0.0069215330
+Epoch [2381 / 8000] average reconstruction error: 0.0069226385
+Epoch [2391 / 8000] average reconstruction error: 0.0069224075
+Epoch [2401 / 8000] average reconstruction error: 0.0069210953
+Epoch [2411 / 8000] average reconstruction error: 0.0069207060
+Epoch [2421 / 8000] average reconstruction error: 0.0069214776
+Epoch [2431 / 8000] average reconstruction error: 0.0069266059
+Epoch [2441 / 8000] average reconstruction error: 0.0069206445
+Epoch [2451 / 8000] average reconstruction error: 0.0069208317
+Epoch [2461 / 8000] average reconstruction error: 0.0069219219
+Epoch [2471 / 8000] average reconstruction error: 0.0069212890
+Epoch [2481 / 8000] average reconstruction error: 0.0069204452
+Epoch [2491 / 8000] average reconstruction error: 0.0069203787
+Epoch [2501 / 8000] average reconstruction error: 0.0069216653
+Epoch [2511 / 8000] average reconstruction error: 0.0069211721
+Epoch [2521 / 8000] average reconstruction error: 0.0069207735
+Epoch [2531 / 8000] average reconstruction error: 0.0069202776
+Epoch [2541 / 8000] average reconstruction error: 0.0069202082
+Epoch [2551 / 8000] average reconstruction error: 0.0069212229
+Epoch [2561 / 8000] average reconstruction error: 0.0069201696
+Epoch [2571 / 8000] average reconstruction error: 0.0069208564
+Epoch [2581 / 8000] average reconstruction error: 0.0069207675
+Epoch [2591 / 8000] average reconstruction error: 0.0069225612
+Epoch [2601 / 8000] average reconstruction error: 0.0069215121
+Epoch [2611 / 8000] average reconstruction error: 0.0069202255
+Epoch [2621 / 8000] average reconstruction error: 0.0069240551
+Epoch [2631 / 8000] average reconstruction error: 0.0069222264
+Epoch [2641 / 8000] average reconstruction error: 0.0069212625
+Epoch [2651 / 8000] average reconstruction error: 0.0069199312
+Epoch [2661 / 8000] average reconstruction error: 0.0069202245
+Epoch [2671 / 8000] average reconstruction error: 0.0069205360
+Epoch [2681 / 8000] average reconstruction error: 0.0069211423
+Epoch [2691 / 8000] average reconstruction error: 0.0069197859
+Epoch [2701 / 8000] average reconstruction error: 0.0069198683
+Epoch [2711 / 8000] average reconstruction error: 0.0069198818
+Epoch [2721 / 8000] average reconstruction error: 0.0069214627
+Epoch [2731 / 8000] average reconstruction error: 0.0069254921
+Epoch [2741 / 8000] average reconstruction error: 0.0069228858
+Epoch [2751 / 8000] average reconstruction error: 0.0069210241
+Epoch [2761 / 8000] average reconstruction error: 0.0069207302
+Epoch [2771 / 8000] average reconstruction error: 0.0069196746
+Epoch [2781 / 8000] average reconstruction error: 0.0069196667
+Epoch [2791 / 8000] average reconstruction error: 0.0069209808
+Epoch [2801 / 8000] average reconstruction error: 0.0069230050
+Epoch [2811 / 8000] average reconstruction error: 0.0069241808
+Epoch [2821 / 8000] average reconstruction error: 0.0069197626
+Epoch [2831 / 8000] average reconstruction error: 0.0069203801
+Epoch [2841 / 8000] average reconstruction error: 0.0069211619
+Epoch [2851 / 8000] average reconstruction error: 0.0069200881
+Epoch [2861 / 8000] average reconstruction error: 0.0069193761
+Epoch [2871 / 8000] average reconstruction error: 0.0069255754
+Epoch [2881 / 8000] average reconstruction error: 0.0069193640
+Epoch [2891 / 8000] average reconstruction error: 0.0069203908
+Epoch [2901 / 8000] average reconstruction error: 0.0069204965
+Epoch [2911 / 8000] average reconstruction error: 0.0069191963
+Epoch [2921 / 8000] average reconstruction error: 0.0069215000
+Epoch [2931 / 8000] average reconstruction error: 0.0069199274
+Epoch [2941 / 8000] average reconstruction error: 0.0069194878
+Epoch [2951 / 8000] average reconstruction error: 0.0069192960
+Epoch [2961 / 8000] average reconstruction error: 0.0069191861
+Epoch [2971 / 8000] average reconstruction error: 0.0069190869
+Epoch [2981 / 8000] average reconstruction error: 0.0069211409
+Epoch [2991 / 8000] average reconstruction error: 0.0069362321
+Epoch [3001 / 8000] average reconstruction error: 0.0069257417
+Epoch [3011 / 8000] average reconstruction error: 0.0069213668
+Epoch [3021 / 8000] average reconstruction error: 0.0069194916
+Epoch [3031 / 8000] average reconstruction error: 0.0069198469
+Epoch [3041 / 8000] average reconstruction error: 0.0069196285
+Epoch [3051 / 8000] average reconstruction error: 0.0069191242
+Epoch [3061 / 8000] average reconstruction error: 0.0069191083
+Epoch [3071 / 8000] average reconstruction error: 0.0069207028
+Epoch [3081 / 8000] average reconstruction error: 0.0069188341
+Epoch [3091 / 8000] average reconstruction error: 0.0069190734
+Epoch [3101 / 8000] average reconstruction error: 0.0069188639
+Epoch [3111 / 8000] average reconstruction error: 0.0069187777
+Epoch [3121 / 8000] average reconstruction error: 0.0069227177
+Epoch [3131 / 8000] average reconstruction error: 0.0069206837
+Epoch [3141 / 8000] average reconstruction error: 0.0069233640
+Epoch [3151 / 8000] average reconstruction error: 0.0069186897
+Epoch [3161 / 8000] average reconstruction error: 0.0069189030
+Epoch [3171 / 8000] average reconstruction error: 0.0069188820
+Epoch [3181 / 8000] average reconstruction error: 0.0069191391
+Epoch [3191 / 8000] average reconstruction error: 0.0069197775
+Epoch [3201 / 8000] average reconstruction error: 0.0069194487
+Epoch [3211 / 8000] average reconstruction error: 0.0069217435
+Epoch [3221 / 8000] average reconstruction error: 0.0069205756
+Epoch [3231 / 8000] average reconstruction error: 0.0069188285
+Epoch [3241 / 8000] average reconstruction error: 0.0069193929
+Epoch [3251 / 8000] average reconstruction error: 0.0069276094
+Epoch [3261 / 8000] average reconstruction error: 0.0069225207
+Epoch [3271 / 8000] average reconstruction error: 0.0069186627
+Epoch [3281 / 8000] average reconstruction error: 0.0069191675
+Epoch [3291 / 8000] average reconstruction error: 0.0069226236
+Epoch [3301 / 8000] average reconstruction error: 0.0069204606
+Epoch [3311 / 8000] average reconstruction error: 0.0069194990
+Epoch [3321 / 8000] average reconstruction error: 0.0069184485
+Epoch [3331 / 8000] average reconstruction error: 0.0069183796
+Epoch [3341 / 8000] average reconstruction error: 0.0069192918
+Epoch [3351 / 8000] average reconstruction error: 0.0069184126
+Epoch [3361 / 8000] average reconstruction error: 0.0069186734
+Epoch [3371 / 8000] average reconstruction error: 0.0069189905
+Epoch [3381 / 8000] average reconstruction error: 0.0069191568
+Epoch [3391 / 8000] average reconstruction error: 0.0069186985
+Epoch [3401 / 8000] average reconstruction error: 0.0069190054
+Epoch [3411 / 8000] average reconstruction error: 0.0069484501
+Epoch [3421 / 8000] average reconstruction error: 0.0069293650
+Epoch [3431 / 8000] average reconstruction error: 0.0069192708
+Epoch [3441 / 8000] average reconstruction error: 0.0069184708
+Epoch [3451 / 8000] average reconstruction error: 0.0069185249
+Epoch [3461 / 8000] average reconstruction error: 0.0069182971
+Epoch [3471 / 8000] average reconstruction error: 0.0069185006
+Epoch [3481 / 8000] average reconstruction error: 0.0069190091
+Epoch [3491 / 8000] average reconstruction error: 0.0069183097
+Epoch [3501 / 8000] average reconstruction error: 0.0069188015
+Epoch [3511 / 8000] average reconstruction error: 0.0069185840
+Epoch [3521 / 8000] average reconstruction error: 0.0069181114
+Epoch [3531 / 8000] average reconstruction error: 0.0069189565
+Epoch [3541 / 8000] average reconstruction error: 0.0069196089
+Epoch [3551 / 8000] average reconstruction error: 0.0069190213
+Epoch [3561 / 8000] average reconstruction error: 0.0069193426
+Epoch [3571 / 8000] average reconstruction error: 0.0069202431
+Epoch [3581 / 8000] average reconstruction error: 0.0069181765
+Epoch [3591 / 8000] average reconstruction error: 0.0069216043
+Epoch [3601 / 8000] average reconstruction error: 0.0069214227
+Epoch [3611 / 8000] average reconstruction error: 0.0069187367
+Epoch [3621 / 8000] average reconstruction error: 0.0069181579
+Epoch [3631 / 8000] average reconstruction error: 0.0069180387
+Epoch [3641 / 8000] average reconstruction error: 0.0069183409
+Epoch [3651 / 8000] average reconstruction error: 0.0069213300
+Epoch [3661 / 8000] average reconstruction error: 0.0069183954
+Epoch [3671 / 8000] average reconstruction error: 0.0069180871
+Epoch [3681 / 8000] average reconstruction error: 0.0069189142
+Epoch [3691 / 8000] average reconstruction error: 0.0069196331
+Epoch [3701 / 8000] average reconstruction error: 0.0069188043
+Epoch [3711 / 8000] average reconstruction error: 0.0069195866
+Epoch [3721 / 8000] average reconstruction error: 0.0069179437
+Epoch [3731 / 8000] average reconstruction error: 0.0069194189
+Epoch [3741 / 8000] average reconstruction error: 0.0069186478
+Epoch [3751 / 8000] average reconstruction error: 0.0069185286
+Epoch [3761 / 8000] average reconstruction error: 0.0069178506
+Epoch [3771 / 8000] average reconstruction error: 0.0069212690
+Epoch [3781 / 8000] average reconstruction error: 0.0069233328
+Epoch [3791 / 8000] average reconstruction error: 0.0069194096
+Epoch [3801 / 8000] average reconstruction error: 0.0069179046
+Epoch [3811 / 8000] average reconstruction error: 0.0069190785
+Epoch [3821 / 8000] average reconstruction error: 0.0069187135
+Epoch [3831 / 8000] average reconstruction error: 0.0069181039
+Epoch [3841 / 8000] average reconstruction error: 0.0069179758
+Epoch [3851 / 8000] average reconstruction error: 0.0069181630
+Epoch [3861 / 8000] average reconstruction error: 0.0069180815
+Epoch [3871 / 8000] average reconstruction error: 0.0069181039
+Epoch [3881 / 8000] average reconstruction error: 0.0069178268
+Epoch [3891 / 8000] average reconstruction error: 0.0069188080
+Epoch [3901 / 8000] average reconstruction error: 0.0069181235
+Epoch [3911 / 8000] average reconstruction error: 0.0069177710
+Epoch [3921 / 8000] average reconstruction error: 0.0069176196
+Epoch [3931 / 8000] average reconstruction error: 0.0069224457
+Epoch [3941 / 8000] average reconstruction error: 0.0069206045
+Epoch [3951 / 8000] average reconstruction error: 0.0069175884
+Epoch [3961 / 8000] average reconstruction error: 0.0069177076
+Epoch [3971 / 8000] average reconstruction error: 0.0069175260
+Epoch [3981 / 8000] average reconstruction error: 0.0069178836
+Epoch [3991 / 8000] average reconstruction error: 0.0069176094
+Epoch [4001 / 8000] average reconstruction error: 0.0069178538
+Epoch [4011 / 8000] average reconstruction error: 0.0069175065
+Epoch [4021 / 8000] average reconstruction error: 0.0069176941
+Epoch [4031 / 8000] average reconstruction error: 0.0069255265
+Epoch [4041 / 8000] average reconstruction error: 0.0069176303
+Epoch [4051 / 8000] average reconstruction error: 0.0069180415
+Epoch [4061 / 8000] average reconstruction error: 0.0069193649
+Epoch [4071 / 8000] average reconstruction error: 0.0069175246
+Epoch [4081 / 8000] average reconstruction error: 0.0069182985
+Epoch [4091 / 8000] average reconstruction error: 0.0069174021
+Epoch [4101 / 8000] average reconstruction error: 0.0069174678
+Epoch [4111 / 8000] average reconstruction error: 0.0069175432
+Epoch [4121 / 8000] average reconstruction error: 0.0069173872
+Epoch [4131 / 8000] average reconstruction error: 0.0069174008
+Epoch [4141 / 8000] average reconstruction error: 0.0069184462
+Epoch [4151 / 8000] average reconstruction error: 0.0069410861
+Epoch [4161 / 8000] average reconstruction error: 0.0069224620
+Epoch [4171 / 8000] average reconstruction error: 0.0069191544
+Epoch [4181 / 8000] average reconstruction error: 0.0069173272
+Epoch [4191 / 8000] average reconstruction error: 0.0069173397
+Epoch [4201 / 8000] average reconstruction error: 0.0069186436
+Epoch [4211 / 8000] average reconstruction error: 0.0069172592
+Epoch [4221 / 8000] average reconstruction error: 0.0069185677
+Epoch [4231 / 8000] average reconstruction error: 0.0069186175
+Epoch [4241 / 8000] average reconstruction error: 0.0069175246
+Epoch [4251 / 8000] average reconstruction error: 0.0069182734
+Epoch [4261 / 8000] average reconstruction error: 0.0069214716
+Epoch [4271 / 8000] average reconstruction error: 0.0069191679
+Epoch [4281 / 8000] average reconstruction error: 0.0069196871
+Epoch [4291 / 8000] average reconstruction error: 0.0069172159
+Epoch [4301 / 8000] average reconstruction error: 0.0069175675
+Epoch [4311 / 8000] average reconstruction error: 0.0069172517
+Epoch [4321 / 8000] average reconstruction error: 0.0069171251
+Epoch [4331 / 8000] average reconstruction error: 0.0069172489
+Epoch [4341 / 8000] average reconstruction error: 0.0069171838
+Epoch [4351 / 8000] average reconstruction error: 0.0069177873
+Epoch [4361 / 8000] average reconstruction error: 0.0069180578
+Epoch [4371 / 8000] average reconstruction error: 0.0069186972
+Epoch [4381 / 8000] average reconstruction error: 0.0069176243
+Epoch [4391 / 8000] average reconstruction error: 0.0069194147
+Epoch [4401 / 8000] average reconstruction error: 0.0069178045
+Epoch [4411 / 8000] average reconstruction error: 0.0069197016
+Epoch [4421 / 8000] average reconstruction error: 0.0069185193
+Epoch [4431 / 8000] average reconstruction error: 0.0069171013
+Epoch [4441 / 8000] average reconstruction error: 0.0069188313
+Epoch [4451 / 8000] average reconstruction error: 0.0069280923
+Epoch [4461 / 8000] average reconstruction error: 0.0069173276
+Epoch [4471 / 8000] average reconstruction error: 0.0069176923
+Epoch [4481 / 8000] average reconstruction error: 0.0069170180
+Epoch [4491 / 8000] average reconstruction error: 0.0069172247
+Epoch [4501 / 8000] average reconstruction error: 0.0069173113
+Epoch [4511 / 8000] average reconstruction error: 0.0069193766
+Epoch [4521 / 8000] average reconstruction error: 0.0069179921
+Epoch [4531 / 8000] average reconstruction error: 0.0069172354
+Epoch [4541 / 8000] average reconstruction error: 0.0069170170
+Epoch [4551 / 8000] average reconstruction error: 0.0069169565
+Epoch [4561 / 8000] average reconstruction error: 0.0069170208
+Epoch [4571 / 8000] average reconstruction error: 0.0069179833
+Epoch [4581 / 8000] average reconstruction error: 0.0069276774
+Epoch [4591 / 8000] average reconstruction error: 0.0069182091
+Epoch [4601 / 8000] average reconstruction error: 0.0069168629
+Epoch [4611 / 8000] average reconstruction error: 0.0069172294
+Epoch [4621 / 8000] average reconstruction error: 0.0069170236
+Epoch [4631 / 8000] average reconstruction error: 0.0069174147
+Epoch [4641 / 8000] average reconstruction error: 0.0069172545
+Epoch [4651 / 8000] average reconstruction error: 0.0069184089
+Epoch [4661 / 8000] average reconstruction error: 0.0069167018
+Epoch [4671 / 8000] average reconstruction error: 0.0069167013
+Epoch [4681 / 8000] average reconstruction error: 0.0069209444
+Epoch [4691 / 8000] average reconstruction error: 0.0069168597
+Epoch [4701 / 8000] average reconstruction error: 0.0069170147
+Epoch [4711 / 8000] average reconstruction error: 0.0069175260
+Epoch [4721 / 8000] average reconstruction error: 0.0069188694
+Epoch [4731 / 8000] average reconstruction error: 0.0069204378
+Epoch [4741 / 8000] average reconstruction error: 0.0069177561
+Epoch [4751 / 8000] average reconstruction error: 0.0069172904
+Epoch [4761 / 8000] average reconstruction error: 0.0069169155
+Epoch [4771 / 8000] average reconstruction error: 0.0069166049
+Epoch [4781 / 8000] average reconstruction error: 0.0069176960
+Epoch [4791 / 8000] average reconstruction error: 0.0069180802
+Epoch [4801 / 8000] average reconstruction error: 0.0069171535
+Epoch [4811 / 8000] average reconstruction error: 0.0069172359
+Epoch [4821 / 8000] average reconstruction error: 0.0069194096
+Epoch [4831 / 8000] average reconstruction error: 0.0069206762
+Epoch [4841 / 8000] average reconstruction error: 0.0069198771
+Epoch [4851 / 8000] average reconstruction error: 0.0069183051
+Epoch [4861 / 8000] average reconstruction error: 0.0069169723
+Epoch [4871 / 8000] average reconstruction error: 0.0069165984
+Epoch [4881 / 8000] average reconstruction error: 0.0069167316
+Epoch [4891 / 8000] average reconstruction error: 0.0069165179
+Epoch [4901 / 8000] average reconstruction error: 0.0069226623
+Epoch [4911 / 8000] average reconstruction error: 0.0069171721
+Epoch [4921 / 8000] average reconstruction error: 0.0069169649
+Epoch [4931 / 8000] average reconstruction error: 0.0069165430
+Epoch [4941 / 8000] average reconstruction error: 0.0069179907
+Epoch [4951 / 8000] average reconstruction error: 0.0069168578
+Epoch [4961 / 8000] average reconstruction error: 0.0069171228
+Epoch [4971 / 8000] average reconstruction error: 0.0069164867
+Epoch [4981 / 8000] average reconstruction error: 0.0069178389
+Epoch [4991 / 8000] average reconstruction error: 0.0069165598
+Epoch [5001 / 8000] average reconstruction error: 0.0069168434
+Epoch [5011 / 8000] average reconstruction error: 0.0069163414
+Epoch [5021 / 8000] average reconstruction error: 0.0069202273
+Epoch [5031 / 8000] average reconstruction error: 0.0069178417
+Epoch [5041 / 8000] average reconstruction error: 0.0069169193
+Epoch [5051 / 8000] average reconstruction error: 0.0069187852
+Epoch [5061 / 8000] average reconstruction error: 0.0069163502
+Epoch [5071 / 8000] average reconstruction error: 0.0069182627
+Epoch [5081 / 8000] average reconstruction error: 0.0069168969
+Epoch [5091 / 8000] average reconstruction error: 0.0069172471
+Epoch [5101 / 8000] average reconstruction error: 0.0069202096
+Epoch [5111 / 8000] average reconstruction error: 0.0069170282
+Epoch [5121 / 8000] average reconstruction error: 0.0069170007
+Epoch [5131 / 8000] average reconstruction error: 0.0069176592
+Epoch [5141 / 8000] average reconstruction error: 0.0069186040
+Epoch [5151 / 8000] average reconstruction error: 0.0069168615
+Epoch [5161 / 8000] average reconstruction error: 0.0069162869
+Epoch [5171 / 8000] average reconstruction error: 0.0069165714
+Epoch [5181 / 8000] average reconstruction error: 0.0069165784
+Epoch [5191 / 8000] average reconstruction error: 0.0069178925
+Epoch [5201 / 8000] average reconstruction error: 0.0069170380
+Epoch [5211 / 8000] average reconstruction error: 0.0069162250
+Epoch [5221 / 8000] average reconstruction error: 0.0069163889
+Epoch [5231 / 8000] average reconstruction error: 0.0069407388
+Epoch [5241 / 8000] average reconstruction error: 0.0069235200
+Epoch [5251 / 8000] average reconstruction error: 0.0069176941
+Epoch [5261 / 8000] average reconstruction error: 0.0069162208
+Epoch [5271 / 8000] average reconstruction error: 0.0069171116
+Epoch [5281 / 8000] average reconstruction error: 0.0069163512
+Epoch [5291 / 8000] average reconstruction error: 0.0069161020
+Epoch [5301 / 8000] average reconstruction error: 0.0069164755
+Epoch [5311 / 8000] average reconstruction error: 0.0069160610
+Epoch [5321 / 8000] average reconstruction error: 0.0069161602
+Epoch [5331 / 8000] average reconstruction error: 0.0069165155
+Epoch [5341 / 8000] average reconstruction error: 0.0069179605
+Epoch [5351 / 8000] average reconstruction error: 0.0069171237
+Epoch [5361 / 8000] average reconstruction error: 0.0069163512
+Epoch [5371 / 8000] average reconstruction error: 0.0069161402
+Epoch [5381 / 8000] average reconstruction error: 0.0069170981
+Epoch [5391 / 8000] average reconstruction error: 0.0069166729
+Epoch [5401 / 8000] average reconstruction error: 0.0069216564
+Epoch [5411 / 8000] average reconstruction error: 0.0069161425
+Epoch [5421 / 8000] average reconstruction error: 0.0069166380
+Epoch [5431 / 8000] average reconstruction error: 0.0069164708
+Epoch [5441 / 8000] average reconstruction error: 0.0069166021
+Epoch [5451 / 8000] average reconstruction error: 0.0069162049
+Epoch [5461 / 8000] average reconstruction error: 0.0069162282
+Epoch [5471 / 8000] average reconstruction error: 0.0069160000
+Epoch [5481 / 8000] average reconstruction error: 0.0069169821
+Epoch [5491 / 8000] average reconstruction error: 0.0069171162
+Epoch [5501 / 8000] average reconstruction error: 0.0069163637
+Epoch [5511 / 8000] average reconstruction error: 0.0069178469
+Epoch [5521 / 8000] average reconstruction error: 0.0069178119
+Epoch [5531 / 8000] average reconstruction error: 0.0069162212
+Epoch [5541 / 8000] average reconstruction error: 0.0069166482
+Epoch [5551 / 8000] average reconstruction error: 0.0069160215
+Epoch [5561 / 8000] average reconstruction error: 0.0069162310
+Epoch [5571 / 8000] average reconstruction error: 0.0069208532
+Epoch [5581 / 8000] average reconstruction error: 0.0069192238
+Epoch [5591 / 8000] average reconstruction error: 0.0069159181
+Epoch [5601 / 8000] average reconstruction error: 0.0069161551
+Epoch [5611 / 8000] average reconstruction error: 0.0069172466
+Epoch [5621 / 8000] average reconstruction error: 0.0069159777
+Epoch [5631 / 8000] average reconstruction error: 0.0069183931
+Epoch [5641 / 8000] average reconstruction error: 0.0069164322
+Epoch [5651 / 8000] average reconstruction error: 0.0069160550
+Epoch [5661 / 8000] average reconstruction error: 0.0069158734
+Epoch [5671 / 8000] average reconstruction error: 0.0069178203
+Epoch [5681 / 8000] average reconstruction error: 0.0069277198
+Epoch [5691 / 8000] average reconstruction error: 0.0069163754
+Epoch [5701 / 8000] average reconstruction error: 0.0069182785
+Epoch [5711 / 8000] average reconstruction error: 0.0069171712
+Epoch [5721 / 8000] average reconstruction error: 0.0069168741
+Epoch [5731 / 8000] average reconstruction error: 0.0069167526
+Epoch [5741 / 8000] average reconstruction error: 0.0069163064
+Epoch [5751 / 8000] average reconstruction error: 0.0069160694
+Epoch [5761 / 8000] average reconstruction error: 0.0069161463
+Epoch [5771 / 8000] average reconstruction error: 0.0069159656
+Epoch [5781 / 8000] average reconstruction error: 0.0069159316
+Epoch [5791 / 8000] average reconstruction error: 0.0069160997
+Epoch [5801 / 8000] average reconstruction error: 0.0069159018
+Epoch [5811 / 8000] average reconstruction error: 0.0069158450
+Epoch [5821 / 8000] average reconstruction error: 0.0069159395
+Epoch [5831 / 8000] average reconstruction error: 0.0069171390
+Epoch [5841 / 8000] average reconstruction error: 0.0069165938
+Epoch [5851 / 8000] average reconstruction error: 0.0069190124
+Epoch [5861 / 8000] average reconstruction error: 0.0069176927
+Epoch [5871 / 8000] average reconstruction error: 0.0069183982
+Epoch [5881 / 8000] average reconstruction error: 0.0069159688
+Epoch [5891 / 8000] average reconstruction error: 0.0069175223
+Epoch [5901 / 8000] average reconstruction error: 0.0069163102
+Epoch [5911 / 8000] average reconstruction error: 0.0069161193
+Epoch [5921 / 8000] average reconstruction error: 0.0069158995
+Epoch [5931 / 8000] average reconstruction error: 0.0069160173
+Epoch [5941 / 8000] average reconstruction error: 0.0069161342
+Epoch [5951 / 8000] average reconstruction error: 0.0069208876
+Epoch [5961 / 8000] average reconstruction error: 0.0069246814
+Epoch [5971 / 8000] average reconstruction error: 0.0069161588
+Epoch [5981 / 8000] average reconstruction error: 0.0069165449
+Epoch [5991 / 8000] average reconstruction error: 0.0069160350
+Epoch [6001 / 8000] average reconstruction error: 0.0069160201
+Epoch [6011 / 8000] average reconstruction error: 0.0069158832
+Epoch [6021 / 8000] average reconstruction error: 0.0069159269
+Epoch [6031 / 8000] average reconstruction error: 0.0069162995
+Epoch [6041 / 8000] average reconstruction error: 0.0069167586
+Epoch [6051 / 8000] average reconstruction error: 0.0069176252
+Epoch [6061 / 8000] average reconstruction error: 0.0069160569
+Epoch [6071 / 8000] average reconstruction error: 0.0069164881
+Epoch [6081 / 8000] average reconstruction error: 0.0069165840
+Epoch [6091 / 8000] average reconstruction error: 0.0069160773
+Epoch [6101 / 8000] average reconstruction error: 0.0069160550
+Epoch [6111 / 8000] average reconstruction error: 0.0069159134
+Epoch [6121 / 8000] average reconstruction error: 0.0069157975
+Epoch [6131 / 8000] average reconstruction error: 0.0069167758
+Epoch [6141 / 8000] average reconstruction error: 0.0069272071
+Epoch [6151 / 8000] average reconstruction error: 0.0069169365
+Epoch [6161 / 8000] average reconstruction error: 0.0069161872
+Epoch [6171 / 8000] average reconstruction error: 0.0069158734
+Epoch [6181 / 8000] average reconstruction error: 0.0069166138
+Epoch [6191 / 8000] average reconstruction error: 0.0069170892
+Epoch [6201 / 8000] average reconstruction error: 0.0069180503
+Epoch [6211 / 8000] average reconstruction error: 0.0069187642
+Epoch [6221 / 8000] average reconstruction error: 0.0069158562
+Epoch [6231 / 8000] average reconstruction error: 0.0069157565
+Epoch [6241 / 8000] average reconstruction error: 0.0069170645
+Epoch [6251 / 8000] average reconstruction error: 0.0069170394
+Epoch [6261 / 8000] average reconstruction error: 0.0069190427
+Epoch [6271 / 8000] average reconstruction error: 0.0069183628
+Epoch [6281 / 8000] average reconstruction error: 0.0069159004
+Epoch [6291 / 8000] average reconstruction error: 0.0069158450
+Epoch [6301 / 8000] average reconstruction error: 0.0069160322
+Epoch [6311 / 8000] average reconstruction error: 0.0069179884
+Epoch [6321 / 8000] average reconstruction error: 0.0069206776
+Epoch [6331 / 8000] average reconstruction error: 0.0069164722
+Epoch [6341 / 8000] average reconstruction error: 0.0069165784
+Epoch [6351 / 8000] average reconstruction error: 0.0069158943
+Epoch [6361 / 8000] average reconstruction error: 0.0069162226
+Epoch [6371 / 8000] average reconstruction error: 0.0069158687
+Epoch [6381 / 8000] average reconstruction error: 0.0069160624
+Epoch [6391 / 8000] average reconstruction error: 0.0069166855
+Epoch [6401 / 8000] average reconstruction error: 0.0069317208
+Epoch [6411 / 8000] average reconstruction error: 0.0069208308
+Epoch [6421 / 8000] average reconstruction error: 0.0069169821
+Epoch [6431 / 8000] average reconstruction error: 0.0069166631
+Epoch [6441 / 8000] average reconstruction error: 0.0069160000
+Epoch [6451 / 8000] average reconstruction error: 0.0069170492
+Epoch [6461 / 8000] average reconstruction error: 0.0069157989
+Epoch [6471 / 8000] average reconstruction error: 0.0069158794
+Epoch [6481 / 8000] average reconstruction error: 0.0069159926
+Epoch [6491 / 8000] average reconstruction error: 0.0069158184
+Epoch [6501 / 8000] average reconstruction error: 0.0069159404
+Epoch [6511 / 8000] average reconstruction error: 0.0069164075
+Epoch [6521 / 8000] average reconstruction error: 0.0069205048
+Epoch [6531 / 8000] average reconstruction error: 0.0069175884
+Epoch [6541 / 8000] average reconstruction error: 0.0069182985
+Epoch [6551 / 8000] average reconstruction error: 0.0069203260
+Epoch [6561 / 8000] average reconstruction error: 0.0069164857
+Epoch [6571 / 8000] average reconstruction error: 0.0069164294
+Epoch [6581 / 8000] average reconstruction error: 0.0069158301
+Epoch [6591 / 8000] average reconstruction error: 0.0069157714
+Epoch [6601 / 8000] average reconstruction error: 0.0069159120
+Epoch [6611 / 8000] average reconstruction error: 0.0069161355
+Epoch [6621 / 8000] average reconstruction error: 0.0069159023
+Epoch [6631 / 8000] average reconstruction error: 0.0069158613
+Epoch [6641 / 8000] average reconstruction error: 0.0069161789
+Epoch [6651 / 8000] average reconstruction error: 0.0069181942
+Epoch [6661 / 8000] average reconstruction error: 0.0069236620
+Epoch [6671 / 8000] average reconstruction error: 0.0069157318
+Epoch [6681 / 8000] average reconstruction error: 0.0069157900
+Epoch [6691 / 8000] average reconstruction error: 0.0069160475
+Epoch [6701 / 8000] average reconstruction error: 0.0069161863
+Epoch [6711 / 8000] average reconstruction error: 0.0069158645
+Epoch [6721 / 8000] average reconstruction error: 0.0069163539
+Epoch [6731 / 8000] average reconstruction error: 0.0069159106
+Epoch [6741 / 8000] average reconstruction error: 0.0069158762
+Epoch [6751 / 8000] average reconstruction error: 0.0069157677
+Epoch [6761 / 8000] average reconstruction error: 0.0069172643
+Epoch [6771 / 8000] average reconstruction error: 0.0069161928
+Epoch [6781 / 8000] average reconstruction error: 0.0069193426
+Epoch [6791 / 8000] average reconstruction error: 0.0069233761
+Epoch [6801 / 8000] average reconstruction error: 0.0069194823
+Epoch [6811 / 8000] average reconstruction error: 0.0069162073
+Epoch [6821 / 8000] average reconstruction error: 0.0069158934
+Epoch [6831 / 8000] average reconstruction error: 0.0069170482
+Epoch [6841 / 8000] average reconstruction error: 0.0069157169
+Epoch [6851 / 8000] average reconstruction error: 0.0069200555
+Epoch [6861 / 8000] average reconstruction error: 0.0069160373
+Epoch [6871 / 8000] average reconstruction error: 0.0069161686
+Epoch [6881 / 8000] average reconstruction error: 0.0069158981
+Epoch [6891 / 8000] average reconstruction error: 0.0069159232
+Epoch [6901 / 8000] average reconstruction error: 0.0069162557
+Epoch [6911 / 8000] average reconstruction error: 0.0069182306
+Epoch [6921 / 8000] average reconstruction error: 0.0069157332
+Epoch [6931 / 8000] average reconstruction error: 0.0069162026
+Epoch [6941 / 8000] average reconstruction error: 0.0069158101
+Epoch [6951 / 8000] average reconstruction error: 0.0069160373
+Epoch [6961 / 8000] average reconstruction error: 0.0069165402
+Epoch [6971 / 8000] average reconstruction error: 0.0069182082
+Epoch [6981 / 8000] average reconstruction error: 0.0069315168
+Epoch [6991 / 8000] average reconstruction error: 0.0069226413
+Epoch [7001 / 8000] average reconstruction error: 0.0069181505
+Epoch [7011 / 8000] average reconstruction error: 0.0069165244
+Epoch [7021 / 8000] average reconstruction error: 0.0069157714
+Epoch [7031 / 8000] average reconstruction error: 0.0069161244
+Epoch [7041 / 8000] average reconstruction error: 0.0069161463
+Epoch [7051 / 8000] average reconstruction error: 0.0069159470
+Epoch [7061 / 8000] average reconstruction error: 0.0069157020
+Epoch [7071 / 8000] average reconstruction error: 0.0069160811
+Epoch [7081 / 8000] average reconstruction error: 0.0069157602
+Epoch [7091 / 8000] average reconstruction error: 0.0069164173
+Epoch [7101 / 8000] average reconstruction error: 0.0069160908
+Epoch [7111 / 8000] average reconstruction error: 0.0069157048
+Epoch [7121 / 8000] average reconstruction error: 0.0069158892
+Epoch [7131 / 8000] average reconstruction error: 0.0069159465
+Epoch [7141 / 8000] average reconstruction error: 0.0069158361
+Epoch [7151 / 8000] average reconstruction error: 0.0069159544
+Epoch [7161 / 8000] average reconstruction error: 0.0069184788
+Epoch [7171 / 8000] average reconstruction error: 0.0069214078
+Epoch [7181 / 8000] average reconstruction error: 0.0069204890
+Epoch [7191 / 8000] average reconstruction error: 0.0069172899
+Epoch [7201 / 8000] average reconstruction error: 0.0069161239
+Epoch [7211 / 8000] average reconstruction error: 0.0069161369
+Epoch [7221 / 8000] average reconstruction error: 0.0069166473
+Epoch [7231 / 8000] average reconstruction error: 0.0069160103
+Epoch [7241 / 8000] average reconstruction error: 0.0069160773
+Epoch [7251 / 8000] average reconstruction error: 0.0069161691
+Epoch [7261 / 8000] average reconstruction error: 0.0069159092
+Epoch [7271 / 8000] average reconstruction error: 0.0069161183
+Epoch [7281 / 8000] average reconstruction error: 0.0069170198
+Epoch [7291 / 8000] average reconstruction error: 0.0069204131
+Epoch [7301 / 8000] average reconstruction error: 0.0069159116
+Epoch [7311 / 8000] average reconstruction error: 0.0069169351
+Epoch [7321 / 8000] average reconstruction error: 0.0069163041
+Epoch [7331 / 8000] average reconstruction error: 0.0069157938
+Epoch [7341 / 8000] average reconstruction error: 0.0069159465
+Epoch [7351 / 8000] average reconstruction error: 0.0069157849
+Epoch [7361 / 8000] average reconstruction error: 0.0069200816
+Epoch [7371 / 8000] average reconstruction error: 0.0069161369
+Epoch [7381 / 8000] average reconstruction error: 0.0069163144
+Epoch [7391 / 8000] average reconstruction error: 0.0069158152
+Epoch [7401 / 8000] average reconstruction error: 0.0069184448
+Epoch [7411 / 8000] average reconstruction error: 0.0069158985
+Epoch [7421 / 8000] average reconstruction error: 0.0069179605
+Epoch [7431 / 8000] average reconstruction error: 0.0069162049
+Epoch [7441 / 8000] average reconstruction error: 0.0069181598
+Epoch [7451 / 8000] average reconstruction error: 0.0069170156
+Epoch [7461 / 8000] average reconstruction error: 0.0069207759
+Epoch [7471 / 8000] average reconstruction error: 0.0069191731
+Epoch [7481 / 8000] average reconstruction error: 0.0069159828
+Epoch [7491 / 8000] average reconstruction error: 0.0069156769
+Epoch [7501 / 8000] average reconstruction error: 0.0069162706
+Epoch [7511 / 8000] average reconstruction error: 0.0069183968
+Epoch [7521 / 8000] average reconstruction error: 0.0069165230
+Epoch [7531 / 8000] average reconstruction error: 0.0069160396
+Epoch [7541 / 8000] average reconstruction error: 0.0069165654
+Epoch [7551 / 8000] average reconstruction error: 0.0069157551
+Epoch [7561 / 8000] average reconstruction error: 0.0069157570
+Epoch [7571 / 8000] average reconstruction error: 0.0069157979
+Epoch [7581 / 8000] average reconstruction error: 0.0069167526
+Epoch [7591 / 8000] average reconstruction error: 0.0069157812
+Epoch [7601 / 8000] average reconstruction error: 0.0069177407
+Epoch [7611 / 8000] average reconstruction error: 0.0069302074
+Epoch [7621 / 8000] average reconstruction error: 0.0069277622
+Epoch [7631 / 8000] average reconstruction error: 0.0069157965
+Epoch [7641 / 8000] average reconstruction error: 0.0069178902
+Epoch [7651 / 8000] average reconstruction error: 0.0069163884
+Epoch [7661 / 8000] average reconstruction error: 0.0069157481
+Epoch [7671 / 8000] average reconstruction error: 0.0069157793
+Epoch [7681 / 8000] average reconstruction error: 0.0069157989
+Epoch [7691 / 8000] average reconstruction error: 0.0069159158
+Epoch [7701 / 8000] average reconstruction error: 0.0069157179
+Epoch [7711 / 8000] average reconstruction error: 0.0069156880
+Epoch [7721 / 8000] average reconstruction error: 0.0069156811
+Epoch [7731 / 8000] average reconstruction error: 0.0069156932
+Epoch [7741 / 8000] average reconstruction error: 0.0069157146
+Epoch [7751 / 8000] average reconstruction error: 0.0069156974
+Epoch [7761 / 8000] average reconstruction error: 0.0069158920
+Epoch [7771 / 8000] average reconstruction error: 0.0069161444
+Epoch [7781 / 8000] average reconstruction error: 0.0069164345
+Epoch [7791 / 8000] average reconstruction error: 0.0069157616
+Epoch [7801 / 8000] average reconstruction error: 0.0069160177
+Epoch [7811 / 8000] average reconstruction error: 0.0069156936
+Epoch [7821 / 8000] average reconstruction error: 0.0069157556
+Epoch [7831 / 8000] average reconstruction error: 0.0069160624
+Epoch [7841 / 8000] average reconstruction error: 0.0069162212
+Epoch [7851 / 8000] average reconstruction error: 0.0069158534
+Epoch [7861 / 8000] average reconstruction error: 0.0069180145
+Epoch [7871 / 8000] average reconstruction error: 0.0069262232
+Epoch [7881 / 8000] average reconstruction error: 0.0069185584
+Epoch [7891 / 8000] average reconstruction error: 0.0069161700
+Epoch [7901 / 8000] average reconstruction error: 0.0069156899
+Epoch [7911 / 8000] average reconstruction error: 0.0069164382
+Epoch [7921 / 8000] average reconstruction error: 0.0069161481
+Epoch [7931 / 8000] average reconstruction error: 0.0069170045
+Epoch [7941 / 8000] average reconstruction error: 0.0069158892
+Epoch [7951 / 8000] average reconstruction error: 0.0069180964
+Epoch [7961 / 8000] average reconstruction error: 0.0069159092
+Epoch [7971 / 8000] average reconstruction error: 0.0069156773
+Epoch [7981 / 8000] average reconstruction error: 0.0069156713
+Epoch [7991 / 8000] average reconstruction error: 0.0069159628
+epoch 7967
+testing loss tensor([8.5589e-07, 1.7449e-02, 6.6508e-03, 4.2564e-03, 3.3420e-03, 5.2276e-03,
+        1.5637e-02, 1.6244e-08, 3.4647e-02, 2.6735e-08], device='cuda:0',
+       grad_fn=<DivBackward0>)
+testing loss tensor(0.0087, device='cuda:0', grad_fn=<DivBackward0>)
+0 tensor([[0.8888, 0.4000, 0.4444, 0.9998]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+1 tensor([[0.4443, 0.1998, 0.2221, 0.4999]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+2 tensor([[0.9443, 0.7000, 0.7222, 0.9998]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+3 tensor([[ 5.7776e-05, -9.6735e-05, -7.4375e-06,  5.3395e-05]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+4 tensor([[0.5556, 0.8000, 0.7779, 0.5000]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+3 0 2
+3 1 1
+tensor([[0.4443, 0.1998, 0.2221, 0.4999]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+tensor([[ 5.7776e-05, -9.6735e-05, -7.4375e-06,  5.3395e-05]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+////
+tensor([0., 0., 0., 0.], device='cuda:0')
+tensor([[0.8888, 0.4000, 0.4444, 0.9998]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+tensor([[0.9443, 0.7000, 0.7222, 0.9998]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+tensor([[0.5556, 0.8000, 0.7779, 0.5000]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+tensor([0.8889, 0.4000, 0.4444, 1.0000], device='cuda:0')
+tensor([1., 1., 1., 1.], device='cuda:0')
+tensor([0.5556, 0.8000, 0.7778, 0.5000], device='cuda:0')
+['tree0.dat', 'tree1.dat', 'tree10.dat', 'tree11.dat', 'tree12.dat', 'tree13.dat', 'tree14.dat', 'tree15.dat', 'tree16.dat', 'tree17.dat']
+3 tensor([0.4444, 0.2000, 0.2222, 0.5000], device='cuda:0')
+4 tensor([0.8889, 0.4000, 0.4444, 1.0000], device='cuda:0')
+0 tensor([0., 0., 0., 0.], device='cuda:0')
+2 tensor([1., 1., 1., 1.], device='cuda:0')
+1 tensor([0.5556, 0.8000, 0.7778, 0.5000], device='cuda:0')
+ENCODED con batch [tensor([[ 0.0476,  0.1425,  0.0336,  0.0959, -0.0736, -0.0802,  0.0028,  0.0216,
+          0.0570,  0.0364, -0.0048,  0.0588, -0.0493, -0.1065, -0.1019, -0.0754,
+         -0.0279,  0.0091,  0.0275,  0.0094, -0.0799, -0.0041,  0.0313,  0.0478,
+         -0.0569,  0.0183,  0.0519, -0.0032, -0.0038, -0.0480,  0.0268,  0.0856,
+          0.0021,  0.0449, -0.0679, -0.0080, -0.0716,  0.0077, -0.0223, -0.0497,
+         -0.0538, -0.0896,  0.0374, -0.1014, -0.0364, -0.0402,  0.0364, -0.0578,
+         -0.0323,  0.0165,  0.0105,  0.1152,  0.0716, -0.0911,  0.0311,  0.0990,
+          0.0489,  0.0406,  0.0469, -0.0461, -0.0913, -0.0646,  0.0274, -0.0206,
+         -0.0931,  0.0169,  0.0234,  0.1316,  0.0675,  0.0218, -0.0289, -0.0124,
+         -0.0016, -0.0253,  0.1221,  0.0243, -0.0526, -0.0727, -0.0746, -0.1135,
+         -0.0516,  0.1639, -0.0057, -0.0910, -0.0320,  0.0115, -0.0060,  0.0641,
+         -0.0902, -0.0615,  0.0691,  0.0660,  0.0417,  0.0969, -0.1128, -0.0572,
+          0.0824, -0.0572, -0.0986, -0.0633,  0.0397, -0.0343,  0.0570,  0.0803,
+          0.0347,  0.0436,  0.0703, -0.0448, -0.0321,  0.0082,  0.0732, -0.0082,
+         -0.0134,  0.1734,  0.0252,  0.0248,  0.0349,  0.0185,  0.0345,  0.0041,
+         -0.0417, -0.2375,  0.0694, -0.0628, -0.0210, -0.0536, -0.0302, -0.0104,
+         -0.0492,  0.1095,  0.0414, -0.0228,  0.0198,  0.0315, -0.0327,  0.0982,
+          0.0976,  0.0609, -0.0373,  0.0874, -0.0450,  0.0554, -0.0563, -0.0659,
+         -0.0847,  0.0075, -0.0526,  0.0172, -0.0466, -0.0816,  0.1013,  0.0322,
+         -0.0625, -0.0281,  0.0357,  0.0421,  0.0161,  0.0064,  0.0963,  0.1222,
+          0.1313,  0.0181,  0.0143,  0.0833,  0.1325, -0.0324,  0.0430,  0.0302,
+          0.0096, -0.0391,  0.0646, -0.0439,  0.0803, -0.0145,  0.0700, -0.0614,
+         -0.0454, -0.0120, -0.0183,  0.0141, -0.1119, -0.0301,  0.0022, -0.0705,
+          0.0479,  0.0636, -0.0666, -0.0314, -0.1090,  0.0488,  0.0262, -0.0870,
+          0.0589,  0.0064,  0.0527,  0.0561,  0.0664, -0.0439, -0.0275, -0.0472,
+         -0.0304,  0.0737,  0.0437,  0.0381, -0.0411, -0.0509, -0.0517, -0.0024,
+          0.0357, -0.1075,  0.0063, -0.1270,  0.0030,  0.1277, -0.0074,  0.0325,
+          0.0112,  0.0124,  0.0944, -0.0106, -0.1089,  0.0099, -0.0642,  0.0249,
+          0.0522, -0.0426, -0.0484, -0.0077,  0.0530,  0.0453,  0.0305,  0.0281,
+          0.0216,  0.0502,  0.0222,  0.0581,  0.0157,  0.0566, -0.0105,  0.0522,
+         -0.0160,  0.0902, -0.0048, -0.1110,  0.0454,  0.0978, -0.0104,  0.0316,
+         -0.0378,  0.0367, -0.0648,  0.0941, -0.0209, -0.0006, -0.0636,  0.0023,
+         -0.0555,  0.0397, -0.0228, -0.0449,  0.1083,  0.0217, -0.1369,  0.1172,
+         -0.0264, -0.0938, -0.0839, -0.0057,  0.0826, -0.0904, -0.0233, -0.0434,
+          0.0683, -0.1429,  0.0052,  0.0402, -0.0901,  0.0249, -0.0294, -0.0019,
+          0.0794,  0.1483,  0.1360,  0.0242,  0.0964, -0.0262, -0.0189, -0.0089,
+          0.0003,  0.0284,  0.0198, -0.1055, -0.0483,  0.0132, -0.0002,  0.0839,
+         -0.0042, -0.0077,  0.0308,  0.0689, -0.0226,  0.0084,  0.0449,  0.1018,
+          0.0250,  0.0503,  0.1136, -0.0203, -0.0118,  0.2042, -0.0303, -0.0608,
+         -0.0003, -0.0183,  0.0373, -0.0830, -0.0641, -0.0210,  0.0102,  0.0988,
+         -0.0389, -0.0384,  0.0904,  0.0348,  0.0044, -0.0212, -0.0037, -0.0260,
+         -0.0566,  0.0417,  0.0523,  0.0884,  0.0905,  0.0282,  0.1461, -0.0448,
+          0.0740,  0.0596,  0.0107, -0.0074, -0.0639, -0.0010,  0.0238, -0.0858,
+         -0.0386, -0.0505,  0.0633, -0.0672,  0.0937,  0.0340,  0.0668,  0.0792,
+          0.0064,  0.0475, -0.0447, -0.0848,  0.0581, -0.0397, -0.1580, -0.0405,
+         -0.0346,  0.0990,  0.0326, -0.1758,  0.1101, -0.1061,  0.0457,  0.0055,
+          0.0168, -0.0782, -0.0204,  0.1300,  0.0405,  0.0074, -0.0652, -0.0381,
+          0.0588,  0.0897, -0.0569, -0.0174, -0.0706,  0.0182,  0.0486,  0.1061,
+          0.0243,  0.0085, -0.0603,  0.1218, -0.0420, -0.0695, -0.0761,  0.0669,
+          0.1000,  0.0008, -0.0309, -0.1526,  0.1084, -0.1027, -0.0304, -0.0493,
+          0.0017,  0.1049,  0.0554, -0.0997, -0.0378, -0.0542,  0.0340,  0.1060,
+         -0.0364, -0.0414, -0.1110, -0.0794, -0.1160,  0.1136, -0.0083,  0.0104,
+         -0.0407, -0.0010,  0.0354, -0.1367, -0.0225, -0.0008,  0.0023, -0.0363,
+          0.1008,  0.0044,  0.0521,  0.0213,  0.0007,  0.0326, -0.0714,  0.0923,
+         -0.0674,  0.0205, -0.0878,  0.0688,  0.0068,  0.0501,  0.0116,  0.0223,
+         -0.0873, -0.0625, -0.1091,  0.0083, -0.0007, -0.1041,  0.0558, -0.0266,
+          0.0538, -0.0098, -0.0438, -0.1298,  0.0135, -0.0595, -0.0167,  0.0146,
+          0.0900,  0.1079,  0.1212,  0.0725, -0.0397,  0.0338,  0.0029,  0.0741,
+          0.0205,  0.0295, -0.0239, -0.1258,  0.0080, -0.0547,  0.0112,  0.0448,
+         -0.0428, -0.0154, -0.0154,  0.0639, -0.0507,  0.0263, -0.0797,  0.0837,
+          0.0615, -0.0309, -0.0089,  0.0615, -0.0196,  0.0246, -0.0838,  0.0199,
+          0.0673,  0.1026, -0.0724,  0.0601,  0.1234, -0.0601,  0.0434, -0.0656,
+         -0.0798,  0.0646,  0.0063, -0.0767, -0.0159, -0.1496,  0.1455,  0.0698,
+         -0.0507,  0.1452,  0.1329, -0.0614, -0.0303, -0.0625,  0.0393,  0.0424]],
+       device='cuda:0', grad_fn=<StackBackward0>)]
+encodeado sin batch tensor([[ 0.0476,  0.1425,  0.0336,  0.0959, -0.0736, -0.0802,  0.0028,  0.0216,
+          0.0570,  0.0364, -0.0048,  0.0588, -0.0493, -0.1065, -0.1019, -0.0754,
+         -0.0279,  0.0091,  0.0275,  0.0094, -0.0799, -0.0041,  0.0313,  0.0478,
+         -0.0569,  0.0183,  0.0519, -0.0032, -0.0038, -0.0480,  0.0268,  0.0856,
+          0.0021,  0.0449, -0.0679, -0.0080, -0.0716,  0.0077, -0.0223, -0.0497,
+         -0.0538, -0.0896,  0.0374, -0.1014, -0.0364, -0.0402,  0.0364, -0.0578,
+         -0.0323,  0.0165,  0.0105,  0.1152,  0.0716, -0.0911,  0.0311,  0.0990,
+          0.0489,  0.0406,  0.0469, -0.0461, -0.0913, -0.0646,  0.0274, -0.0206,
+         -0.0931,  0.0169,  0.0234,  0.1316,  0.0675,  0.0218, -0.0289, -0.0124,
+         -0.0016, -0.0253,  0.1221,  0.0243, -0.0526, -0.0727, -0.0746, -0.1135,
+         -0.0516,  0.1639, -0.0057, -0.0910, -0.0320,  0.0115, -0.0060,  0.0641,
+         -0.0902, -0.0615,  0.0691,  0.0660,  0.0417,  0.0969, -0.1128, -0.0572,
+          0.0824, -0.0572, -0.0986, -0.0633,  0.0397, -0.0343,  0.0570,  0.0803,
+          0.0347,  0.0436,  0.0703, -0.0448, -0.0321,  0.0082,  0.0732, -0.0082,
+         -0.0134,  0.1734,  0.0252,  0.0248,  0.0349,  0.0185,  0.0345,  0.0041,
+         -0.0417, -0.2375,  0.0694, -0.0628, -0.0210, -0.0536, -0.0302, -0.0104,
+         -0.0492,  0.1095,  0.0414, -0.0228,  0.0198,  0.0315, -0.0327,  0.0982,
+          0.0976,  0.0609, -0.0373,  0.0874, -0.0450,  0.0554, -0.0563, -0.0659,
+         -0.0847,  0.0075, -0.0526,  0.0172, -0.0466, -0.0816,  0.1013,  0.0322,
+         -0.0625, -0.0281,  0.0357,  0.0421,  0.0161,  0.0064,  0.0963,  0.1222,
+          0.1313,  0.0181,  0.0143,  0.0833,  0.1325, -0.0324,  0.0430,  0.0302,
+          0.0096, -0.0391,  0.0646, -0.0439,  0.0803, -0.0145,  0.0700, -0.0614,
+         -0.0454, -0.0120, -0.0183,  0.0141, -0.1119, -0.0301,  0.0022, -0.0705,
+          0.0479,  0.0636, -0.0666, -0.0314, -0.1090,  0.0488,  0.0262, -0.0870,
+          0.0589,  0.0064,  0.0527,  0.0561,  0.0664, -0.0439, -0.0275, -0.0472,
+         -0.0304,  0.0737,  0.0437,  0.0381, -0.0411, -0.0509, -0.0517, -0.0024,
+          0.0357, -0.1075,  0.0063, -0.1270,  0.0030,  0.1277, -0.0074,  0.0325,
+          0.0112,  0.0124,  0.0944, -0.0106, -0.1089,  0.0099, -0.0642,  0.0249,
+          0.0522, -0.0426, -0.0484, -0.0077,  0.0530,  0.0453,  0.0305,  0.0281,
+          0.0216,  0.0502,  0.0222,  0.0581,  0.0157,  0.0566, -0.0105,  0.0522,
+         -0.0160,  0.0902, -0.0048, -0.1110,  0.0454,  0.0978, -0.0104,  0.0316,
+         -0.0378,  0.0367, -0.0648,  0.0941, -0.0209, -0.0006, -0.0636,  0.0023,
+         -0.0555,  0.0397, -0.0228, -0.0449,  0.1083,  0.0217, -0.1369,  0.1172,
+         -0.0264, -0.0938, -0.0839, -0.0057,  0.0826, -0.0904, -0.0233, -0.0434,
+          0.0683, -0.1429,  0.0052,  0.0402, -0.0901,  0.0249, -0.0294, -0.0019,
+          0.0794,  0.1483,  0.1360,  0.0242,  0.0964, -0.0262, -0.0189, -0.0089,
+          0.0003,  0.0284,  0.0198, -0.1055, -0.0483,  0.0132, -0.0002,  0.0839,
+         -0.0042, -0.0077,  0.0308,  0.0689, -0.0226,  0.0084,  0.0449,  0.1018,
+          0.0250,  0.0503,  0.1136, -0.0203, -0.0118,  0.2042, -0.0303, -0.0608,
+         -0.0003, -0.0183,  0.0373, -0.0830, -0.0641, -0.0210,  0.0102,  0.0988,
+         -0.0389, -0.0384,  0.0904,  0.0348,  0.0044, -0.0212, -0.0037, -0.0260,
+         -0.0566,  0.0417,  0.0523,  0.0884,  0.0905,  0.0282,  0.1461, -0.0448,
+          0.0740,  0.0596,  0.0107, -0.0074, -0.0639, -0.0010,  0.0238, -0.0858,
+         -0.0386, -0.0505,  0.0633, -0.0672,  0.0937,  0.0340,  0.0668,  0.0792,
+          0.0064,  0.0475, -0.0447, -0.0848,  0.0581, -0.0397, -0.1580, -0.0405,
+         -0.0346,  0.0990,  0.0326, -0.1758,  0.1101, -0.1061,  0.0457,  0.0055,
+          0.0168, -0.0782, -0.0204,  0.1300,  0.0405,  0.0074, -0.0652, -0.0381,
+          0.0588,  0.0897, -0.0569, -0.0174, -0.0706,  0.0182,  0.0486,  0.1061,
+          0.0243,  0.0085, -0.0603,  0.1218, -0.0420, -0.0695, -0.0761,  0.0669,
+          0.1000,  0.0008, -0.0309, -0.1526,  0.1084, -0.1027, -0.0304, -0.0493,
+          0.0017,  0.1049,  0.0554, -0.0997, -0.0378, -0.0542,  0.0340,  0.1060,
+         -0.0364, -0.0414, -0.1110, -0.0794, -0.1160,  0.1136, -0.0083,  0.0104,
+         -0.0407, -0.0010,  0.0354, -0.1367, -0.0225, -0.0008,  0.0023, -0.0363,
+          0.1008,  0.0044,  0.0521,  0.0213,  0.0007,  0.0326, -0.0714,  0.0923,
+         -0.0674,  0.0205, -0.0878,  0.0688,  0.0068,  0.0501,  0.0116,  0.0223,
+         -0.0873, -0.0625, -0.1091,  0.0083, -0.0007, -0.1041,  0.0558, -0.0266,
+          0.0538, -0.0098, -0.0438, -0.1298,  0.0135, -0.0595, -0.0167,  0.0146,
+          0.0900,  0.1079,  0.1212,  0.0725, -0.0397,  0.0338,  0.0029,  0.0741,
+          0.0205,  0.0295, -0.0239, -0.1258,  0.0080, -0.0547,  0.0112,  0.0448,
+         -0.0428, -0.0154, -0.0154,  0.0639, -0.0507,  0.0263, -0.0797,  0.0837,
+          0.0615, -0.0309, -0.0089,  0.0615, -0.0196,  0.0246, -0.0838,  0.0199,
+          0.0673,  0.1026, -0.0724,  0.0601,  0.1234, -0.0601,  0.0434, -0.0656,
+         -0.0798,  0.0646,  0.0063, -0.0767, -0.0159, -0.1496,  0.1455,  0.0698,
+         -0.0507,  0.1452,  0.1329, -0.0614, -0.0303, -0.0625,  0.0393,  0.0424]],
+       device='cuda:0', grad_fn=<TanhBackward0>)
+10
+[6, 5, 5, 5, 5, 5, 6, 5, 3, 3]
+4.8
+3.0
+0.6
+1.2
+3.0
+0.6
+1.2
+tensor([0.3333, 1.0000, 1.0000], device='cuda:0')
+n_nodes 5
+<__main__.Node object at 0x0000024904830820>
+tree level 6
+<__main__.Node object at 0x00000249048312A0>
+tree level 6
+<__main__.Node object at 0x0000024904831BD0>
+tree level 11
+<__main__.Node object at 0x00000249048308E0>
+tree level 14
+<__main__.Node object at 0x00000249048328C0>
+tree level 14
+<__main__.Node object at 0x0000024904832DA0>
+tree level 11
+<__main__.Node object at 0x0000024904832980>
+tree level 11
+<__main__.Node object at 0x00000249048318D0>
+tree level 11
+<__main__.Node object at 0x0000024904830A60>
+tree level 11
+<__main__.Node object at 0x0000024904833FD0>
+tree level 11

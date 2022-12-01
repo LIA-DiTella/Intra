@@ -1,0 +1,19 @@
+
+Epoch [1 / 8000] average reconstruction error: 0.3045391142
+Epoch [11 / 8000] average reconstruction error: 0.2883607447
+Epoch [21 / 8000] average reconstruction error: 0.2714864910
+Epoch [31 / 8000] average reconstruction error: 0.2519232631
+Epoch [41 / 8000] average reconstruction error: 0.2266475409
+Epoch [51 / 8000] average reconstruction error: 0.1907738000
+Epoch [61 / 8000] average reconstruction error: 0.1356194317
+Epoch [71 / 8000] average reconstruction error: 0.0689624548
+Epoch [81 / 8000] average reconstruction error: 0.0447753482
+Epoch [91 / 8000] average reconstruction error: 0.0375687443
+Epoch [101 / 8000] average reconstruction error: 0.0333281159
+Epoch [111 / 8000] average reconstruction error: 0.0314875916
+Epoch [121 / 8000] average reconstruction error: 0.0294374209
+Epoch [131 / 8000] average reconstruction error: 0.0274171382
+Epoch [141 / 8000] average reconstruction error: 0.0254498851
+Epoch [151 / 8000] average reconstruction error: 0.0237424020
+Epoch [161 / 8000] average reconstruction error: 0.0224016551
+Epoch [171 / 8000] average reconstruction error: 0.0213749669

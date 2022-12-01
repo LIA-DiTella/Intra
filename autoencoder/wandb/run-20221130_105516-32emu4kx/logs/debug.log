@@ -1,0 +1,85 @@
+2022-11-30 10:55:16,417 INFO    MainThread:3208 [wandb_setup.py:_flush():68] Configure stats pid to 3208
+2022-11-30 10:55:16,417 INFO    MainThread:3208 [wandb_setup.py:_flush():68] Loading settings from C:\Users\User\.config\wandb\settings
+2022-11-30 10:55:16,417 INFO    MainThread:3208 [wandb_setup.py:_flush():68] Loading settings from c:\Users\User\Documents\rpoditela\Intra\autoencoder\wandb\settings
+2022-11-30 10:55:16,417 INFO    MainThread:3208 [wandb_setup.py:_flush():68] Loading settings from environment variables: {'_require_service': 'True'}
+2022-11-30 10:55:16,417 INFO    MainThread:3208 [wandb_setup.py:_flush():68] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2022-11-30 10:55:16,419 INFO    MainThread:3208 [wandb_init.py:_log_setup():476] Logging user logs to c:\Users\User\Documents\rpoditela\Intra\autoencoder\wandb\run-20221130_105516-32emu4kx\logs\debug.log
+2022-11-30 10:55:16,419 INFO    MainThread:3208 [wandb_init.py:_log_setup():477] Logging internal logs to c:\Users\User\Documents\rpoditela\Intra\autoencoder\wandb\run-20221130_105516-32emu4kx\logs\debug-internal.log
+2022-11-30 10:55:16,419 INFO    MainThread:3208 [wandb_init.py:init():516] calling init triggers
+2022-11-30 10:55:16,419 INFO    MainThread:3208 [wandb_init.py:init():519] wandb.init called with sweep_config: {}
+config: {'learning_rate': 1e-05, 'epochs': 8000, 'batch_size': 10, 'dataset': ['tree0.dat', 'tree1.dat', 'tree10.dat', 'tree11.dat', 'tree12.dat', 'tree13.dat', 'tree14.dat', 'tree15.dat', 'tree16.dat', 'tree17.dat'], 'number of trees': 10, 'optim': Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 1e-05
+    maximize: False
+    weight_decay: 0
+)}
+2022-11-30 10:55:16,419 INFO    MainThread:3208 [wandb_init.py:init():535] re-initializing run, found existing run on stack: yb6q5tuq
+2022-11-30 10:55:16,422 INFO    MainThread:3208 [wandb_run.py:_finish():1746] finishing run paufeldman/autoencoder4/yb6q5tuq
+2022-11-30 10:55:16,649 INFO    MainThread:3208 [jupyter.py:save_history():448] not saving jupyter history
+2022-11-30 10:55:16,649 INFO    MainThread:3208 [jupyter.py:save_ipynb():378] not saving jupyter notebook
+2022-11-30 10:55:16,649 INFO    MainThread:3208 [wandb_init.py:_jupyter_teardown():408] cleaning up jupyter logic
+2022-11-30 10:55:16,649 INFO    MainThread:3208 [wandb_run.py:_atexit_cleanup():1949] got exitcode: 0
+2022-11-30 10:55:16,649 INFO    MainThread:3208 [wandb_run.py:_restore():1932] restore
+2022-11-30 10:55:16,650 INFO    MainThread:3208 [wandb_run.py:_restore():1938] restore done
+2022-11-30 10:57:51,169 WARNING MsgRouterThr:3208 [router.py:message_loop():77] message_loop has been closed
+2022-11-30 10:57:53,625 INFO    MainThread:3208 [wandb_run.py:_restore():1932] restore
+2022-11-30 10:57:53,625 INFO    MainThread:3208 [wandb_run.py:_restore():1938] restore done
+2022-11-30 10:57:53,651 ERROR   MainThread:3208 [wandb_init.py:init():1105] error
+Traceback (most recent call last):
+  File "c:\Users\User\anaconda3\envs\py_torc\lib\site-packages\wandb\sdk\wandb_run.py", line 1958, in _atexit_cleanup
+    self._on_finish()
+  File "c:\Users\User\anaconda3\envs\py_torc\lib\site-packages\wandb\sdk\wandb_run.py", line 2266, in _on_finish
+    _ = exit_handle.wait(timeout=-1, on_progress=self._on_progress_exit)
+  File "c:\Users\User\anaconda3\envs\py_torc\lib\site-packages\wandb\sdk\lib\mailbox.py", line 273, in wait
+    on_probe(probe_handle)
+  File "c:\Users\User\anaconda3\envs\py_torc\lib\site-packages\wandb\sdk\wandb_run.py", line 2228, in _on_probe_exit
+    result = handle.wait(timeout=0)
+  File "c:\Users\User\anaconda3\envs\py_torc\lib\site-packages\wandb\sdk\lib\mailbox.py", line 259, in wait
+    raise MailboxError("transport failed")
+wandb.errors.MailboxError: transport failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\User\anaconda3\envs\py_torc\lib\site-packages\wandb\sdk\wandb_init.py", line 1078, in init
+    run = wi.init()
+  File "c:\Users\User\anaconda3\envs\py_torc\lib\site-packages\wandb\sdk\wandb_init.py", line 548, in init
+    self._wl._global_run_stack[-1].finish()
+  File "c:\Users\User\anaconda3\envs\py_torc\lib\site-packages\wandb\sdk\wandb_run.py", line 292, in wrapper
+    return func(self, *args, **kwargs)
+  File "c:\Users\User\anaconda3\envs\py_torc\lib\site-packages\wandb\sdk\wandb_run.py", line 255, in wrapper
+    return func(self, *args, **kwargs)
+  File "c:\Users\User\anaconda3\envs\py_torc\lib\site-packages\wandb\sdk\wandb_run.py", line 1739, in finish
+    return self._finish(exit_code, quiet)
+  File "c:\Users\User\anaconda3\envs\py_torc\lib\site-packages\wandb\sdk\wandb_run.py", line 1752, in _finish
+    self._atexit_cleanup(exit_code=exit_code)
+  File "c:\Users\User\anaconda3\envs\py_torc\lib\site-packages\wandb\sdk\wandb_run.py", line 1969, in _atexit_cleanup
+    self._backend.cleanup()
+  File "c:\Users\User\anaconda3\envs\py_torc\lib\site-packages\wandb\sdk\backend\backend.py", line 252, in cleanup
+    self.interface.join()
+  File "c:\Users\User\anaconda3\envs\py_torc\lib\site-packages\wandb\sdk\interface\interface_shared.py", line 573, in join
+    super().join()
+  File "c:\Users\User\anaconda3\envs\py_torc\lib\site-packages\wandb\sdk\interface\interface.py", line 712, in join
+    _ = self._communicate_shutdown()
+  File "c:\Users\User\anaconda3\envs\py_torc\lib\site-packages\wandb\sdk\interface\interface_shared.py", line 516, in _communicate_shutdown
+    _ = self._communicate(record)
+  File "c:\Users\User\anaconda3\envs\py_torc\lib\site-packages\wandb\sdk\interface\interface_shared.py", line 255, in _communicate
+    return self._communicate_async(rec, local=local).get(timeout=timeout)
+  File "c:\Users\User\anaconda3\envs\py_torc\lib\site-packages\wandb\sdk\interface\interface_sock.py", line 58, in _communicate_async
+    future = self._router.send_and_receive(rec, local=local)
+  File "c:\Users\User\anaconda3\envs\py_torc\lib\site-packages\wandb\sdk\interface\router.py", line 94, in send_and_receive
+    self._send_message(rec)
+  File "c:\Users\User\anaconda3\envs\py_torc\lib\site-packages\wandb\sdk\interface\router_sock.py", line 36, in _send_message
+    self._sock_client.send_record_communicate(record)
+  File "c:\Users\User\anaconda3\envs\py_torc\lib\site-packages\wandb\sdk\lib\sock_client.py", line 216, in send_record_communicate
+    self.send_server_request(server_req)
+  File "c:\Users\User\anaconda3\envs\py_torc\lib\site-packages\wandb\sdk\lib\sock_client.py", line 155, in send_server_request
+    self._send_message(msg)
+  File "c:\Users\User\anaconda3\envs\py_torc\lib\site-packages\wandb\sdk\lib\sock_client.py", line 152, in _send_message
+    self._sendall_with_error_handle(header + data)
+  File "c:\Users\User\anaconda3\envs\py_torc\lib\site-packages\wandb\sdk\lib\sock_client.py", line 130, in _sendall_with_error_handle
+    sent = self._sock.send(data)
+ConnectionResetError: [WinError 10054] Se ha forzado la interrupción de una conexión existente por el host remoto
