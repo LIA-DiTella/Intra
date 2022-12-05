@@ -1,0 +1,1801 @@
+Epoch [1 / 8000] average reconstruction error: 0.2484439164
+Epoch [11 / 8000] average reconstruction error: 0.2944845855
+Epoch [21 / 8000] average reconstruction error: 0.2466245890
+Epoch [31 / 8000] average reconstruction error: 0.1309596747
+Epoch [41 / 8000] average reconstruction error: 0.0278473683
+Epoch [51 / 8000] average reconstruction error: 0.0207319912
+Epoch [61 / 8000] average reconstruction error: 0.0134844780
+Epoch [71 / 8000] average reconstruction error: 0.0142641962
+Epoch [81 / 8000] average reconstruction error: 0.0152507741
+Epoch [91 / 8000] average reconstruction error: 0.0172557253
+Epoch [101 / 8000] average reconstruction error: 0.0129821347
+Epoch [111 / 8000] average reconstruction error: 0.0156938229
+Epoch [121 / 8000] average reconstruction error: 0.0162439160
+Epoch [131 / 8000] average reconstruction error: 0.0142508065
+Epoch [141 / 8000] average reconstruction error: 0.0145647321
+Epoch [151 / 8000] average reconstruction error: 0.0150623946
+Epoch [161 / 8000] average reconstruction error: 0.0141661912
+Epoch [171 / 8000] average reconstruction error: 0.0136322007
+Epoch [181 / 8000] average reconstruction error: 0.0110075800
+Epoch [191 / 8000] average reconstruction error: 0.0115554538
+Epoch [201 / 8000] average reconstruction error: 0.0117258010
+Epoch [211 / 8000] average reconstruction error: 0.0089346757
+Epoch [221 / 8000] average reconstruction error: 0.0096166283
+Epoch [231 / 8000] average reconstruction error: 0.0103350691
+Epoch [241 / 8000] average reconstruction error: 0.0098738614
+Epoch [251 / 8000] average reconstruction error: 0.0075315237
+Epoch [261 / 8000] average reconstruction error: 0.0067801112
+Epoch [271 / 8000] average reconstruction error: 0.0054148058
+Epoch [281 / 8000] average reconstruction error: 0.0079068048
+Epoch [291 / 8000] average reconstruction error: 0.0069746408
+Epoch [301 / 8000] average reconstruction error: 0.0064624557
+Epoch [311 / 8000] average reconstruction error: 0.0052985251
+Epoch [321 / 8000] average reconstruction error: 0.0069284760
+Epoch [331 / 8000] average reconstruction error: 0.0066460404
+Epoch [341 / 8000] average reconstruction error: 0.0049836580
+Epoch [351 / 8000] average reconstruction error: 0.0024727022
+Epoch [361 / 8000] average reconstruction error: 0.0040491954
+Epoch [371 / 8000] average reconstruction error: 0.0038835728
+Epoch [381 / 8000] average reconstruction error: 0.0057739289
+Epoch [391 / 8000] average reconstruction error: 0.0045716357
+Epoch [401 / 8000] average reconstruction error: 0.0039995005
+Epoch [411 / 8000] average reconstruction error: 0.0044665667
+Epoch [421 / 8000] average reconstruction error: 0.0029617518
+Epoch [431 / 8000] average reconstruction error: 0.0035060667
+Epoch [441 / 8000] average reconstruction error: 0.0031844606
+Epoch [451 / 8000] average reconstruction error: 0.0029267156
+Epoch [461 / 8000] average reconstruction error: 0.0030879118
+Epoch [471 / 8000] average reconstruction error: 0.0021553193
+Epoch [481 / 8000] average reconstruction error: 0.0021589124
+Epoch [491 / 8000] average reconstruction error: 0.0031626837
+Epoch [501 / 8000] average reconstruction error: 0.0023934192
+Epoch [511 / 8000] average reconstruction error: 0.0022441836
+Epoch [521 / 8000] average reconstruction error: 0.0024397653
+Epoch [531 / 8000] average reconstruction error: 0.0021348696
+Epoch [541 / 8000] average reconstruction error: 0.0018151079
+Epoch [551 / 8000] average reconstruction error: 0.0022659418
+Epoch [561 / 8000] average reconstruction error: 0.0030810602
+Epoch [571 / 8000] average reconstruction error: 0.0022769698
+Epoch [581 / 8000] average reconstruction error: 0.0019311209
+Epoch [591 / 8000] average reconstruction error: 0.0013442468
+Epoch [601 / 8000] average reconstruction error: 0.0015016038
+Epoch [611 / 8000] average reconstruction error: 0.0010770347
+Epoch [621 / 8000] average reconstruction error: 0.0029705018
+Epoch [631 / 8000] average reconstruction error: 0.0015251056
+Epoch [641 / 8000] average reconstruction error: 0.0017501429
+Epoch [651 / 8000] average reconstruction error: 0.0015287540
+Epoch [661 / 8000] average reconstruction error: 0.0013485244
+Epoch [671 / 8000] average reconstruction error: 0.0018227085
+Epoch [681 / 8000] average reconstruction error: 0.0021203584
+Epoch [691 / 8000] average reconstruction error: 0.0013169368
+Epoch [701 / 8000] average reconstruction error: 0.0018131443
+Epoch [711 / 8000] average reconstruction error: 0.0012426606
+Epoch [721 / 8000] average reconstruction error: 0.0018597598
+Epoch [731 / 8000] average reconstruction error: 0.0009449610
+Epoch [741 / 8000] average reconstruction error: 0.0010056029
+Epoch [751 / 8000] average reconstruction error: 0.0009625824
+Epoch [761 / 8000] average reconstruction error: 0.0019549613
+Epoch [771 / 8000] average reconstruction error: 0.0015015200
+Epoch [781 / 8000] average reconstruction error: 0.0012904656
+Epoch [791 / 8000] average reconstruction error: 0.0014172501
+Epoch [801 / 8000] average reconstruction error: 0.0010937856
+Epoch [811 / 8000] average reconstruction error: 0.0015143385
+Epoch [821 / 8000] average reconstruction error: 0.0012916832
+Epoch [831 / 8000] average reconstruction error: 0.0006488482
+Epoch [841 / 8000] average reconstruction error: 0.0009130991
+Epoch [851 / 8000] average reconstruction error: 0.0009462404
+Epoch [861 / 8000] average reconstruction error: 0.0018515729
+Epoch [871 / 8000] average reconstruction error: 0.0013981650
+Epoch [881 / 8000] average reconstruction error: 0.0012036100
+Epoch [891 / 8000] average reconstruction error: 0.0009579681
+Epoch [901 / 8000] average reconstruction error: 0.0014196833
+Epoch [911 / 8000] average reconstruction error: 0.0005916476
+Epoch [921 / 8000] average reconstruction error: 0.0013194887
+Epoch [931 / 8000] average reconstruction error: 0.0012044455
+Epoch [941 / 8000] average reconstruction error: 0.0003099209
+Epoch [951 / 8000] average reconstruction error: 0.0005522933
+Epoch [961 / 8000] average reconstruction error: 0.0009845308
+Epoch [971 / 8000] average reconstruction error: 0.0007752069
+Epoch [981 / 8000] average reconstruction error: 0.0006475199
+Epoch [991 / 8000] average reconstruction error: 0.0003333757
+Epoch [1001 / 8000] average reconstruction error: 0.0011416918
+Epoch [1011 / 8000] average reconstruction error: 0.0007779041
+Epoch [1021 / 8000] average reconstruction error: 0.0002003099
+Epoch [1031 / 8000] average reconstruction error: 0.0004228759
+Epoch [1041 / 8000] average reconstruction error: 0.0009566122
+Epoch [1051 / 8000] average reconstruction error: 0.0006489229
+Epoch [1061 / 8000] average reconstruction error: 0.0010640335
+Epoch [1071 / 8000] average reconstruction error: 0.0008844875
+Epoch [1081 / 8000] average reconstruction error: 0.0006031940
+Epoch [1091 / 8000] average reconstruction error: 0.0005552626
+Epoch [1101 / 8000] average reconstruction error: 0.0008861843
+Epoch [1111 / 8000] average reconstruction error: 0.0003678434
+Epoch [1121 / 8000] average reconstruction error: 0.0009069553
+Epoch [1131 / 8000] average reconstruction error: 0.0009721844
+Epoch [1141 / 8000] average reconstruction error: 0.0011075622
+Epoch [1151 / 8000] average reconstruction error: 0.0007969012
+Epoch [1161 / 8000] average reconstruction error: 0.0006563735
+Epoch [1171 / 8000] average reconstruction error: 0.0003173623
+Epoch [1181 / 8000] average reconstruction error: 0.0002842012
+Epoch [1191 / 8000] average reconstruction error: 0.0006620769
+Epoch [1201 / 8000] average reconstruction error: 0.0005472483
+Epoch [1211 / 8000] average reconstruction error: 0.0005242069
+Epoch [1221 / 8000] average reconstruction error: 0.0005333822
+Epoch [1231 / 8000] average reconstruction error: 0.0000950512
+Epoch [1241 / 8000] average reconstruction error: 0.0004382932
+Epoch [1251 / 8000] average reconstruction error: 0.0005972355
+Epoch [1261 / 8000] average reconstruction error: 0.0006488226
+Epoch [1271 / 8000] average reconstruction error: 0.0003330747
+Epoch [1281 / 8000] average reconstruction error: 0.0001884613
+Epoch [1291 / 8000] average reconstruction error: 0.0003509175
+Epoch [1301 / 8000] average reconstruction error: 0.0005132158
+Epoch [1311 / 8000] average reconstruction error: 0.0004044905
+Epoch [1321 / 8000] average reconstruction error: 0.0004208554
+Epoch [1331 / 8000] average reconstruction error: 0.0004079466
+Epoch [1341 / 8000] average reconstruction error: 0.0002967368
+Epoch [1351 / 8000] average reconstruction error: 0.0001416489
+Epoch [1361 / 8000] average reconstruction error: 0.0002691796
+Epoch [1371 / 8000] average reconstruction error: 0.0002993126
+Epoch [1381 / 8000] average reconstruction error: 0.0003374136
+Epoch [1391 / 8000] average reconstruction error: 0.0002174369
+Epoch [1401 / 8000] average reconstruction error: 0.0003584980
+Epoch [1411 / 8000] average reconstruction error: 0.0000964498
+Epoch [1421 / 8000] average reconstruction error: 0.0001830372
+Epoch [1431 / 8000] average reconstruction error: 0.0002614493
+Epoch [1441 / 8000] average reconstruction error: 0.0001604364
+Epoch [1451 / 8000] average reconstruction error: 0.0001884753
+Epoch [1461 / 8000] average reconstruction error: 0.0001591527
+Epoch [1471 / 8000] average reconstruction error: 0.0002277623
+Epoch [1481 / 8000] average reconstruction error: 0.0001035013
+Epoch [1491 / 8000] average reconstruction error: 0.0001369870
+Epoch [1501 / 8000] average reconstruction error: 0.0001029008
+Epoch [1511 / 8000] average reconstruction error: 0.0001407420
+Epoch [1521 / 8000] average reconstruction error: 0.0001681500
+Epoch [1531 / 8000] average reconstruction error: 0.0001211416
+Epoch [1541 / 8000] average reconstruction error: 0.0001598278
+Epoch [1551 / 8000] average reconstruction error: 0.0001527435
+Epoch [1561 / 8000] average reconstruction error: 0.0000646474
+Epoch [1571 / 8000] average reconstruction error: 0.0001054922
+Epoch [1581 / 8000] average reconstruction error: 0.0000633609
+Epoch [1591 / 8000] average reconstruction error: 0.0001440841
+Epoch [1601 / 8000] average reconstruction error: 0.0001081369
+Epoch [1611 / 8000] average reconstruction error: 0.0000664406
+Epoch [1621 / 8000] average reconstruction error: 0.0001043208
+Epoch [1631 / 8000] average reconstruction error: 0.0000533047
+Epoch [1641 / 8000] average reconstruction error: 0.0000862575
+Epoch [1651 / 8000] average reconstruction error: 0.0001243673
+Epoch [1661 / 8000] average reconstruction error: 0.0001321572
+Epoch [1671 / 8000] average reconstruction error: 0.0000456627
+Epoch [1681 / 8000] average reconstruction error: 0.0000647784
+Epoch [1691 / 8000] average reconstruction error: 0.0000638557
+Epoch [1701 / 8000] average reconstruction error: 0.0000810001
+Epoch [1711 / 8000] average reconstruction error: 0.0000985848
+Epoch [1721 / 8000] average reconstruction error: 0.0000903156
+Epoch [1731 / 8000] average reconstruction error: 0.0003027506
+Epoch [1741 / 8000] average reconstruction error: 0.0004262028
+Epoch [1751 / 8000] average reconstruction error: 0.0001511764
+Epoch [1761 / 8000] average reconstruction error: 0.0002076882
+Epoch [1771 / 8000] average reconstruction error: 0.0000979738
+Epoch [1781 / 8000] average reconstruction error: 0.0000668520
+Epoch [1791 / 8000] average reconstruction error: 0.0000616879
+Epoch [1801 / 8000] average reconstruction error: 0.0000358502
+Epoch [1811 / 8000] average reconstruction error: 0.0000527444
+Epoch [1821 / 8000] average reconstruction error: 0.0000486433
+Epoch [1831 / 8000] average reconstruction error: 0.0000484397
+Epoch [1841 / 8000] average reconstruction error: 0.0000654889
+Epoch [1851 / 8000] average reconstruction error: 0.0000646310
+Epoch [1861 / 8000] average reconstruction error: 0.0000518650
+Epoch [1871 / 8000] average reconstruction error: 0.0000350748
+Epoch [1881 / 8000] average reconstruction error: 0.0000341580
+Epoch [1891 / 8000] average reconstruction error: 0.0000287942
+Epoch [1901 / 8000] average reconstruction error: 0.0000300148
+Epoch [1911 / 8000] average reconstruction error: 0.0000587104
+Epoch [1921 / 8000] average reconstruction error: 0.0000338471
+Epoch [1931 / 8000] average reconstruction error: 0.0000329763
+Epoch [1941 / 8000] average reconstruction error: 0.0000335201
+Epoch [1951 / 8000] average reconstruction error: 0.0000368933
+Epoch [1961 / 8000] average reconstruction error: 0.0000362325
+Epoch [1971 / 8000] average reconstruction error: 0.0000325861
+Epoch [1981 / 8000] average reconstruction error: 0.0000315795
+Epoch [1991 / 8000] average reconstruction error: 0.0000286663
+Epoch [2001 / 8000] average reconstruction error: 0.0000235422
+Epoch [2011 / 8000] average reconstruction error: 0.0000269867
+Epoch [2021 / 8000] average reconstruction error: 0.0000310300
+Epoch [2031 / 8000] average reconstruction error: 0.0000196134
+Epoch [2041 / 8000] average reconstruction error: 0.0000087488
+Epoch [2051 / 8000] average reconstruction error: 0.0000302925
+Epoch [2061 / 8000] average reconstruction error: 0.0000256703
+Epoch [2071 / 8000] average reconstruction error: 0.0000162438
+Epoch [2081 / 8000] average reconstruction error: 0.0000110592
+Epoch [2091 / 8000] average reconstruction error: 0.0000213678
+Epoch [2101 / 8000] average reconstruction error: 0.0000158861
+Epoch [2111 / 8000] average reconstruction error: 0.0000206379
+Epoch [2121 / 8000] average reconstruction error: 0.0000286630
+Epoch [2131 / 8000] average reconstruction error: 0.0000166785
+Epoch [2141 / 8000] average reconstruction error: 0.0000099797
+Epoch [2151 / 8000] average reconstruction error: 0.0000233499
+Epoch [2161 / 8000] average reconstruction error: 0.0000203904
+Epoch [2171 / 8000] average reconstruction error: 0.0000237586
+Epoch [2181 / 8000] average reconstruction error: 0.0000237202
+Epoch [2191 / 8000] average reconstruction error: 0.0000279194
+Epoch [2201 / 8000] average reconstruction error: 0.0000142424
+Epoch [2211 / 8000] average reconstruction error: 0.0000234676
+Epoch [2221 / 8000] average reconstruction error: 0.0000236344
+Epoch [2231 / 8000] average reconstruction error: 0.0000464806
+Epoch [2241 / 8000] average reconstruction error: 0.0001899814
+Epoch [2251 / 8000] average reconstruction error: 0.0000540349
+Epoch [2261 / 8000] average reconstruction error: 0.0000828025
+Epoch [2271 / 8000] average reconstruction error: 0.0000246924
+Epoch [2281 / 8000] average reconstruction error: 0.0000170915
+Epoch [2291 / 8000] average reconstruction error: 0.0000192271
+Epoch [2301 / 8000] average reconstruction error: 0.0000127752
+Epoch [2311 / 8000] average reconstruction error: 0.0000119038
+Epoch [2321 / 8000] average reconstruction error: 0.0000602020
+Epoch [2331 / 8000] average reconstruction error: 0.0000130083
+Epoch [2341 / 8000] average reconstruction error: 0.0000401441
+Epoch [2351 / 8000] average reconstruction error: 0.0000201493
+Epoch [2361 / 8000] average reconstruction error: 0.0000155595
+Epoch [2371 / 8000] average reconstruction error: 0.0000222935
+Epoch [2381 / 8000] average reconstruction error: 0.0000178436
+Epoch [2391 / 8000] average reconstruction error: 0.0000124968
+Epoch [2401 / 8000] average reconstruction error: 0.0000245056
+Epoch [2411 / 8000] average reconstruction error: 0.0000079051
+Epoch [2421 / 8000] average reconstruction error: 0.0000207428
+Epoch [2431 / 8000] average reconstruction error: 0.0000123000
+Epoch [2441 / 8000] average reconstruction error: 0.0000264982
+Epoch [2451 / 8000] average reconstruction error: 0.0000114614
+Epoch [2461 / 8000] average reconstruction error: 0.0000146139
+Epoch [2471 / 8000] average reconstruction error: 0.0000094081
+Epoch [2481 / 8000] average reconstruction error: 0.0000187303
+Epoch [2491 / 8000] average reconstruction error: 0.0000353738
+Epoch [2501 / 8000] average reconstruction error: 0.0001543771
+Epoch [2511 / 8000] average reconstruction error: 0.0000252191
+Epoch [2521 / 8000] average reconstruction error: 0.0000138226
+Epoch [2531 / 8000] average reconstruction error: 0.0000123603
+Epoch [2541 / 8000] average reconstruction error: 0.0000131139
+Epoch [2551 / 8000] average reconstruction error: 0.0000128136
+Epoch [2561 / 8000] average reconstruction error: 0.0000081331
+Epoch [2571 / 8000] average reconstruction error: 0.0000049373
+Epoch [2581 / 8000] average reconstruction error: 0.0000065359
+Epoch [2591 / 8000] average reconstruction error: 0.0000048497
+Epoch [2601 / 8000] average reconstruction error: 0.0000063410
+Epoch [2611 / 8000] average reconstruction error: 0.0000031370
+Epoch [2621 / 8000] average reconstruction error: 0.0000052100
+Epoch [2631 / 8000] average reconstruction error: 0.0000037378
+Epoch [2641 / 8000] average reconstruction error: 0.0000051917
+Epoch [2651 / 8000] average reconstruction error: 0.0000054009
+Epoch [2661 / 8000] average reconstruction error: 0.0000043817
+Epoch [2671 / 8000] average reconstruction error: 0.0000036043
+Epoch [2681 / 8000] average reconstruction error: 0.0000050254
+Epoch [2691 / 8000] average reconstruction error: 0.0000040982
+Epoch [2701 / 8000] average reconstruction error: 0.0000050721
+Epoch [2711 / 8000] average reconstruction error: 0.0000034803
+Epoch [2721 / 8000] average reconstruction error: 0.0000041949
+Epoch [2731 / 8000] average reconstruction error: 0.0000030443
+Epoch [2741 / 8000] average reconstruction error: 0.0000017277
+Epoch [2751 / 8000] average reconstruction error: 0.0000043131
+Epoch [2761 / 8000] average reconstruction error: 0.0000037172
+Epoch [2771 / 8000] average reconstruction error: 0.0000025568
+Epoch [2781 / 8000] average reconstruction error: 0.0001061246
+Epoch [2791 / 8000] average reconstruction error: 0.0000120279
+Epoch [2801 / 8000] average reconstruction error: 0.0000495583
+Epoch [2811 / 8000] average reconstruction error: 0.0000053007
+Epoch [2821 / 8000] average reconstruction error: 0.0000087309
+Epoch [2831 / 8000] average reconstruction error: 0.0000030983
+Epoch [2841 / 8000] average reconstruction error: 0.0000035043
+Epoch [2851 / 8000] average reconstruction error: 0.0000030554
+Epoch [2861 / 8000] average reconstruction error: 0.0000023527
+Epoch [2871 / 8000] average reconstruction error: 0.0000022282
+Epoch [2881 / 8000] average reconstruction error: 0.0000023878
+Epoch [2891 / 8000] average reconstruction error: 0.0000027380
+Epoch [2901 / 8000] average reconstruction error: 0.0000014420
+Epoch [2911 / 8000] average reconstruction error: 0.0000093239
+Epoch [2921 / 8000] average reconstruction error: 0.0000041579
+Epoch [2931 / 8000] average reconstruction error: 0.0000028643
+Epoch [2941 / 8000] average reconstruction error: 0.0000064730
+Epoch [2951 / 8000] average reconstruction error: 0.0000419246
+Epoch [2961 / 8000] average reconstruction error: 0.0000146985
+Epoch [2971 / 8000] average reconstruction error: 0.0000525466
+Epoch [2981 / 8000] average reconstruction error: 0.0000272649
+Epoch [2991 / 8000] average reconstruction error: 0.0000103298
+Epoch [3001 / 8000] average reconstruction error: 0.0000034447
+Epoch [3011 / 8000] average reconstruction error: 0.0000345956
+Epoch [3021 / 8000] average reconstruction error: 0.0000280039
+Epoch [3031 / 8000] average reconstruction error: 0.0000039181
+Epoch [3041 / 8000] average reconstruction error: 0.0000877877
+Epoch [3051 / 8000] average reconstruction error: 0.0004101266
+Epoch [3061 / 8000] average reconstruction error: 0.0001356065
+Epoch [3071 / 8000] average reconstruction error: 0.0000370029
+Epoch [3081 / 8000] average reconstruction error: 0.0000079192
+Epoch [3091 / 8000] average reconstruction error: 0.0000027603
+Epoch [3101 / 8000] average reconstruction error: 0.0000025030
+Epoch [3111 / 8000] average reconstruction error: 0.0000020164
+Epoch [3121 / 8000] average reconstruction error: 0.0000014788
+Epoch [3131 / 8000] average reconstruction error: 0.0000021897
+Epoch [3141 / 8000] average reconstruction error: 0.0000022024
+Epoch [3151 / 8000] average reconstruction error: 0.0000021456
+Epoch [3161 / 8000] average reconstruction error: 0.0000018368
+Epoch [3171 / 8000] average reconstruction error: 0.0000017796
+Epoch [3181 / 8000] average reconstruction error: 0.0000009337
+Epoch [3191 / 8000] average reconstruction error: 0.0000013189
+Epoch [3201 / 8000] average reconstruction error: 0.0000021266
+Epoch [3211 / 8000] average reconstruction error: 0.0000022473
+Epoch [3221 / 8000] average reconstruction error: 0.0000013606
+Epoch [3231 / 8000] average reconstruction error: 0.0000016218
+Epoch [3241 / 8000] average reconstruction error: 0.0000019354
+Epoch [3251 / 8000] average reconstruction error: 0.0000019010
+Epoch [3261 / 8000] average reconstruction error: 0.0000011411
+Epoch [3271 / 8000] average reconstruction error: 0.0000009262
+Epoch [3281 / 8000] average reconstruction error: 0.0000015666
+Epoch [3291 / 8000] average reconstruction error: 0.0000012857
+Epoch [3301 / 8000] average reconstruction error: 0.0000012674
+Epoch [3311 / 8000] average reconstruction error: 0.0000011306
+Epoch [3321 / 8000] average reconstruction error: 0.0000016390
+Epoch [3331 / 8000] average reconstruction error: 0.0000015469
+Epoch [3341 / 8000] average reconstruction error: 0.0000013000
+Epoch [3351 / 8000] average reconstruction error: 0.0000013443
+Epoch [3361 / 8000] average reconstruction error: 0.0000016544
+Epoch [3371 / 8000] average reconstruction error: 0.0000012118
+Epoch [3381 / 8000] average reconstruction error: 0.0000009954
+Epoch [3391 / 8000] average reconstruction error: 0.0000010940
+Epoch [3401 / 8000] average reconstruction error: 0.0000012823
+Epoch [3411 / 8000] average reconstruction error: 0.0000010725
+Epoch [3421 / 8000] average reconstruction error: 0.0000011838
+Epoch [3431 / 8000] average reconstruction error: 0.0000009463
+Epoch [3441 / 8000] average reconstruction error: 0.0000012564
+Epoch [3451 / 8000] average reconstruction error: 0.0000010046
+Epoch [3461 / 8000] average reconstruction error: 0.0000021043
+Epoch [3471 / 8000] average reconstruction error: 0.0000033651
+Epoch [3481 / 8000] average reconstruction error: 0.0000058816
+Epoch [3491 / 8000] average reconstruction error: 0.0000088494
+Epoch [3501 / 8000] average reconstruction error: 0.0000150122
+Epoch [3511 / 8000] average reconstruction error: 0.0000625942
+Epoch [3521 / 8000] average reconstruction error: 0.0000283878
+Epoch [3531 / 8000] average reconstruction error: 0.0000426268
+Epoch [3541 / 8000] average reconstruction error: 0.0001761894
+Epoch [3551 / 8000] average reconstruction error: 0.0000277568
+Epoch [3561 / 8000] average reconstruction error: 0.0000107563
+Epoch [3571 / 8000] average reconstruction error: 0.0000031939
+Epoch [3581 / 8000] average reconstruction error: 0.0000012425
+Epoch [3591 / 8000] average reconstruction error: 0.0000019057
+Epoch [3601 / 8000] average reconstruction error: 0.0000009145
+Epoch [3611 / 8000] average reconstruction error: 0.0000013209
+Epoch [3621 / 8000] average reconstruction error: 0.0000012237
+Epoch [3631 / 8000] average reconstruction error: 0.0000008410
+Epoch [3641 / 8000] average reconstruction error: 0.0000007810
+Epoch [3651 / 8000] average reconstruction error: 0.0000012247
+Epoch [3661 / 8000] average reconstruction error: 0.0000009704
+Epoch [3671 / 8000] average reconstruction error: 0.0000011648
+Epoch [3681 / 8000] average reconstruction error: 0.0000011481
+Epoch [3691 / 8000] average reconstruction error: 0.0000007528
+Epoch [3701 / 8000] average reconstruction error: 0.0000006977
+Epoch [3711 / 8000] average reconstruction error: 0.0000007390
+Epoch [3721 / 8000] average reconstruction error: 0.0000009288
+Epoch [3731 / 8000] average reconstruction error: 0.0000015081
+Epoch [3741 / 8000] average reconstruction error: 0.0000004287
+Epoch [3751 / 8000] average reconstruction error: 0.0000006936
+Epoch [3761 / 8000] average reconstruction error: 0.0000024198
+Epoch [3771 / 8000] average reconstruction error: 0.0000063670
+Epoch [3781 / 8000] average reconstruction error: 0.0000013906
+Epoch [3791 / 8000] average reconstruction error: 0.0000039323
+Epoch [3801 / 8000] average reconstruction error: 0.0000046370
+Epoch [3811 / 8000] average reconstruction error: 0.0000182188
+Epoch [3821 / 8000] average reconstruction error: 0.0000024599
+Epoch [3831 / 8000] average reconstruction error: 0.0000008197
+Epoch [3841 / 8000] average reconstruction error: 0.0000028648
+Epoch [3851 / 8000] average reconstruction error: 0.0000013193
+Epoch [3861 / 8000] average reconstruction error: 0.0000021152
+Epoch [3871 / 8000] average reconstruction error: 0.0000028291
+Epoch [3881 / 8000] average reconstruction error: 0.0000012017
+Epoch [3891 / 8000] average reconstruction error: 0.0000016566
+Epoch [3901 / 8000] average reconstruction error: 0.0000016944
+Epoch [3911 / 8000] average reconstruction error: 0.0000008972
+Epoch [3921 / 8000] average reconstruction error: 0.0000007172
+Epoch [3931 / 8000] average reconstruction error: 0.0000015449
+Epoch [3941 / 8000] average reconstruction error: 0.0000011920
+Epoch [3951 / 8000] average reconstruction error: 0.0000007019
+Epoch [3961 / 8000] average reconstruction error: 0.0000017008
+Epoch [3971 / 8000] average reconstruction error: 0.0000005586
+Epoch [3981 / 8000] average reconstruction error: 0.0000006960
+Epoch [3991 / 8000] average reconstruction error: 0.0000006219
+Epoch [4001 / 8000] average reconstruction error: 0.0000040134
+Epoch [4011 / 8000] average reconstruction error: 0.0000023331
+Epoch [4021 / 8000] average reconstruction error: 0.0000168671
+Epoch [4031 / 8000] average reconstruction error: 0.0000083611
+Epoch [4041 / 8000] average reconstruction error: 0.0000115719
+Epoch [4051 / 8000] average reconstruction error: 0.0000027059
+Epoch [4061 / 8000] average reconstruction error: 0.0000250276
+Epoch [4071 / 8000] average reconstruction error: 0.0000238523
+Epoch [4081 / 8000] average reconstruction error: 0.0000241356
+Epoch [4091 / 8000] average reconstruction error: 0.0000150505
+Epoch [4101 / 8000] average reconstruction error: 0.0000087695
+Epoch [4111 / 8000] average reconstruction error: 0.0000311773
+Epoch [4121 / 8000] average reconstruction error: 0.0004002702
+Epoch [4131 / 8000] average reconstruction error: 0.0000544981
+Epoch [4141 / 8000] average reconstruction error: 0.0000048248
+Epoch [4151 / 8000] average reconstruction error: 0.0000034614
+Epoch [4161 / 8000] average reconstruction error: 0.0000039080
+Epoch [4171 / 8000] average reconstruction error: 0.0000016116
+Epoch [4181 / 8000] average reconstruction error: 0.0000018894
+Epoch [4191 / 8000] average reconstruction error: 0.0000009662
+Epoch [4201 / 8000] average reconstruction error: 0.0000016302
+Epoch [4211 / 8000] average reconstruction error: 0.0000009430
+Epoch [4221 / 8000] average reconstruction error: 0.0000006117
+Epoch [4231 / 8000] average reconstruction error: 0.0000007461
+Epoch [4241 / 8000] average reconstruction error: 0.0000004313
+Epoch [4251 / 8000] average reconstruction error: 0.0000004690
+Epoch [4261 / 8000] average reconstruction error: 0.0000007043
+Epoch [4271 / 8000] average reconstruction error: 0.0000004920
+Epoch [4281 / 8000] average reconstruction error: 0.0000006486
+Epoch [4291 / 8000] average reconstruction error: 0.0000003282
+Epoch [4301 / 8000] average reconstruction error: 0.0000005296
+Epoch [4311 / 8000] average reconstruction error: 0.0000004382
+Epoch [4321 / 8000] average reconstruction error: 0.0000003952
+Epoch [4331 / 8000] average reconstruction error: 0.0000005457
+Epoch [4341 / 8000] average reconstruction error: 0.0000002923
+Epoch [4351 / 8000] average reconstruction error: 0.0000005252
+Epoch [4361 / 8000] average reconstruction error: 0.0000004876
+Epoch [4371 / 8000] average reconstruction error: 0.0000005238
+Epoch [4381 / 8000] average reconstruction error: 0.0000003282
+Epoch [4391 / 8000] average reconstruction error: 0.0000006675
+Epoch [4401 / 8000] average reconstruction error: 0.0000005842
+Epoch [4411 / 8000] average reconstruction error: 0.0000003477
+Epoch [4421 / 8000] average reconstruction error: 0.0000008127
+Epoch [4431 / 8000] average reconstruction error: 0.0000006930
+Epoch [4441 / 8000] average reconstruction error: 0.0000010555
+Epoch [4451 / 8000] average reconstruction error: 0.0000019427
+Epoch [4461 / 8000] average reconstruction error: 0.0000023176
+Epoch [4471 / 8000] average reconstruction error: 0.0000008469
+Epoch [4481 / 8000] average reconstruction error: 0.0000079017
+Epoch [4491 / 8000] average reconstruction error: 0.0000253315
+Epoch [4501 / 8000] average reconstruction error: 0.0001036868
+Epoch [4511 / 8000] average reconstruction error: 0.0000109360
+Epoch [4521 / 8000] average reconstruction error: 0.0000158700
+Epoch [4531 / 8000] average reconstruction error: 0.0000114926
+Epoch [4541 / 8000] average reconstruction error: 0.0000283707
+Epoch [4551 / 8000] average reconstruction error: 0.0000064081
+Epoch [4561 / 8000] average reconstruction error: 0.0000014539
+Epoch [4571 / 8000] average reconstruction error: 0.0000011020
+Epoch [4581 / 8000] average reconstruction error: 0.0000013400
+Epoch [4591 / 8000] average reconstruction error: 0.0000005807
+Epoch [4601 / 8000] average reconstruction error: 0.0000005540
+Epoch [4611 / 8000] average reconstruction error: 0.0000005337
+Epoch [4621 / 8000] average reconstruction error: 0.0000005781
+Epoch [4631 / 8000] average reconstruction error: 0.0000005260
+Epoch [4641 / 8000] average reconstruction error: 0.0000004914
+Epoch [4651 / 8000] average reconstruction error: 0.0000004100
+Epoch [4661 / 8000] average reconstruction error: 0.0000003212
+Epoch [4671 / 8000] average reconstruction error: 0.0000004809
+Epoch [4681 / 8000] average reconstruction error: 0.0000004400
+Epoch [4691 / 8000] average reconstruction error: 0.0000004591
+Epoch [4701 / 8000] average reconstruction error: 0.0000003969
+Epoch [4711 / 8000] average reconstruction error: 0.0000001941
+Epoch [4721 / 8000] average reconstruction error: 0.0000003865
+Epoch [4731 / 8000] average reconstruction error: 0.0000003530
+Epoch [4741 / 8000] average reconstruction error: 0.0000006657
+Epoch [4751 / 8000] average reconstruction error: 0.0000006076
+Epoch [4761 / 8000] average reconstruction error: 0.0000004723
+Epoch [4771 / 8000] average reconstruction error: 0.0000005466
+Epoch [4781 / 8000] average reconstruction error: 0.0000580064
+Epoch [4791 / 8000] average reconstruction error: 0.0004269650
+Epoch [4801 / 8000] average reconstruction error: 0.0000740569
+Epoch [4811 / 8000] average reconstruction error: 0.0000274807
+Epoch [4821 / 8000] average reconstruction error: 0.0000082194
+Epoch [4831 / 8000] average reconstruction error: 0.0000015225
+Epoch [4841 / 8000] average reconstruction error: 0.0000008700
+Epoch [4851 / 8000] average reconstruction error: 0.0000006999
+Epoch [4861 / 8000] average reconstruction error: 0.0000008984
+Epoch [4871 / 8000] average reconstruction error: 0.0000008232
+Epoch [4881 / 8000] average reconstruction error: 0.0000003943
+Epoch [4891 / 8000] average reconstruction error: 0.0000004976
+Epoch [4901 / 8000] average reconstruction error: 0.0000005935
+Epoch [4911 / 8000] average reconstruction error: 0.0000004519
+Epoch [4921 / 8000] average reconstruction error: 0.0000003973
+Epoch [4931 / 8000] average reconstruction error: 0.0000003124
+Epoch [4941 / 8000] average reconstruction error: 0.0000005187
+Epoch [4951 / 8000] average reconstruction error: 0.0000002925
+Epoch [4961 / 8000] average reconstruction error: 0.0000004214
+Epoch [4971 / 8000] average reconstruction error: 0.0000005105
+Epoch [4981 / 8000] average reconstruction error: 0.0000005122
+Epoch [4991 / 8000] average reconstruction error: 0.0000002031
+Epoch [5001 / 8000] average reconstruction error: 0.0000003809
+Epoch [5011 / 8000] average reconstruction error: 0.0000003564
+Epoch [5021 / 8000] average reconstruction error: 0.0000005228
+Epoch [5031 / 8000] average reconstruction error: 0.0000003947
+Epoch [5041 / 8000] average reconstruction error: 0.0000002532
+Epoch [5051 / 8000] average reconstruction error: 0.0000004497
+Epoch [5061 / 8000] average reconstruction error: 0.0000004662
+Epoch [5071 / 8000] average reconstruction error: 0.0000004067
+Epoch [5081 / 8000] average reconstruction error: 0.0000004836
+Epoch [5091 / 8000] average reconstruction error: 0.0000002651
+Epoch [5101 / 8000] average reconstruction error: 0.0000002714
+Epoch [5111 / 8000] average reconstruction error: 0.0000003860
+Epoch [5121 / 8000] average reconstruction error: 0.0000003342
+Epoch [5131 / 8000] average reconstruction error: 0.0000004602
+Epoch [5141 / 8000] average reconstruction error: 0.0000003301
+Epoch [5151 / 8000] average reconstruction error: 0.0000004095
+Epoch [5161 / 8000] average reconstruction error: 0.0000003381
+Epoch [5171 / 8000] average reconstruction error: 0.0000003346
+Epoch [5181 / 8000] average reconstruction error: 0.0000003017
+Epoch [5191 / 8000] average reconstruction error: 0.0000006068
+Epoch [5201 / 8000] average reconstruction error: 0.0000013145
+Epoch [5211 / 8000] average reconstruction error: 0.0000011907
+Epoch [5221 / 8000] average reconstruction error: 0.0000011539
+Epoch [5231 / 8000] average reconstruction error: 0.0000025937
+Epoch [5241 / 8000] average reconstruction error: 0.0000045833
+Epoch [5251 / 8000] average reconstruction error: 0.0000067035
+Epoch [5261 / 8000] average reconstruction error: 0.0000040927
+Epoch [5271 / 8000] average reconstruction error: 0.0000050306
+Epoch [5281 / 8000] average reconstruction error: 0.0000026671
+Epoch [5291 / 8000] average reconstruction error: 0.0000012714
+Epoch [5301 / 8000] average reconstruction error: 0.0000041317
+Epoch [5311 / 8000] average reconstruction error: 0.0000024093
+Epoch [5321 / 8000] average reconstruction error: 0.0000043097
+Epoch [5331 / 8000] average reconstruction error: 0.0000036288
+Epoch [5341 / 8000] average reconstruction error: 0.0000099316
+Epoch [5351 / 8000] average reconstruction error: 0.0000083614
+Epoch [5361 / 8000] average reconstruction error: 0.0000030623
+Epoch [5371 / 8000] average reconstruction error: 0.0000049796
+Epoch [5381 / 8000] average reconstruction error: 0.0000028165
+Epoch [5391 / 8000] average reconstruction error: 0.0000035854
+Epoch [5401 / 8000] average reconstruction error: 0.0000011854
+Epoch [5411 / 8000] average reconstruction error: 0.0000591055
+Epoch [5421 / 8000] average reconstruction error: 0.0002572312
+Epoch [5431 / 8000] average reconstruction error: 0.0001794552
+Epoch [5441 / 8000] average reconstruction error: 0.0005472097
+Epoch [5451 / 8000] average reconstruction error: 0.0000416738
+Epoch [5461 / 8000] average reconstruction error: 0.0000168267
+Epoch [5471 / 8000] average reconstruction error: 0.0000030674
+Epoch [5481 / 8000] average reconstruction error: 0.0000010252
+Epoch [5491 / 8000] average reconstruction error: 0.0000011600
+Epoch [5501 / 8000] average reconstruction error: 0.0000010049
+Epoch [5511 / 8000] average reconstruction error: 0.0000007039
+Epoch [5521 / 8000] average reconstruction error: 0.0000004520
+Epoch [5531 / 8000] average reconstruction error: 0.0000005572
+Epoch [5541 / 8000] average reconstruction error: 0.0000004482
+Epoch [5551 / 8000] average reconstruction error: 0.0000005342
+Epoch [5561 / 8000] average reconstruction error: 0.0000003084
+Epoch [5571 / 8000] average reconstruction error: 0.0000003507
+Epoch [5581 / 8000] average reconstruction error: 0.0000003213
+Epoch [5591 / 8000] average reconstruction error: 0.0000003670
+Epoch [5601 / 8000] average reconstruction error: 0.0000003447
+Epoch [5611 / 8000] average reconstruction error: 0.0000002129
+Epoch [5621 / 8000] average reconstruction error: 0.0000003435
+Epoch [5631 / 8000] average reconstruction error: 0.0000002817
+Epoch [5641 / 8000] average reconstruction error: 0.0000003465
+Epoch [5651 / 8000] average reconstruction error: 0.0000004142
+Epoch [5661 / 8000] average reconstruction error: 0.0000002608
+Epoch [5671 / 8000] average reconstruction error: 0.0000001734
+Epoch [5681 / 8000] average reconstruction error: 0.0000003927
+Epoch [5691 / 8000] average reconstruction error: 0.0000001317
+Epoch [5701 / 8000] average reconstruction error: 0.0000003100
+Epoch [5711 / 8000] average reconstruction error: 0.0000003185
+Epoch [5721 / 8000] average reconstruction error: 0.0000002817
+Epoch [5731 / 8000] average reconstruction error: 0.0000002685
+Epoch [5741 / 8000] average reconstruction error: 0.0000003410
+Epoch [5751 / 8000] average reconstruction error: 0.0000002428
+Epoch [5761 / 8000] average reconstruction error: 0.0000003239
+Epoch [5771 / 8000] average reconstruction error: 0.0000003316
+Epoch [5781 / 8000] average reconstruction error: 0.0000001811
+Epoch [5791 / 8000] average reconstruction error: 0.0000002688
+Epoch [5801 / 8000] average reconstruction error: 0.0000001862
+Epoch [5811 / 8000] average reconstruction error: 0.0000002706
+Epoch [5821 / 8000] average reconstruction error: 0.0000001349
+Epoch [5831 / 8000] average reconstruction error: 0.0000002617
+Epoch [5841 / 8000] average reconstruction error: 0.0000001917
+Epoch [5851 / 8000] average reconstruction error: 0.0000002376
+Epoch [5861 / 8000] average reconstruction error: 0.0000002483
+Epoch [5871 / 8000] average reconstruction error: 0.0000002660
+Epoch [5881 / 8000] average reconstruction error: 0.0000002361
+Epoch [5891 / 8000] average reconstruction error: 0.0000002436
+Epoch [5901 / 8000] average reconstruction error: 0.0000002706
+Epoch [5911 / 8000] average reconstruction error: 0.0000003310
+Epoch [5921 / 8000] average reconstruction error: 0.0000002808
+Epoch [5931 / 8000] average reconstruction error: 0.0000002535
+Epoch [5941 / 8000] average reconstruction error: 0.0000002432
+Epoch [5951 / 8000] average reconstruction error: 0.0000001918
+Epoch [5961 / 8000] average reconstruction error: 0.0000001908
+Epoch [5971 / 8000] average reconstruction error: 0.0000001752
+Epoch [5981 / 8000] average reconstruction error: 0.0000002157
+Epoch [5991 / 8000] average reconstruction error: 0.0000001787
+Epoch [6001 / 8000] average reconstruction error: 0.0000001208
+Epoch [6011 / 8000] average reconstruction error: 0.0000001859
+Epoch [6021 / 8000] average reconstruction error: 0.0000001582
+Epoch [6031 / 8000] average reconstruction error: 0.0000001768
+Epoch [6041 / 8000] average reconstruction error: 0.0000001710
+Epoch [6051 / 8000] average reconstruction error: 0.0000002009
+Epoch [6061 / 8000] average reconstruction error: 0.0000002598
+Epoch [6071 / 8000] average reconstruction error: 0.0000004109
+Epoch [6081 / 8000] average reconstruction error: 0.0000002405
+Epoch [6091 / 8000] average reconstruction error: 0.0000002647
+Epoch [6101 / 8000] average reconstruction error: 0.0000003363
+Epoch [6111 / 8000] average reconstruction error: 0.0000003019
+Epoch [6121 / 8000] average reconstruction error: 0.0000024743
+Epoch [6131 / 8000] average reconstruction error: 0.0000014203
+Epoch [6141 / 8000] average reconstruction error: 0.0000025426
+Epoch [6151 / 8000] average reconstruction error: 0.0000006086
+Epoch [6161 / 8000] average reconstruction error: 0.0000017400
+Epoch [6171 / 8000] average reconstruction error: 0.0000005521
+Epoch [6181 / 8000] average reconstruction error: 0.0000007347
+Epoch [6191 / 8000] average reconstruction error: 0.0000007128
+Epoch [6201 / 8000] average reconstruction error: 0.0000016858
+Epoch [6211 / 8000] average reconstruction error: 0.0000015947
+Epoch [6221 / 8000] average reconstruction error: 0.0000041297
+Epoch [6231 / 8000] average reconstruction error: 0.0000017887
+Epoch [6241 / 8000] average reconstruction error: 0.0000060552
+Epoch [6251 / 8000] average reconstruction error: 0.0000097831
+Epoch [6261 / 8000] average reconstruction error: 0.0000358132
+Epoch [6271 / 8000] average reconstruction error: 0.0000153265
+Epoch [6281 / 8000] average reconstruction error: 0.0000191304
+Epoch [6291 / 8000] average reconstruction error: 0.0000054016
+Epoch [6301 / 8000] average reconstruction error: 0.0000122376
+Epoch [6311 / 8000] average reconstruction error: 0.0000064384
+Epoch [6321 / 8000] average reconstruction error: 0.0000255994
+Epoch [6331 / 8000] average reconstruction error: 0.0000029973
+Epoch [6341 / 8000] average reconstruction error: 0.0000023441
+Epoch [6351 / 8000] average reconstruction error: 0.0000037523
+Epoch [6361 / 8000] average reconstruction error: 0.0000058092
+Epoch [6371 / 8000] average reconstruction error: 0.0000034026
+Epoch [6381 / 8000] average reconstruction error: 0.0000032831
+Epoch [6391 / 8000] average reconstruction error: 0.0000032603
+Epoch [6401 / 8000] average reconstruction error: 0.0000052958
+Epoch [6411 / 8000] average reconstruction error: 0.0000118636
+Epoch [6421 / 8000] average reconstruction error: 0.0000021338
+Epoch [6431 / 8000] average reconstruction error: 0.0000346300
+Epoch [6441 / 8000] average reconstruction error: 0.0002491771
+Epoch [6451 / 8000] average reconstruction error: 0.0000774035
+Epoch [6461 / 8000] average reconstruction error: 0.0000298764
+Epoch [6471 / 8000] average reconstruction error: 0.0000079121
+Epoch [6481 / 8000] average reconstruction error: 0.0000128795
+Epoch [6491 / 8000] average reconstruction error: 0.0000086716
+Epoch [6501 / 8000] average reconstruction error: 0.0000128925
+Epoch [6511 / 8000] average reconstruction error: 0.0000012914
+Epoch [6521 / 8000] average reconstruction error: 0.0000011267
+Epoch [6531 / 8000] average reconstruction error: 0.0000011299
+Epoch [6541 / 8000] average reconstruction error: 0.0000005626
+Epoch [6551 / 8000] average reconstruction error: 0.0000001965
+Epoch [6561 / 8000] average reconstruction error: 0.0000002392
+Epoch [6571 / 8000] average reconstruction error: 0.0000003910
+Epoch [6581 / 8000] average reconstruction error: 0.0000004532
+Epoch [6591 / 8000] average reconstruction error: 0.0000002571
+Epoch [6601 / 8000] average reconstruction error: 0.0000002517
+Epoch [6611 / 8000] average reconstruction error: 0.0000002141
+Epoch [6621 / 8000] average reconstruction error: 0.0000002405
+Epoch [6631 / 8000] average reconstruction error: 0.0000002047
+Epoch [6641 / 8000] average reconstruction error: 0.0000006173
+Epoch [6651 / 8000] average reconstruction error: 0.0000004945
+Epoch [6661 / 8000] average reconstruction error: 0.0000003322
+Epoch [6671 / 8000] average reconstruction error: 0.0000014138
+Epoch [6681 / 8000] average reconstruction error: 0.0000003645
+Epoch [6691 / 8000] average reconstruction error: 0.0000001824
+Epoch [6701 / 8000] average reconstruction error: 0.0000004226
+Epoch [6711 / 8000] average reconstruction error: 0.0000003805
+Epoch [6721 / 8000] average reconstruction error: 0.0000006058
+Epoch [6731 / 8000] average reconstruction error: 0.0000001551
+Epoch [6741 / 8000] average reconstruction error: 0.0000001310
+Epoch [6751 / 8000] average reconstruction error: 0.0000001423
+Epoch [6761 / 8000] average reconstruction error: 0.0000001546
+Epoch [6771 / 8000] average reconstruction error: 0.0000001546
+Epoch [6781 / 8000] average reconstruction error: 0.0000001803
+Epoch [6791 / 8000] average reconstruction error: 0.0000001500
+Epoch [6801 / 8000] average reconstruction error: 0.0000001889
+Epoch [6811 / 8000] average reconstruction error: 0.0000002279
+Epoch [6821 / 8000] average reconstruction error: 0.0000002617
+Epoch [6831 / 8000] average reconstruction error: 0.0000007665
+Epoch [6841 / 8000] average reconstruction error: 0.0000014093
+Epoch [6851 / 8000] average reconstruction error: 0.0000031953
+Epoch [6861 / 8000] average reconstruction error: 0.0000015527
+Epoch [6871 / 8000] average reconstruction error: 0.0000046889
+Epoch [6881 / 8000] average reconstruction error: 0.0000205523
+Epoch [6891 / 8000] average reconstruction error: 0.0000368734
+Epoch [6901 / 8000] average reconstruction error: 0.0000494341
+Epoch [6911 / 8000] average reconstruction error: 0.0000733968
+Epoch [6921 / 8000] average reconstruction error: 0.0001418173
+Epoch [6931 / 8000] average reconstruction error: 0.0000135596
+Epoch [6941 / 8000] average reconstruction error: 0.0000089299
+Epoch [6951 / 8000] average reconstruction error: 0.0000178410
+Epoch [6961 / 8000] average reconstruction error: 0.0000046527
+Epoch [6971 / 8000] average reconstruction error: 0.0000013416
+Epoch [6981 / 8000] average reconstruction error: 0.0000004867
+Epoch [6991 / 8000] average reconstruction error: 0.0000003219
+epoch 6775
+testing loss [tensor(0.0747, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1970, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1146, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0517, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1522, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0629, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0412, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0345, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0345, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0890, device='cuda:0', grad_fn=<DivBackward0>)]
+avg testing loss tensor(4.2611, device='cuda:0', grad_fn=<MulBackward0>)
+0 tensor([[0.2504, 0.2502, 0.2503, 0.3329]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+1 tensor([[-1.5566e-04,  1.0071e-05,  1.2949e-05,  1.8779e-04]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+2 tensor([[0.7499, 0.7492, 0.7497, 0.6675]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+3 tensor([[0.4994, 0.4997, 0.4995, 0.3316]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+4 tensor([[0.9995, 0.9997, 0.9996, 1.0001]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+5 tensor([[0.9998, 0.9997, 1.0003, 0.6671]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+6 tensor([[0.9997, 0.9998, 0.9996, 0.9990]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+0 tensor([[0.2504, 0.2502, 0.2503, 0.3329]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+1 tensor([[-1.5566e-04,  1.0071e-05,  1.2949e-05,  1.8779e-04]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+2 tensor([[0.7499, 0.7492, 0.7497, 0.6675]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+3 tensor([[0.4994, 0.4997, 0.4995, 0.3316]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+4 tensor([[0.9995, 0.9997, 0.9996, 1.0001]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+5 tensor([[0.9998, 0.9997, 1.0003, 0.6671]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+6 tensor([[0.9997, 0.9998, 0.9996, 0.9990]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+total_loss [tensor(0.0392, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0392, device='cuda:0', grad_fn=<DivBackward0>), tensor(8.3697e-06, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1303, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0136, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0756, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1212, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0815, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0587, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1527, device='cuda:0', grad_fn=<DivBackward0>)]
+total_loss [tensor(0.0530, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1457, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0587, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0470, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.2337, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1721, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.2281, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.3965, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1385, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1275, device='cuda:0', grad_fn=<DivBackward0>)]
+total_loss [tensor(0.1527, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1721, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0587, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0392, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0815, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1212, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0756, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1457, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0470, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0587, device='cuda:0', grad_fn=<DivBackward0>)]
+////
+total_loss [tensor(8.3697e-06, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.2281, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0136, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.3965, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0530, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1275, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.2337, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0392, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1303, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1385, device='cuda:0', grad_fn=<DivBackward0>)]
+////
+total_loss [tensor(0.2822, device='cuda:0', grad_fn=<AddBackward0>), tensor(1.5489, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.9697, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.6049, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.4237, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.5708, device='cuda:0', grad_fn=<AddBackward0>), tensor(1.8694, device='cuda:0', grad_fn=<AddBackward0>), tensor(1.0200, device='cuda:0', grad_fn=<AddBackward0>), tensor(1.3741, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.7820, device='cuda:0', grad_fn=<AddBackward0>)]
+total_loss [tensor(0.0470, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1721, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1385, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0756, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0530, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0815, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.2337, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1275, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1527, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1303, device='cuda:0', grad_fn=<DivBackward0>)]
+////
+total_loss [tensor(1.0200, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.2349, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.2349, device='cuda:0', grad_fn=<AddBackward0>), tensor(6.6958e-05, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.2349, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.0954, device='cuda:0', grad_fn=<AddBackward0>), tensor(1.5860, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.9124, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.2349, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.9697, device='cuda:0', grad_fn=<AddBackward0>)]
+total_loss [tensor(0.1457, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0392, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0392, device='cuda:0', grad_fn=<DivBackward0>), tensor(8.3697e-06, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0587, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0136, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.3965, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.2281, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0587, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1212, device='cuda:0', grad_fn=<DivBackward0>)]
+////
+mse [tensor(2.1081e-06, device='cuda:0', grad_fn=<MseLossBackward0>)]
+mse [tensor(1.7582e-05, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(7.1081e-06, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(7.1246e-06, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(1.6449e-05, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(3.8306e-06, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(8.0699e-06, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(6.7209e-06, device='cuda:0', grad_fn=<MseLossBackward0>)]
+mse [tensor(1.8786e-06, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0211, device='cuda:0', grad_fn=<MseLossBackward0>)]
+mse [tensor(2.1102e-05, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(1.5179e-05, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(7.6222e-06, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(1.0906e-05, device='cuda:0', grad_fn=<MseLossBackward0>)]
+mse [tensor(0.0091, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0024, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(1.0455e-05, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0463, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0087, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(1.3697e-05, device='cuda:0', grad_fn=<MseLossBackward0>)]
+mse [tensor(3.3776e-05, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(1.3503e-05, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(5.5003e-06, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(1.5282e-05, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(2.3625e-05, device='cuda:0', grad_fn=<MseLossBackward0>)]
+mse [tensor(1.7610e-05, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(8.0101e-06, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(6.2077e-06, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(7.0828e-06, device='cuda:0', grad_fn=<MseLossBackward0>)]
+mse [tensor(2.0677e-05, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(5.0126e-06, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(9.6294e-06, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(1.3084e-05, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(1.2110e-05, device='cuda:0', grad_fn=<MseLossBackward0>)]
+mse [tensor(2.1081e-06, device='cuda:0', grad_fn=<MseLossBackward0>)]
+mse [tensor(8.7609e-08, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0484, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0491, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0497, device='cuda:0', grad_fn=<MseLossBackward0>)]
+total_loss [tensor(0.2349, device='cuda:0', grad_fn=<AddBackward0>), tensor(6.6958e-05, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.9124, device='cuda:0', grad_fn=<AddBackward0>), tensor(1.0200, device='cuda:0', grad_fn=<AddBackward0>), tensor(1.5489, device='cuda:0', grad_fn=<AddBackward0>), tensor(1.8694, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.9697, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.4237, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.2349, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.7820, device='cuda:0', grad_fn=<AddBackward0>)]
+total_loss [tensor(0.0392, device='cuda:0', grad_fn=<DivBackward0>), tensor(8.3697e-06, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.2281, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1457, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1721, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.2337, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1212, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0530, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0587, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1303, device='cuda:0', grad_fn=<DivBackward0>)]
+////
+mse [tensor(7.3407e-06, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(3.1398e-06, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0474, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(2.6832e-06, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0474, device='cuda:0', grad_fn=<MseLossBackward0>)]
+mse [tensor(2.1102e-05, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(1.5179e-05, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(7.6222e-06, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(1.0906e-05, device='cuda:0', grad_fn=<MseLossBackward0>)]
+mse [tensor(6.5408e-06, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(2.5676e-06, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0474, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(3.5614e-06, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(2.1716e-06, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0480, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(9.0466e-06, device='cuda:0', grad_fn=<MseLossBackward0>)]
+mse [tensor(0.0063, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0022, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(3.7915e-06, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0021, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0083, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(8.3721e-06, device='cuda:0', grad_fn=<MseLossBackward0>)]
+mse [tensor(2.1081e-06, device='cuda:0', grad_fn=<MseLossBackward0>)]
+mse [tensor(6.6667e-08, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0487, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0486, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(1.0465e-05, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0499, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(2.4221e-05, device='cuda:0', grad_fn=<MseLossBackward0>)]
+mse [tensor(1.7610e-05, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(8.0101e-06, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(6.2077e-06, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(7.0828e-06, device='cuda:0', grad_fn=<MseLossBackward0>)]
+mse [tensor(2.7075e-05, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(6.4506e-06, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(1.4218e-05, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(1.9682e-05, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(1.8220e-05, device='cuda:0', grad_fn=<MseLossBackward0>)]
+mse [tensor(1.8479e-06, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0220, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0835, device='cuda:0', grad_fn=<MseLossBackward0>)]
+mse [tensor(2.1081e-06, device='cuda:0', grad_fn=<MseLossBackward0>)]
+total_loss [tensor(0.5708, device='cuda:0', grad_fn=<AddBackward0>), tensor(1.0200, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.0954, device='cuda:0', grad_fn=<AddBackward0>), tensor(1.3741, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.2349, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.2822, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.9697, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.6049, device='cuda:0', grad_fn=<AddBackward0>), tensor(1.5860, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.2349, device='cuda:0', grad_fn=<AddBackward0>)]
+total_loss [tensor(0.0815, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1275, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0136, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1527, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0587, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0470, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1385, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0756, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.3965, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0392, device='cuda:0', grad_fn=<DivBackward0>)]
+////
+mse [tensor(2.7093e-09, device='cuda:0', grad_fn=<MulBackward0>), tensor(-0., device='cuda:0', grad_fn=<MulBackward0>), tensor(-0., device='cuda:0', grad_fn=<MulBackward0>), tensor(-0., device='cuda:0', grad_fn=<MulBackward0>), tensor(-0., device='cuda:0', grad_fn=<MulBackward0>), tensor(1.7881e-07, device='cuda:0', grad_fn=<MulBackward0>), tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)]
+mse [tensor(0.5874, device='cuda:0', grad_fn=<MulBackward0>)]
+mse [tensor(-0., device='cuda:0', grad_fn=<MulBackward0>), tensor(-0., device='cuda:0', grad_fn=<MulBackward0>), tensor(0.5026, device='cuda:0', grad_fn=<MulBackward0>), tensor(-0., device='cuda:0', grad_fn=<MulBackward0>), tensor(0.6873, device='cuda:0', grad_fn=<MulBackward0>)]
+mse [tensor(3.2240e-07, device='cuda:0', grad_fn=<MulBackward0>), tensor(-0., device='cuda:0', grad_fn=<MulBackward0>), tensor(0.3500, device='cuda:0', grad_fn=<MulBackward0>), tensor(-0., device='cuda:0', grad_fn=<MulBackward0>), tensor(0.7092, device='cuda:0', grad_fn=<MulBackward0>)]
+mse [tensor(0.5788, device='cuda:0', grad_fn=<MulBackward0>), tensor(1.6494, device='cuda:0', grad_fn=<MulBackward0>)]
+mse [tensor(1.6256e-08, device='cuda:0', grad_fn=<MulBackward0>), tensor(0.9078, device='cuda:0', grad_fn=<MulBackward0>), tensor(5.1477e-08, device='cuda:0', grad_fn=<MulBackward0>), tensor(1.5164, device='cuda:0', grad_fn=<MulBackward0>)]
+mse [tensor(0.4669, device='cuda:0', grad_fn=<MulBackward0>), tensor(0.9052, device='cuda:0', grad_fn=<MulBackward0>), tensor(1.8965e-08, device='cuda:0', grad_fn=<MulBackward0>), tensor(0.6806, device='cuda:0', grad_fn=<MulBackward0>), tensor(2.6206, device='cuda:0', grad_fn=<MulBackward0>)]
+mse [tensor(0.2822, device='cuda:0', grad_fn=<MulBackward0>), tensor(-0., device='cuda:0', grad_fn=<MulBackward0>), tensor(0.4077, device='cuda:0', grad_fn=<MulBackward0>), tensor(-0., device='cuda:0', grad_fn=<MulBackward0>), tensor(0.8222, device='cuda:0', grad_fn=<MulBackward0>)]
+mse [tensor(0.5874, device='cuda:0', grad_fn=<MulBackward0>)]
+mse [tensor(-0., device='cuda:0', grad_fn=<MulBackward0>), tensor(0.4287, device='cuda:0', grad_fn=<MulBackward0>), tensor(2.7093e-09, device='cuda:0', grad_fn=<MulBackward0>), tensor(0.9757, device='cuda:0', grad_fn=<MulBackward0>), tensor(8.6698e-08, device='cuda:0', grad_fn=<MulBackward0>), tensor(1.9837, device='cuda:0', grad_fn=<MulBackward0>)]
+total_loss [tensor(6.6958e-05, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.2349, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.5708, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.4237, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.9124, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.9697, device='cuda:0', grad_fn=<AddBackward0>), tensor(1.8694, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.6049, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.2349, device='cuda:0', grad_fn=<AddBackward0>), tensor(1.3741, device='cuda:0', grad_fn=<AddBackward0>)]
+total_loss [tensor(8.3697e-06, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0587, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0815, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0530, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.2281, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1212, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.2337, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0756, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0587, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1527, device='cuda:0', grad_fn=<DivBackward0>)]
+////
+mse [tensor(0.5874, device='cuda:0', grad_fn=<MulBackward0>)]
+mse [tensor(0.3923, device='cuda:0', grad_fn=<MulBackward0>), tensor(0.4746, device='cuda:0', grad_fn=<MulBackward0>), tensor(-0., device='cuda:0', grad_fn=<MulBackward0>), tensor(0.7202, device='cuda:0', grad_fn=<MulBackward0>)]
+mse [tensor(1.0721, device='cuda:0', grad_fn=<MulBackward0>), tensor(0.8884, device='cuda:0', grad_fn=<MulBackward0>), tensor(2.9802e-08, device='cuda:0', grad_fn=<MulBackward0>), tensor(-0., device='cuda:0', grad_fn=<MulBackward0>), tensor(6.2855e-07, device='cuda:0', grad_fn=<MulBackward0>), tensor(1.7454, device='cuda:0', grad_fn=<MulBackward0>)]
+mse [tensor(0.4641, device='cuda:0', grad_fn=<MulBackward0>), tensor(0.5905, device='cuda:0', grad_fn=<MulBackward0>), tensor(2.6466, device='cuda:0', grad_fn=<MulBackward0>)]
+mse [tensor(-0., device='cuda:0', grad_fn=<MulBackward0>), tensor(-0., device='cuda:0', grad_fn=<MulBackward0>), tensor(5.6895e-07, device='cuda:0', grad_fn=<MulBackward0>), tensor(-0., device='cuda:0', grad_fn=<MulBackward0>), tensor(-0., device='cuda:0', grad_fn=<MulBackward0>), tensor(1.0322e-06, device='cuda:0', grad_fn=<MulBackward0>), tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)]
+mse [tensor(0.4749, device='cuda:0', grad_fn=<MulBackward0>), tensor(0.9046, device='cuda:0', grad_fn=<MulBackward0>), tensor(2.4384e-08, device='cuda:0', grad_fn=<MulBackward0>), tensor(1.1702, device='cuda:0', grad_fn=<MulBackward0>)]
+mse [tensor(1.6256e-08, device='cuda:0', grad_fn=<MulBackward0>), tensor(0.9078, device='cuda:0', grad_fn=<MulBackward0>), tensor(5.1477e-08, device='cuda:0', grad_fn=<MulBackward0>), tensor(1.5164, device='cuda:0', grad_fn=<MulBackward0>)]
+mse [tensor(0.4749, device='cuda:0', grad_fn=<MulBackward0>), tensor(0.9046, device='cuda:0', grad_fn=<MulBackward0>), tensor(2.4384e-08, device='cuda:0', grad_fn=<MulBackward0>), tensor(1.1702, device='cuda:0', grad_fn=<MulBackward0>)]
+mse [tensor(0.5874, device='cuda:0', grad_fn=<MulBackward0>)]
+mse [tensor(0.3375, device='cuda:0', grad_fn=<MulBackward0>), tensor(9.3471e-08, device='cuda:0', grad_fn=<MulBackward0>), tensor(-0., device='cuda:0', grad_fn=<MulBackward0>), tensor(-0., device='cuda:0', grad_fn=<MulBackward0>), tensor(1.4630e-07, device='cuda:0', grad_fn=<MulBackward0>), tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)]
+total_loss [tensor(0.2349, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.7820, device='cuda:0', grad_fn=<AddBackward0>), tensor(1.5489, device='cuda:0', grad_fn=<AddBackward0>), tensor(1.5860, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.0954, device='cuda:0', grad_fn=<AddBackward0>), tensor(1.0200, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.9697, device='cuda:0', grad_fn=<AddBackward0>), tensor(1.0200, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.2349, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.2822, device='cuda:0', grad_fn=<AddBackward0>)]
+total_loss [tensor(0.0392, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1303, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1721, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.3965, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0136, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1275, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1385, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1457, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0392, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0470, device='cuda:0', grad_fn=<DivBackward0>)]
+////
+total_loss [tensor(0.9697, device='cuda:0', grad_fn=<AddBackward0>), tensor(1.8694, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.5708, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.0954, device='cuda:0', grad_fn=<AddBackward0>), tensor(1.0200, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.4237, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.2349, device='cuda:0', grad_fn=<AddBackward0>), tensor(1.5489, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.6049, device='cuda:0', grad_fn=<AddBackward0>), tensor(1.3741, device='cuda:0', grad_fn=<AddBackward0>)]
+total_loss [tensor(0.1212, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.2337, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0815, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0136, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1275, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0530, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0392, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1721, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0756, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1527, device='cuda:0', grad_fn=<DivBackward0>)]
+////
+////l_loss [tensor(0.9697, device='cuda:0', grad_fn=<AddBackward0>), tensor(1.8694, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.5708, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.0954, device='cuda:0', grad_fn=<AddBackward0>), tensor(1.0200, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.4237, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.2349, device='cuda:0', grad_fn=<AddBackward0>), tensor(1.5489, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.6049, device='cuda:0', grad_fn=<AddBackward0>), tensor(1.3741, device='cuda:0', grad_fn=<AddBackward0>)]
+////l_loss [tensor(0.9697, device='cuda:0', grad_fn=<AddBackward0>), tensor(1.8694, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.5708, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.0954, device='cuda:0', grad_fn=<AddBackward0>), tensor(1.0200, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.4237, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.2349, device='cuda:0', grad_fn=<AddBackward0>), tensor(1.5489, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.6049, device='cuda:0', grad_fn=<AddBackward0>), tensor(1.3741, device='cuda:0', grad_fn=<AddBackward0>)]
+mse tensor(0.5708, device='cuda:0', grad_fn=<AddBackward0>)kward0>), tensor(1.8694, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.5708, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.0954, device='cuda:0', grad_fn=<AddBackward0>), tensor(1.0200, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.4237, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.2349, device='cuda:0', grad_fn=<AddBackward0>), tensor(1.5489, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.6049, device='cuda:0', grad_fn=<AddBackward0>), tensor(1.3741, device='cuda:0', grad_fn=<AddBackward0>)]
+mse tensor(0.5708, device='cuda:0', grad_fn=<AddBackward0>)kward0>), tensor(1.8694, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.5708, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.0954, device='cuda:0', grad_fn=<AddBackward0>), tensor(1.0200, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.4237, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.2349, device='cuda:0', grad_fn=<AddBackward0>), tensor(1.5489, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.6049, device='cuda:0', grad_fn=<AddBackward0>), tensor(1.3741, device='cuda:0', grad_fn=<AddBackward0>)]
+////tensor(0.2349, device='cuda:0', grad_fn=<AddBackward0>)kward0>), tensor(1.8694, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.5708, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.0954, device='cuda:0', grad_fn=<AddBackward0>), tensor(1.0200, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.4237, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.2349, device='cuda:0', grad_fn=<AddBackward0>), tensor(1.5489, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.6049, device='cuda:0', grad_fn=<AddBackward0>), tensor(1.3741, device='cuda:0', grad_fn=<AddBackward0>)]
+////tensor(0.2349, device='cuda:0', grad_fn=<AddBackward0>)kward0>), tensor(1.8694, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.5708, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.0954, device='cuda:0', grad_fn=<AddBackward0>), tensor(1.0200, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.4237, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.2349, device='cuda:0', grad_fn=<AddBackward0>), tensor(1.5489, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.6049, device='cuda:0', grad_fn=<AddBackward0>), tensor(1.3741, device='cuda:0', grad_fn=<AddBackward0>)]
+total_loss [tensor(1.0200, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.2349, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.7820, device='cuda:0', grad_fn=<AddBackward0>), tensor(1.0200, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.9697, device='cuda:0', grad_fn=<AddBackward0>), tensor(1.5489, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.9697, device='cuda:0', grad_fn=<AddBackward0>), tensor(6.6958e-05, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.4237, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.2822, device='cuda:0', grad_fn=<AddBackward0>)]
+mse tensor(6.0513e-05, device='cuda:0', grad_fn=<AddBackward0>)d0>), tensor(0.2349, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.7820, device='cuda:0', grad_fn=<AddBackward0>), tensor(1.0200, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.9697, device='cuda:0', grad_fn=<AddBackward0>), tensor(1.5489, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.9697, device='cuda:0', grad_fn=<AddBackward0>), tensor(6.6958e-05, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.4237, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.2822, device='cuda:0', grad_fn=<AddBackward0>)]
+total_loss [tensor(0.3965, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0392, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1212, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0587, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1527, device='cuda:0', grad_fn=<DivBackward0>), tensor(8.3697e-06, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0587, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0136, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1385, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1303, device='cuda:0', grad_fn=<DivBackward0>)]
+m tensor(5.0126e-06, device='cuda:0', grad_fn=<MseLossBackward0>)>), tensor(0.0392, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1212, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0587, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1527, device='cuda:0', grad_fn=<DivBackward0>), tensor(8.3697e-06, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0587, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0136, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1385, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1303, device='cuda:0', grad_fn=<DivBackward0>)]
+m tensor(2.1081e-06, device='cuda:0', grad_fn=<MseLossBackward0>)sBackward0>), None, tensor(1.5179e-05, device='cuda:0', grad_fn=<MseLossBackward0>), None, tensor(7.6222e-06, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(1.0906e-05, device='cuda:0', grad_fn=<MseLossBackward0>)]ackward0>), tensor(8.3697e-06, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0587, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0136, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1385, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1303, device='cuda:0', grad_fn=<DivBackward0>)]
+total_loss [tensor(0.2349, device='cuda:0', grad_fn=<AddBackward0>), tensor(1.0200, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.6049, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.2349, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.9697, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.5708, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.2822, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.9697, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.2349, device='cuda:0', grad_fn=<AddBackward0>), tensor(1.5489, device='cuda:0', grad_fn=<AddBackward0>)]
+total_loss [tensor(0.0587, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1457, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0756, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0587, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1212, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0815, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0470, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1385, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0392, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1721, device='cuda:0', grad_fn=<DivBackward0>)]
+////
+m tensor(5.0126e-06, device='cuda:0', grad_fn=<MseLossBackward0>)
+m list [tensor(2.0677e-05, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(5.0126e-06, device='cuda:0', grad_fn=<MseLossBackward0>), None, tensor(9.6294e-06, device='cuda:0', grad_fn=<MseLossBackward0>), None, tensor(1.3084e-05, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(1.2110e-05, device='cuda:0', grad_fn=<MseLossBackward0>)]
+mse tensor(6.0513e-05, device='cuda:0', grad_fn=<AddBackward0>)
+m tensor(7.6222e-06, device='cuda:0', grad_fn=<MseLossBackward0>)
+m list [None, tensor(2.1102e-05, device='cuda:0', grad_fn=<MseLossBackward0>), None, tensor(1.5179e-05, device='cuda:0', grad_fn=<MseLossBackward0>), None, tensor(7.6222e-06, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(1.0906e-05, device='cuda:0', grad_fn=<MseLossBackward0>)]
+mse tensor(5.4809e-05, device='cuda:0', grad_fn=<AddBackward0>)
+m tensor(1.8786e-06, device='cuda:0', grad_fn=<MseLossBackward0>)
+m list [tensor(1.8786e-06, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0211, device='cuda:0', grad_fn=<MseLossBackward0>)]
+mse tensor(0.0211, device='cuda:0', grad_fn=<AddBackward0>)
+m tensor(8.7609e-08, device='cuda:0', grad_fn=<MseLossBackward0>)
+m list [tensor(8.7609e-08, device='cuda:0', grad_fn=<MseLossBackward0>), None, tensor(0.0484, device='cuda:0', grad_fn=<MseLossBackward0>), None, tensor(0.0491, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0497, device='cuda:0', grad_fn=<MseLossBackward0>)]
+mse tensor(0.1471, device='cuda:0', grad_fn=<AddBackward0>)
+m tensor(7.1081e-06, device='cuda:0', grad_fn=<MseLossBackward0>)
+m list [tensor(1.7582e-05, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(7.1081e-06, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(7.1246e-06, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(1.6449e-05, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(3.8306e-06, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(8.0699e-06, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(6.7209e-06, device='cuda:0', grad_fn=<MseLossBackward0>)]
+mse tensor(6.6885e-05, device='cuda:0', grad_fn=<AddBackward0>)
+m tensor(5.5003e-06, device='cuda:0', grad_fn=<MseLossBackward0>)
+m list [None, tensor(3.3776e-05, device='cuda:0', grad_fn=<MseLossBackward0>), None, tensor(1.3503e-05, device='cuda:0', grad_fn=<MseLossBackward0>), None, tensor(5.5003e-06, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(1.5282e-05, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(2.3625e-05, device='cuda:0', grad_fn=<MseLossBackward0>)]
+mse tensor(9.1686e-05, device='cuda:0', grad_fn=<AddBackward0>)
+m tensor(3.7915e-06, device='cuda:0', grad_fn=<MseLossBackward0>)
+m list [tensor(0.0063, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0022, device='cuda:0', grad_fn=<MseLossBackward0>), None, tensor(3.7915e-06, device='cuda:0', grad_fn=<MseLossBackward0>), None, tensor(0.0021, device='cuda:0', grad_fn=<MseLossBackward0>), None, tensor(0.0083, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(8.3721e-06, device='cuda:0', grad_fn=<MseLossBackward0>)]
+mse tensor(0.0188, device='cuda:0', grad_fn=<AddBackward0>)
+m tensor(2.1081e-06, device='cuda:0', grad_fn=<MseLossBackward0>)sBackward0>), None, tensor(1.5179e-05, device='cuda:0', grad_fn=<MseLossBackward0>), None, tensor(7.6222e-06, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(1.0906e-05, device='cuda:0', grad_fn=<MseLossBackward0>)]ackward0>), tensor(8.3697e-06, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0587, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0136, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1385, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1303, device='cuda:0', grad_fn=<DivBackward0>)]
+m list [tensor(2.1081e-06, device='cuda:0', grad_fn=<MseLossBackward0>)]
+mse tensor(2.1081e-06, device='cuda:0', grad_fn=<AddBackward0>)
+m tensor(2.5676e-06, device='cuda:0', grad_fn=<MseLossBackward0>)
+m list [tensor(6.5408e-06, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(2.5676e-06, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0474, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(3.5614e-06, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(2.1716e-06, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0480, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(9.0466e-06, device='cuda:0', grad_fn=<MseLossBackward0>)]
+mse tensor(0.0954, device='cuda:0', grad_fn=<AddBackward0>)
+m tensor(1.8479e-06, device='cuda:0', grad_fn=<MseLossBackward0>)
+m list [tensor(1.8479e-06, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0220, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0835, device='cuda:0', grad_fn=<MseLossBackward0>)]
+mse tensor(0.1055, device='cuda:0', grad_fn=<AddBackward0>)
+total_loss [tensor(0.4237, device='cuda:0', grad_fn=<AddBackward0>), tensor(1.0200, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.9124, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.7820, device='cuda:0', grad_fn=<AddBackward0>), tensor(6.6958e-05, device='cuda:0', grad_fn=<AddBackward0>), tensor(1.8694, device='cuda:0', grad_fn=<AddBackward0>), tensor(1.3741, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.2349, device='cuda:0', grad_fn=<AddBackward0>), tensor(0.0954, device='cuda:0', grad_fn=<AddBackward0>), tensor(1.5860, device='cuda:0', grad_fn=<AddBackward0>)]
+total_loss [tensor(0.0530, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1275, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.2281, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1303, device='cuda:0', grad_fn=<DivBackward0>), tensor(8.3697e-06, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.2337, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1527, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0392, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0136, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.3965, device='cuda:0', grad_fn=<DivBackward0>)]
+////
+loss []
+tl tensor(0.1349, device='cuda:0', grad_fn=<DivBackward0>)
+loss []
+tl tensor(0.0914, device='cuda:0', grad_fn=<DivBackward0>)
+testing loss [tensor(0.0914, device='cuda:0', grad_fn=<DivBackward0>)]
+avg testing loss tensor(0.0914, device='cuda:0', grad_fn=<DivBackward0>)
+batch idx 0
+batch idx 1
+loss []
+tl tensor(0.1276, device='cuda:0', grad_fn=<DivBackward0>)
+testing loss [tensor(0.1276, device='cuda:0', grad_fn=<DivBackward0>)]
+avg testing loss tensor(0.1276, device='cuda:0', grad_fn=<DivBackward0>)
+batch idx 0
+loss []
+tl tensor(0.1121, device='cuda:0', grad_fn=<DivBackward0>)
+batch idx 1
+loss [tensor(0.1121, device='cuda:0', grad_fn=<DivBackward0>)]
+tl tensor(0.1192, device='cuda:0', grad_fn=<DivBackward0>)
+testing loss [tensor(0.1121, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1192, device='cuda:0', grad_fn=<DivBackward0>)]
+avg testing loss tensor(0.1156, device='cuda:0', grad_fn=<DivBackward0>)
+batch idx 0
+total_loss tensor(0.1001, device='cuda:0', grad_fn=<DivBackward0>)
+loss []
+tl tensor(0.1001, device='cuda:0', grad_fn=<DivBackward0>)
+batch idx 1
+total_loss tensor(0.1312, device='cuda:0', grad_fn=<DivBackward0>)
+loss [tensor(0.1001, device='cuda:0', grad_fn=<DivBackward0>)]
+tl tensor(0.1312, device='cuda:0', grad_fn=<DivBackward0>)
+testing loss [tensor(0.1001, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1312, device='cuda:0', grad_fn=<DivBackward0>)]
+avg testing loss tensor(0.1156, device='cuda:0', grad_fn=<DivBackward0>)
+batch idx 0
+total_loss tensor(0.1303, device='cuda:0', grad_fn=<DivBackward0>)
+batch idx 1
+total_loss tensor(0.1010, device='cuda:0', grad_fn=<DivBackward0>)
+testing loss [tensor(0.1303, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.1010, device='cuda:0', grad_fn=<DivBackward0>)]
+avg testing loss tensor(0.1156, device='cuda:0', grad_fn=<DivBackward0>)
+0 tensor([[0.8005, 0.8001, 0.7998, 1.0007]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+1 tensor([[0.4006, 0.4000, 0.4007, 0.6666]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+2 tensor([[0.8002, 0.7995, 0.7999, 1.0001]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+3 tensor([[0.2003, 0.2006, 0.2004, 0.3342]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+4 tensor([[0.5999, 0.6003, 0.6003, 0.6667]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+5 tensor([[0.0003, 0.0003, 0.0002, 0.0003]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+6 tensor([[0.9997, 1.0001, 0.9995, 0.6660]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+7 tensor([[0.4003, 0.3998, 0.4005, 0.3343]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+8 tensor([[1.0000, 0.9997, 0.9999, 0.6667]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+5 0 4
+5 0 4
+tensor([[0.4006, 0.4000, 0.4007, 0.6666]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+tensor([[0.2003, 0.2006, 0.2004, 0.3342]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+tensor([[0.0003, 0.0003, 0.0002, 0.0003]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+tensor([[0.4003, 0.3998, 0.4005, 0.3343]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+////
+tensor([0.4000, 0.4000, 0.4000, 0.6667], device='cuda:0')
+tensor([0.2000, 0.2000, 0.2000, 0.3333], device='cuda:0')
+tensor([0., 0., 0., 0.], device='cuda:0')
+tensor([0.4000, 0.4000, 0.4000, 0.3333], device='cuda:0')
+tensor([[0.8005, 0.8001, 0.7998, 1.0007]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+tensor([[0.8002, 0.7995, 0.7999, 1.0001]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+tensor([[0.5999, 0.6003, 0.6003, 0.6667]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+tensor([[0.9997, 1.0001, 0.9995, 0.6660]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+tensor([[1.0000, 0.9997, 0.9999, 0.6667]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+tensor([0.8000, 0.8000, 0.8000, 1.0000], device='cuda:0')
+tensor([0.8000, 0.8000, 0.8000, 1.0000], device='cuda:0')
+tensor([0.6000, 0.6000, 0.6000, 0.6667], device='cuda:0')
+tensor([1.0000, 1.0000, 1.0000, 0.6667], device='cuda:0')
+tensor([1.0000, 1.0000, 1.0000, 0.6667], device='cuda:0')
+batch idx 0
+20
+[8, 8, 8, 8, 6, 6, 7, 6, 7, 9, 4, 7, 7, 9, 4, 6, 4, 8, 4, 8]
+6.7
+4.0
+0.4
+2.3
+4.0
+0.4
+2.3
+4.0
+1
+2.3
+batch idx 0
+ss []
+ss [tensor(0.0303, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0069, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0298, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0017, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0158, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0072, device='cuda:0', grad_fn=<MseLossBackward0>)]
+ss [tensor(0.0303, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0069, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0298, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0017, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0158, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0072, device='cuda:0', grad_fn=<MseLossBackward0>)]
+ss []
+ss []
+ss [tensor(0.0298, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0066, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0295, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0016, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0155, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0070, device='cuda:0', grad_fn=<MseLossBackward0>)]
+tensor([0.2500, 1.0000, 0.5000], device='cuda:0')
+batch idx 0
+ce tensor(5.1688, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(2.1081e-06, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(2.1458e-07, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(7.6222e-06, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(5.1490, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0072, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0017, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(4.5775e-06, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0158, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(1.6689e-07, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0069, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0298, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0303, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(5.0126e-06, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0073, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(3.0398e-06, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(1.2110e-05, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(1.0268, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0464, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(5.2341, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0016, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(5.1688, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(2.1081e-06, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(2.3842e-08, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(3.7915e-06, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(3.8147e-07, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(2.2551e-05, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(8.3721e-06, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(2.8622, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0293, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(2.5272e-06, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(2.5128e-05, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(4.4483e-05, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(4.6717, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0275, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(6.4506e-06, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0069, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(5.8412e-07, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(1.8220e-05, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(1.1960, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0478, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(2.5294, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0016, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0088, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(2.1458e-07, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(7.6222e-06, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(5.1490, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0072, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0017, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(4.5775e-06, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0158, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(1.6689e-07, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0069, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0298, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0303, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(2.6226e-07, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(1.0455e-05, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(2.7656e-06, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(5.0819e-05, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(1.3697e-05, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(1.6774e-05, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(7.1526e-08, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(3.4544e-05, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(6.8056e-05, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(8.8432e-05, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(1.0721e-05, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(9.4727e-06, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(4.5299e-07, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(6.2077e-06, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(6.6723, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0074, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0017, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(1.2522, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0158, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(2.9112, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0069, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(5.0938, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(1.8786e-06, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(7.2575, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0035, device='cuda:0', grad_fn=<MseLossBackward0>)
+ss []
+ss [tensor(0.0303, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0069, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0298, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0017, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0158, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0072, device='cuda:0', grad_fn=<MseLossBackward0>)]
+batch idx 0
+ce tensor(2.9703, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(6.6667e-08, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0179, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(1.3034, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0499, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(2.7418e-07, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.1912, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(5.1688, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(2.1081e-06, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(4.5299e-07, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(6.2077e-06, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(6.6723, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0074, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0017, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(1.2522, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0158, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(2.9112, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0069, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(6.4506e-06, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0069, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(5.8412e-07, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(1.8220e-05, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(1.1960, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0478, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(2.5294, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0016, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0088, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(2.3842e-08, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(3.7915e-06, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(3.8147e-07, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(2.2551e-05, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(8.3721e-06, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(2.8622, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0293, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(2.5272e-06, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(2.5128e-05, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(4.4483e-05, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(4.6717, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0275, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(5.1688, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(2.1081e-06, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(4.5299e-07, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(6.2077e-06, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(6.6723, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0074, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0017, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(1.2522, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0158, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(2.9112, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0069, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(5.1688, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(2.1081e-06, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(3.1398e-06, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0075, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(4.1842e-06, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0474, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(1.4742, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.1885, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(7.7020, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0018, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(5.0126e-06, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0073, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(3.0398e-06, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(1.2110e-05, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(1.0268, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0464, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(5.2341, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0016, device='cuda:0', grad_fn=<MseLossBackward0>)
+ss [tensor(0.1912, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0179, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0499, device='cuda:0', grad_fn=<MseLossBackward0>)]
+ss []
+ss [tensor(0.0069, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0017, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0158, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0074, device='cuda:0', grad_fn=<MseLossBackward0>)]
+ss [tensor(0.0016, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0088, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0478, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0069, device='cuda:0', grad_fn=<MseLossBackward0>)]
+ss [tensor(0.0275, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0293, device='cuda:0', grad_fn=<MseLossBackward0>)]
+ss []
+ss [tensor(0.0069, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0017, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0158, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0074, device='cuda:0', grad_fn=<MseLossBackward0>)]
+ss []
+ss [tensor(0.0018, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.1885, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0075, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0474, device='cuda:0', grad_fn=<MseLossBackward0>)]
+ss [tensor(0.0016, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0464, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0073, device='cuda:0', grad_fn=<MseLossBackward0>)]
+total_loss tensor(0.0893, device='cuda:0', grad_fn=<DivBackward0>)
+batch idx 1
+ce tensor(4.0841, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(1.8479e-06, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(2.5982, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0038, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0835, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(5.0938, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(1.8786e-06, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(7.2575, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0035, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(1.6689e-07, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(5.5003e-06, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(2.9946, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0070, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(2.3625e-05, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0016, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(8.2254e-07, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0155, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(2.1458e-07, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0066, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0295, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0298, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(2.5676e-06, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0077, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(1.1101, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0480, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(1.6689e-06, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.1885, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(7.8572, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0018, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(5.1688, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(2.1081e-06, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(2.1458e-07, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(7.6222e-06, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(5.1490, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0072, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0017, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(4.5775e-06, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0158, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(1.6689e-07, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0069, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0298, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0303, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(2.6226e-07, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(1.0455e-05, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(2.7656e-06, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(5.0819e-05, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(1.3697e-05, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(1.6774e-05, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(7.1526e-08, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(3.4544e-05, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(6.8056e-05, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(8.8432e-05, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(1.0721e-05, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(9.4727e-06, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(3.4518, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(8.7609e-08, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0182, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(2.5868e-06, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0497, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(1.3923, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.1905, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(2.1458e-07, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(7.6222e-06, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(5.1490, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0072, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0017, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(4.5775e-06, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0158, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(1.6689e-07, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0069, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0298, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0303, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(7.1081e-06, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0074, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(1.2859, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(8.0699e-06, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0465, device='cuda:0', grad_fn=<MseLossBackward0>)
+ce tensor(6.6809, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0017, device='cuda:0', grad_fn=<MseLossBackward0>)
+ss [tensor(0.0038, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0835, device='cuda:0', grad_fn=<MseLossBackward0>)]
+ss [tensor(0.0035, device='cuda:0', grad_fn=<MseLossBackward0>)]
+ss [tensor(0.0298, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0066, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0295, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0016, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0155, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0070, device='cuda:0', grad_fn=<MseLossBackward0>)]
+ss [tensor(0.0018, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.1885, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0077, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0480, device='cuda:0', grad_fn=<MseLossBackward0>)]
+ss []
+ss [tensor(0.0303, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0069, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0298, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0017, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0158, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0072, device='cuda:0', grad_fn=<MseLossBackward0>)]
+ss []
+ss [tensor(0.1905, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0182, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0497, device='cuda:0', grad_fn=<MseLossBackward0>)]
+ss [tensor(0.0303, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0069, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0298, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0017, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0158, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0072, device='cuda:0', grad_fn=<MseLossBackward0>)]
+ss [tensor(0.0017, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0465, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0074, device='cuda:0', grad_fn=<MseLossBackward0>)]
+total_loss tensor(0.0853, device='cuda:0', grad_fn=<DivBackward0>)
+testing loss [tensor(0.0893, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0853, device='cuda:0', grad_fn=<DivBackward0>)]
+avg testing loss tensor(0.0873, device='cuda:0', grad_fn=<DivBackward0>)
+tensor([0.2500, 1.0000, 0.5000], device='cuda:0')
+epoch 6775
+batch idx 0
+original [0, 0, 1]
+clasificador tensor([[-18.7350,   2.4165,  18.6970]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(2.3842e-08, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(3.7915e-06, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [0, 0, 1]
+clasificador tensor([[-19.3550,   4.0368,  17.2137]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(3.8147e-07, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(2.2551e-05, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [1, 0, 0]
+clasificador tensor([[ 17.4861,  -6.8901, -11.6078]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(8.3721e-06, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [1, 0, 0]
+clasificador tensor([[-10.5089,  -4.9313,  18.1129]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(2.8622, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0293, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [0, 0, 1]
+clasificador tensor([[-8.3909, -0.8117, 10.4713]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(2.5272e-06, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(2.5128e-05, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [1, 0, 0]
+clasificador tensor([[13.8192, -6.1803, -8.5625]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(4.4483e-05, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [0, 0, 1]
+clasificador tensor([[15.1102, -7.7261, -8.2482]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(4.6717, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0275, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [0, 0, 1]
+clasificador tensor([[ 12.9049,  -1.6371, -12.9391]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(5.1688, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(2.1081e-06, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [0, 0, 1]
+clasificador tensor([[ 12.9049,  -1.6371, -12.9391]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(5.1688, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(2.1081e-06, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [0, 0, 1]
+clasificador tensor([[-14.4532,  -2.4602,  20.1174]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(2.5676e-06, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [0, 0, 1]
+clasificador tensor([[-18.9732,   1.3703,  20.7466]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0077, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [1, 0, 0]
+clasificador tensor([[-0.2169, -9.7661, 10.8841]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(1.1101, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0480, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [1, 0, 0]
+clasificador tensor([[ 10.3369, -10.0717,  -0.6666]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(1.6689e-06, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.1885, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [0, 0, 1]
+clasificador tensor([[ 19.4135,  -2.3084, -19.8723]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(7.8572, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0018, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [0, 0, 1]
+clasificador tensor([[ 12.9049,  -1.6371, -12.9391]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(5.1688, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(2.1081e-06, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [0, 0, 1]
+clasificador tensor([[-18.9060,   3.8834,  16.8912]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(4.5299e-07, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(6.2077e-06, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [0, 0, 1]
+clasificador tensor([[ 16.0322,  -1.0269, -17.3293]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(6.6723, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0074, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [0, 0, 1]
+clasificador tensor([[-18.6569,   0.8022,  21.2879]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0017, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [1, 0, 0]
+clasificador tensor([[-0.9547, -9.5878, 11.5677]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(1.2522, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0158, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [0, 0, 1]
+clasificador tensor([[11.9001, -9.7597, -2.6559]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(2.9112, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0069, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [0, 0, 1]
+clasificador tensor([[-12.1123,  16.9088,  -3.5119]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(4.0841, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(1.8479e-06, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [0, 0, 1]
+clasificador tensor([[-9.5809, 11.5513, -1.4395]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(2.5982, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0038, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [1, 0, 0]
+clasificador tensor([[ 20.3379,  -3.9219, -18.4791]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0835, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [0, 0, 1]
+clasificador tensor([[-17.6989,   0.8208,  19.7864]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(5.0126e-06, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [0, 0, 1]
+clasificador tensor([[-19.2522,   1.9800,  20.1014]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0073, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [1, 0, 0]
+clasificador tensor([[ 9.8303, -9.5666, -0.5708]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(3.0398e-06, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(1.2110e-05, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [1, 0, 0]
+clasificador tensor([[-0.1812, -9.0242, 10.0867]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(1.0268, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0464, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [0, 0, 1]
+clasificador tensor([[ 11.8208,   0.6538, -14.3497]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(5.2341, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0016, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [0, 0, 1]
+clasificador tensor([[-19.1496,   2.2113,  19.6088]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(6.4506e-06, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [0, 0, 1]
+clasificador tensor([[-19.6210,   2.3355,  20.0181]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0069, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [1, 0, 0]
+clasificador tensor([[10.4682, -9.2435, -1.5903]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(5.8412e-07, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(1.8220e-05, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [1, 0, 0]
+clasificador tensor([[-0.9974, -8.9432, 10.9623]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(1.1960, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0478, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [0, 0, 1]
+clasificador tensor([[-4.0908,  8.3273, -4.3199]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(2.5294, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0016, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [1, 0, 0]
+clasificador tensor([[ 19.5097,  -3.3639, -18.3538]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0088, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [0, 0, 1]
+clasificador tensor([[-15.0729,  -1.4270,  19.4910]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(3.1398e-06, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [0, 0, 1]
+clasificador tensor([[-19.8325,   2.7708,  19.5927]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0075, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [1, 0, 0]
+clasificador tensor([[  9.8661, -10.0111,  -0.2146]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(4.1842e-06, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0474, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [1, 0, 0]
+clasificador tensor([[-2.3444, -8.7968, 12.3979]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(1.4742, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.1885, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [0, 0, 1]
+clasificador tensor([[ 18.9463,  -2.1070, -19.5638]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(7.7020, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0018, device='cuda:0', grad_fn=<MseLossBackward0>)
+ss [tensor(0.0275, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0293, device='cuda:0', grad_fn=<MseLossBackward0>)]
+ss []
+ss []
+ss [tensor(0.0018, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.1885, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0077, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0480, device='cuda:0', grad_fn=<MseLossBackward0>)]
+ss []
+ss [tensor(0.0069, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0017, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0158, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0074, device='cuda:0', grad_fn=<MseLossBackward0>)]
+ss [tensor(0.0038, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0835, device='cuda:0', grad_fn=<MseLossBackward0>)]
+ss [tensor(0.0016, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0464, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0073, device='cuda:0', grad_fn=<MseLossBackward0>)]
+ss [tensor(0.0016, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0088, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0478, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0069, device='cuda:0', grad_fn=<MseLossBackward0>)]
+ss [tensor(0.0018, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.1885, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0075, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0474, device='cuda:0', grad_fn=<MseLossBackward0>)]
+total_loss tensor(0.0911, device='cuda:0', grad_fn=<DivBackward0>)
+batch idx 1
+original [0, 0, 1]
+clasificador tensor([[-19.9908,   4.1836,  17.6996]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(2.6226e-07, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(1.0455e-05, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [0, 0, 1]
+clasificador tensor([[-2.6630, -5.0354,  8.6151]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(2.7656e-06, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(5.0819e-05, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [1, 0, 0]
+clasificador tensor([[ 15.3449,  -6.0923, -10.2543]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(1.3697e-05, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [1, 0, 0]
+clasificador tensor([[ 17.2843,  -7.2162, -11.0593]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(1.6774e-05, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [0, 0, 1]
+clasificador tensor([[-20.4542,   3.8673,  18.6342]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(7.1526e-08, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(3.4544e-05, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [1, 0, 0]
+clasificador tensor([[15.8725, -7.3484, -9.4457]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(6.8056e-05, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [0, 0, 1]
+clasificador tensor([[-12.2520,  -3.9670,  19.1976]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(8.8432e-05, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [1, 0, 0]
+clasificador tensor([[ 20.5728,  -9.2333, -11.9947]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(1.0721e-05, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [1, 0, 0]
+clasificador tensor([[ 20.5283,  -9.8285, -11.2791]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(9.4727e-06, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [0, 0, 1]
+clasificador tensor([[-6.0738, 11.6637, -5.5953]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(3.4518, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(8.7609e-08, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [0, 0, 1]
+clasificador tensor([[-19.6525,   2.5522,  19.7023]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0182, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [1, 0, 0]
+clasificador tensor([[ 9.7929, -9.3831, -0.7694]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(2.5868e-06, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0497, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [1, 0, 0]
+clasificador tensor([[-2.0224, -8.6914, 11.9003]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(1.3923, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.1905, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [0, 0, 1]
+clasificador tensor([[-17.2416,   0.0351,  20.3607]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(7.1081e-06, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [0, 0, 1]
+clasificador tensor([[-18.0882,   0.2414,  21.3582]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0074, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [1, 0, 0]
+clasificador tensor([[-1.2760, -9.2053, 11.5829]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(1.2859, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(8.0699e-06, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [1, 0, 0]
+clasificador tensor([[14.0870, -9.4507, -5.2672]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0465, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [0, 0, 1]
+clasificador tensor([[ 15.6453,  -0.3754, -17.7594]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(6.6809, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0017, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [0, 0, 1]
+clasificador tensor([[  0.0482,  12.2940, -13.1751]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(5.0938, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(1.8786e-06, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [0, 0, 1]
+clasificador tensor([[ 15.7863,   1.3669, -20.5011]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(7.2575, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0035, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [0, 0, 1]
+clasificador tensor([[ 12.9049,  -1.6371, -12.9391]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(5.1688, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(2.1081e-06, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [0, 0, 1]
+clasificador tensor([[-19.7591,   3.8914,  17.8565]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(1.6689e-07, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(5.5003e-06, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [0, 0, 1]
+clasificador tensor([[-2.9595,  8.8761, -6.0969]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(2.9946, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0070, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [1, 0, 0]
+clasificador tensor([[ 20.2128,  -3.9897, -18.2227]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(2.3625e-05, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [0, 0, 1]
+clasificador tensor([[-19.4339,   1.9612,  20.3966]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0016, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [1, 0, 0]
+clasificador tensor([[10.3868, -9.4665, -1.3283]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(8.2254e-07, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0155, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [0, 0, 1]
+clasificador tensor([[-1.8673, -8.7965, 11.8286]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(2.1458e-07, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0066, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [1, 0, 0]
+clasificador tensor([[ 21.3673,  -8.2753, -13.7795]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0295, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [1, 0, 0]
+clasificador tensor([[ 20.8871,  -9.8954, -11.5090]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0298, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [0, 0, 1]
+clasificador tensor([[-18.6766,   3.4800,  17.1963]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(2.1458e-07, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(7.6222e-06, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [0, 0, 1]
+clasificador tensor([[ 11.8959,   0.2166, -13.8491]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(5.1490, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0072, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [0, 0, 1]
+clasificador tensor([[-19.3364,   1.8373,  20.4678]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0017, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [1, 0, 0]
+clasificador tensor([[ 9.6869, -9.7300, -0.3038]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(4.5775e-06, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0158, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [0, 0, 1]
+clasificador tensor([[-2.0776, -8.5853, 11.8539]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(1.6689e-07, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0069, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [1, 0, 0]
+clasificador tensor([[ 21.3956,  -8.2023, -13.8893]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0298, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [1, 0, 0]
+clasificador tensor([[ 20.7893,  -9.9973, -11.3109]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0303, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [0, 0, 1]
+clasificador tensor([[-18.6766,   3.4800,  17.1963]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(2.1458e-07, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(7.6222e-06, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [0, 0, 1]
+clasificador tensor([[ 11.8959,   0.2166, -13.8491]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(5.1490, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0072, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [0, 0, 1]
+clasificador tensor([[-19.3364,   1.8373,  20.4678]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0017, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [1, 0, 0]
+clasificador tensor([[ 9.6869, -9.7300, -0.3038]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(4.5775e-06, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0158, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [0, 0, 1]
+clasificador tensor([[-2.0776, -8.5853, 11.8539]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(1.6689e-07, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0069, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [1, 0, 0]
+clasificador tensor([[ 21.3956,  -8.2023, -13.8893]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0298, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [1, 0, 0]
+clasificador tensor([[ 20.7893,  -9.9973, -11.3109]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0303, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [0, 0, 1]
+clasificador tensor([[-3.7581,  9.1406, -5.7107]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(2.9703, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(6.6667e-08, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [0, 0, 1]
+clasificador tensor([[-18.7028,   1.0433,  20.9023]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0179, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [1, 0, 0]
+clasificador tensor([[-1.4444, -9.0542, 11.5891]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(1.3034, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0499, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [1, 0, 0]
+clasificador tensor([[11.0057, -9.6421, -1.8187]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(2.7418e-07, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.1912, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [0, 0, 1]
+clasificador tensor([[-18.9060,   3.8834,  16.8912]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(4.5299e-07, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(6.2077e-06, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [0, 0, 1]
+clasificador tensor([[ 16.0322,  -1.0269, -17.3293]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(6.6723, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0074, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [0, 0, 1]
+clasificador tensor([[-18.6569,   0.8022,  21.2879]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(-0., device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0017, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [1, 0, 0]
+clasificador tensor([[-0.9547, -9.5878, 11.5677]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(1.2522, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0158, device='cuda:0', grad_fn=<MseLossBackward0>)
+original [0, 0, 1]
+clasificador tensor([[11.9001, -9.7597, -2.6559]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)
+ce tensor(2.9112, device='cuda:0', grad_fn=<MulBackward0>)
+mse tensor(0.0069, device='cuda:0', grad_fn=<MseLossBackward0>)
+ss []
+ss [tensor(0.1905, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0182, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0497, device='cuda:0', grad_fn=<MseLossBackward0>)]
+ss [tensor(0.0017, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0465, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0074, device='cuda:0', grad_fn=<MseLossBackward0>)]
+ss [tensor(0.0035, device='cuda:0', grad_fn=<MseLossBackward0>)]
+ss []
+ss [tensor(0.0298, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0066, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0295, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0016, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0155, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0070, device='cuda:0', grad_fn=<MseLossBackward0>)]
+ss [tensor(0.0303, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0069, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0298, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0017, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0158, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0072, device='cuda:0', grad_fn=<MseLossBackward0>)]
+ss [tensor(0.0303, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0069, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0298, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0017, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0158, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0072, device='cuda:0', grad_fn=<MseLossBackward0>)]
+ss [tensor(0.1912, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0179, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0499, device='cuda:0', grad_fn=<MseLossBackward0>)]
+ss [tensor(0.0069, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0017, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0158, device='cuda:0', grad_fn=<MseLossBackward0>), tensor(0.0074, device='cuda:0', grad_fn=<MseLossBackward0>)]
+total_loss tensor(0.0836, device='cuda:0', grad_fn=<DivBackward0>)
+testing loss [tensor(0.0911, device='cuda:0', grad_fn=<DivBackward0>), tensor(0.0836, device='cuda:0', grad_fn=<DivBackward0>)]
+avg testing loss tensor(0.0873, device='cuda:0', grad_fn=<DivBackward0>)
+original [0, 0, 1]
+         -4.5896e-02, -3.9577e-02, -6.5111e-02,  2.8342e-02,  6.7401e-02,
+          1.2591e-02, -1.1757e-02,  7.1108e-02, -3.8694e-02,  2.4299e-02,
+          3.2978e-02,  1.0659e-03, -4.0893e-02, -1.3799e-02,  1.9735e-02,
+         -1.0978e-02, -1.3303e-02]], device='cuda:0', grad_fn=<TanhBackward0>)
+20
+[4, 4, 5, 6, 4, 7, 6, 3, 5, 5, 4, 5, 4, 3, 6, 3, 5, 3, 5, 6]
+4.65
+2.85
+0.6
+1.2
+2.85
+0.6
+1.2
+tensor([0.3333, 1.0000, 1.0000], device='cuda:0')
+n_nodes 6
+<__main__.Node object at 0x000001EA6F377B80>
+tree level 11
+<__main__.Node object at 0x000001EA6FC97EE0>
+tree level 6
+<__main__.Node object at 0x000001EA91C9DAE0>
+tree level 8
+<__main__.Node object at 0x000001EA6FC956F0>
+tree level 11
+<__main__.Node object at 0x000001EA6FC96110>
+tree level 11
+<__main__.Node object at 0x000001EA91C9DC60>
+tree level 14
+<__main__.Node object at 0x000001EA91C9C3D0>
+tree level 17
+<__main__.Node object at 0x000001EA91C9E800>
+tree level 8
+<__main__.Node object at 0x000001EA91C9DFC0>
+tree level 8
+<__main__.Node object at 0x000001EA91C9F4C0>
+tree level 14
+<__main__.Node object at 0x000001EA91C9F040>
+tree level 6
+<__main__.Node object at 0x000001EA91C9D6F0>
+tree level 14
+<__main__.Node object at 0x000001EA6FC95240>
+tree level 11
+<__main__.Node object at 0x000001EA6FC946A0>
+tree level 11
+<__main__.Node object at 0x000001EA91C9EA40>
+tree level 9
+<__main__.Node object at 0x000001EA6FC97820>
+tree level 6
+<__main__.Node object at 0x000001EA6FC96590>
+tree level 14
+<__main__.Node object at 0x000001EA6FC954B0>
+tree level 11
+<__main__.Node object at 0x000001EA91C9EF80>
+tree level 8
+<__main__.Node object at 0x000001EA91C9CE80>
+tree level 6
+         -4.5896e-02, -3.9577e-02, -6.5111e-02,  2.8342e-02,  6.7401e-02,

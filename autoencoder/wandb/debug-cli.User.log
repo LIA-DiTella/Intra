@@ -12,3 +12,9 @@ NoneType: None
 NoneType: None
 2022-12-01 11:54:27 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/paufeldman/autoencoder4/1dldtbkg/file_stream
 NoneType: None
+2022-12-05 11:12:10 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/paufeldman/autoencoder4/m3zrnzpg/file_stream
+NoneType: None
+2022-12-05 11:13:18 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/paufeldman/autoencoder4/m3zrnzpg/file_stream
+NoneType: None
+2022-12-05 11:13:48 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/paufeldman/autoencoder4/m3zrnzpg/file_stream
+NoneType: None
